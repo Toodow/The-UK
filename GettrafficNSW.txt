@@ -1,0 +1,1200 @@
+1308216907800043521 2020-09-22 09:29:50 +0800 <GettrafficNSW> Campsie - accident bothways at Canterbury Rd
+1308215868002725890 2020-09-22 09:25:43 +0800 <GettrafficNSW> Colebee - accident bothways Richmond Rd at Simmons Rd
+1308197275441659904 2020-09-22 08:11:50 +0800 <GettrafficNSW> Seaforth - roadwork eastbound at Manly Rd
+1308194414267781120 2020-09-22 08:00:28 +0800 <GettrafficNSW> Kogarah - breakdown citybound Princes Highway at South St
+1308187658775011328 2020-09-22 07:33:37 +0800 <GettrafficNSW> Belrose - accident citybound Forest Way at Daws Rd
+1308186471191343104 2020-09-22 07:28:54 +0800 <GettrafficNSW> Rozelle - roadwork westbound Victoria Rd at Terry St
+1308184899304611841 2020-09-22 07:22:39 +0800 <GettrafficNSW> Brookvale - slow traffic northbound Pittwater Rd at Old Pittwater Rd
+1308181905452408835 2020-09-22 07:10:45 +0800 <GettrafficNSW> Homebush West - accident westbound Parramatta Rd at Birnie Ave
+1308174593018925056 2020-09-22 06:41:42 +0800 <GettrafficNSW> Narraweena, Beacon Hill - traffic busy westbound Warringah Road approaching Beacon Hill Road
+1308174238990266368 2020-09-22 06:40:17 +0800 <GettrafficNSW> Narrabeen - slow traffic northbound Pittwater Rd approaching North Narrabeen
+1308174029233168385 2020-09-22 06:39:27 +0800 <GettrafficNSW> Kensington - slow traffic citybound at Anzac Parade
+1308173719978700800 2020-09-22 06:38:14 +0800 <GettrafficNSW> Rookwood - traffic congested   northbound Centenary Dr at Arthur St
+1308173705273466881 2020-09-22 06:38:10 +0800 <GettrafficNSW> Clyde - traffic congestion citybound Parramatta Rd at James Ruse Dr
+1308173685069471744 2020-09-22 06:38:05 +0800 <GettrafficNSW> Minchinbury - traffic moving well citybound M4 at Roper Rd
+1308173648520380417 2020-09-22 06:37:57 +0800 <GettrafficNSW> Wahroonga - traffic moving well southbound M1 at Pacific Highway
+1308173624969293824 2020-09-22 06:37:51 +0800 <GettrafficNSW> Kellyville - slow traffic southbound Old Windsor Rd at Memorial Ave
+1308173583563149312 2020-09-22 06:37:41 +0800 <GettrafficNSW> Thornleigh - traffic congestion bothways Pennant Hills Rd at Comenarra Parkway
+1308173559194296321 2020-09-22 06:37:35 +0800 <GettrafficNSW> Drummoyne - traffic congestion citybound Victoria Rd at Lyons Rd
+1308173533986451456 2020-09-22 06:37:29 +0800 <GettrafficNSW> Rhodes - traffic moderate northbound Concord Rd at Ryde Bridge
+1308173509873541124 2020-09-22 06:37:24 +0800 <GettrafficNSW> Rozelle - traffic slow citybound City West Link at The Crescent
+1308173486066552832 2020-09-22 06:37:18 +0800 <GettrafficNSW> North Sydney - traffic moving well southbound Warringah Fwy at Falcon St
+1308173460258975744 2020-09-22 06:37:12 +0800 <GettrafficNSW> Seaforth - slow traffic northbound Spit Rd at Spit Bridge
+1308173430462668800 2020-09-22 06:37:05 +0800 <GettrafficNSW> Frenchs Forest - traffic busy all directions Warringah Rd at Wakehurst Parkway
+1308173410678136833 2020-09-22 06:37:00 +0800 <GettrafficNSW> Turramurra - traffic heavy southbound Pacific Hwy at Kissing Point Rd
+1308173394924302336 2020-09-22 06:36:56 +0800 <GettrafficNSW> Chatswood - traffic moderate southbound Pacific Highway at Fullers Rd
+1308173382978994177 2020-09-22 06:36:53 +0800 <GettrafficNSW> Kyeemagh - slow traffic northbound The Grand Parade at Bestic St
+1308173276602982402 2020-09-22 06:36:28 +0800 <GettrafficNSW> Campsie - traffic congestion citybound Canterbury Rd at Wonga St
+1308170633675636736 2020-09-22 06:25:58 +0800 <GettrafficNSW> Casula - slow traffic citybound Hume Motorway merging w M5
+1308169013051097088 2020-09-22 06:19:31 +0800 <GettrafficNSW> Pennant Hills - brokendown semi northbound Pennant Hills Rd at Boundary Rd
+1308168559185412096 2020-09-22 06:17:43 +0800 <GettrafficNSW> Sydney - slow traffic northbound Western Distributor approaching Sydney Harbour Bridge
+1308168197657378816 2020-09-22 06:16:17 +0800 <GettrafficNSW> Homebush West - heavy traffic bothways Centenary Drive approaching Arthur St
+1308167972842684416 2020-09-22 06:15:23 +0800 <GettrafficNSW> Darlinghurst - traffic busy citybound William St between Cross City Tunnel Exit and Bourke St
+1308164879400927232 2020-09-22 06:03:06 +0800 <GettrafficNSW> Brighton Le Sands - traffic congested   citybound The Grand Parade approaching General Holmes Drive &amp; The Airport Tunnel
+1308164681291321344 2020-09-22 06:02:19 +0800 <GettrafficNSW> Woronora - slow traffic eastbound Woronora Bridge approaching Sutherland
+1308164504002330624 2020-09-22 06:01:36 +0800 <GettrafficNSW> Engadine - slow traffic citybound Princes Highway approaching Anzac Ave
+1308164283591618560 2020-09-22 06:00:44 +0800 <GettrafficNSW> Bankstown - traffic slow northbound Stacey St at Macauley Ave
+1308162832429539329 2020-09-22 05:54:58 +0800 <GettrafficNSW> Strathfield - brokendown truck southbound Centenary Drive at Weeroona Rd
+1308161782746238976 2020-09-22 05:50:48 +0800 <GettrafficNSW> Five Dock - traffic moving well citybound Parramatta Rd at Great North Rd
+1308161701796175872 2020-09-22 05:50:28 +0800 <GettrafficNSW> Leichhardt - traffic heavy citybound Parramatta Rd at Norton St
+1308161679109140480 2020-09-22 05:50:23 +0800 <GettrafficNSW> Camperdown - traffic moving well citybound Parramatta Rd at Missenden Rd
+1308161665586745344 2020-09-22 05:50:20 +0800 <GettrafficNSW> Roselands - traffic heavy citybound Canterbury Rd at King Georges Rd
+1308161648847286272 2020-09-22 05:50:16 +0800 <GettrafficNSW> Bankstown - traffic busy citybound Canterbury Rd at Fairford Rd
+1308161622649630720 2020-09-22 05:50:09 +0800 <GettrafficNSW> Bankstown - traffic busy northbound Fairford Rd at Macauley Ave
+1308161529833910272 2020-09-22 05:49:47 +0800 <GettrafficNSW> Milperra - traffic moderate northbound Henry Lawson Dr at Milperra Rd
+1308161487634984960 2020-09-22 05:49:37 +0800 <GettrafficNSW> Chipping Norton - traffic heavy citybound Newbridge Rd at Governor Macquarie Dr
+1308161460133011457 2020-09-22 05:49:31 +0800 <GettrafficNSW> Moorebank - traffic busy northbound Moorebank Ave at Newbridge Rd
+1308161432131756033 2020-09-22 05:49:24 +0800 <GettrafficNSW> Liverpool - traffic heavy northbound Hume Highway at Hoxton Park Rd
+1308161298203463680 2020-09-22 05:48:52 +0800 <GettrafficNSW> Cecil Hills - traffic heavy northbound M7 at Elizabeth Dr
+1308161268704972800 2020-09-22 05:48:45 +0800 <GettrafficNSW> Leppington - traffic cued northbound Camden Valley Way at Denham Court Rd
+1308161251868946434 2020-09-22 05:48:41 +0800 <GettrafficNSW> Minto - traffic busy bothways Pembroke Rd at Ben Lomond Rd
+1308161225239322624 2020-09-22 05:48:35 +0800 <GettrafficNSW> Harrington Park - traffic busy bothways The Northern Rd at Fairwater Rd
+1308161206876647424 2020-09-22 05:48:30 +0800 <GettrafficNSW> Mascot - traffic congestion citybound General Holmes Dr at Foreshore Rd
+1308161192033050625 2020-09-22 05:48:27 +0800 <GettrafficNSW> Moore Park - traffic busy citybound Southern Cross Dr at Eastern Distributor
+1308161164258414598 2020-09-22 05:48:20 +0800 <GettrafficNSW> Kogarah - traffic congestion northbound Princes Highway at Rocky Point Rd
+1308161141948911616 2020-09-22 05:48:15 +0800 <GettrafficNSW> Miranda - traffic busy all directions Taren Point Rd at Captain Cook Dr
+1308161129986682881 2020-09-22 05:48:12 +0800 <GettrafficNSW> Kirawee - traffic building bothways Princes Highway at Kingsway
+1308160296670822400 2020-09-22 05:44:53 +0800 <GettrafficNSW> Lucas Heights - traffic building all directions Heathcote Rd at New Illawarra Rd
+1308160267465883648 2020-09-22 05:44:46 +0800 <GettrafficNSW> Double Bay - traffic heavy bothways New South Head Rd at Ocean St
+1308160218895798272 2020-09-22 05:44:35 +0800 <GettrafficNSW> Auburn - traffic congested   citybound Parramatta Rd at Silverwater Rd
+1308160194015195137 2020-09-22 05:44:29 +0800 <GettrafficNSW> Prestons - traffic congestion citybound Camden Valley Way at Bernera Rd
+1308160145105379328 2020-09-22 05:44:17 +0800 <GettrafficNSW> Penshurst - traffic heavy bothways King Georges Rd at Stony Creek Rd
+1308160112259862528 2020-09-22 05:44:09 +0800 <GettrafficNSW> Georges Hall - traffic congestion southbound Henry Lawson Dr at Haig Ave
+1308160089539276800 2020-09-22 05:44:04 +0800 <GettrafficNSW> Cabramatta - traffic busy all directions Joseph St at John St
+1308160044370767880 2020-09-22 05:43:53 +0800 <GettrafficNSW> Smithfield - traffic busy northbound Warren Rd at Long St
+1308159978037895168 2020-09-22 05:43:37 +0800 <GettrafficNSW> South Granville - traffic building all directions Wellington Rd at Chisolm Rd
+1308159946081460225 2020-09-22 05:43:30 +0800 <GettrafficNSW> Newtown - traffic heavy northbound Enmore Rd at King St
+1308159934513643520 2020-09-22 05:43:27 +0800 <GettrafficNSW> Erskineville - traffic busy all directions Erskineville Rd at Railway Parade
+1308156890736521221 2020-09-22 05:31:21 +0800 <GettrafficNSW> Minchinbury - slow traffic citybound M4 Motorway approaching The Light Horse Interchange
+1308156862127247360 2020-09-22 05:31:14 +0800 <GettrafficNSW> Northbridge - traffic congestion all directions Sailors Bay Rd at Strathallen Ave
+1308156684934680577 2020-09-22 05:30:32 +0800 <GettrafficNSW> Ingleburn - heavy traffic northbound Hume  Mwy between Brooks Rd and The Light Horse Interchange
+1308156504608919553 2020-09-22 05:29:49 +0800 <GettrafficNSW> Mosman - traffic congestion eastbound Military Rd at Cowles Rd
+1308156244020965376 2020-09-22 05:28:47 +0800 <GettrafficNSW> Rose Bay - traffic congestion bothways New South Head Rd at Newcastle Rd
+1308156000684236800 2020-09-22 05:27:49 +0800 <GettrafficNSW> Coogee - traffic congestion all directions Coogee Bay Rd at Carrington Rd
+1308155752293359616 2020-09-22 05:26:50 +0800 <GettrafficNSW> South Coogee - traffic building all directions Malabar Rd at Moverly Rd
+1308155488358469637 2020-09-22 05:25:47 +0800 <GettrafficNSW> Maroubra - traffic heavy all directions Malabar Rd at Fitzgerald Ave
+1308155261102649344 2020-09-22 05:24:53 +0800 <GettrafficNSW> Banksmeadow - traffic busy bothways Foreshore Rd at Botany Rd
+1308154978339442689 2020-09-22 05:23:45 +0800 <GettrafficNSW> Bangor - traffic congestion southbound New Illawarra Rd at Bangor Bypass
+1308153426308599808 2020-09-22 05:17:35 +0800 <GettrafficNSW> Stanhope Gardens - traffic busy southbound Old Windsor Road at Samantha Riley Dr
+1308153235669016581 2020-09-22 05:16:50 +0800 <GettrafficNSW> Canterbury - traffic slow citybound Canterbury Rd approaching Cooks River Bridge
+1308152869023936512 2020-09-22 05:15:22 +0800 <GettrafficNSW> Drummoyne - traffic congested   citybound Victoria Rd at Darling St, Rozelle
+1308149187763036160 2020-09-22 05:00:45 +0800 <GettrafficNSW> Prestons - heavy traffic northbound Hume  Mwy approaching The Cutler Vc Interchange (M5/M7)
+1308149154707718144 2020-09-22 05:00:37 +0800 <GettrafficNSW> Bossley Park - traffic congested   northbound Cowpasture Rd at The Horsley Dr
+1308149027905482754 2020-09-22 05:00:07 +0800 <GettrafficNSW> Brighton-Le-Sands - slow traffic citybound The Grand Parade at Bestic St
+1308148903850602496 2020-09-22 04:59:37 +0800 <GettrafficNSW> North Manly - traffic building southbound Condamine St at Kentwell Rd
+1308148865988661248 2020-09-22 04:59:28 +0800 <GettrafficNSW> Roseville - heavy traffic citybound Pacific Highway approaching Boundary Street
+1308148339699974145 2020-09-22 04:57:23 +0800 <GettrafficNSW> Bella Vista - traffic delayed citybound M7 at Old Windsor Rd
+1308144375092789248 2020-09-22 04:41:37 +0800 <GettrafficNSW> Redfern - accident citybound Gibbons St at Boundary Rd
+1308144178241572864 2020-09-22 04:40:50 +0800 <GettrafficNSW> Eastern Creek - traffic heavy citybound M4 at Light Horse Interchange
+1308142730711687168 2020-09-22 04:35:05 +0800 <GettrafficNSW> Middleton Grange - traffic slow northbound M7 at Cowpasture Rd
+1308141066034360320 2020-09-22 04:28:28 +0800 <GettrafficNSW> Kogorah - traffic delayed citybound Princes Highway approaching Rocky Point Rd
+1308140689562058753 2020-09-22 04:26:59 +0800 <GettrafficNSW> Ryde - slow traffic northbound Church Street approaching Victoria Rd &amp; Top Ryde
+1308140564185935873 2020-09-22 04:26:29 +0800 <GettrafficNSW> Wiley Park - traffic cued citybound Canterbury Road approaching King Georges Rd
+1308140440000946176 2020-09-22 04:25:59 +0800 <GettrafficNSW> Revesby - sun glare citybound M5 Motorway approaching The River Rd
+1308140318768816129 2020-09-22 04:25:30 +0800 <GettrafficNSW> Cecil Hills - slow traffic northbound M7 Motorway approaching Elizabeth Drive
+1308140118473990145 2020-09-22 04:24:42 +0800 <GettrafficNSW> Leichhardt - traffic building quickly inbound Parramatta Road approaching Norton Street
+1308139960692695040 2020-09-22 04:24:05 +0800 <GettrafficNSW> Macquarie Park - traffic congestion northbound Lane Cove Rd approaching Epping Rd &amp; The M2
+1308139946717241344 2020-09-22 04:24:02 +0800 <GettrafficNSW> Waterloo - gas leak bothways Potter St near Crystal St
+1308139783797919744 2020-09-22 04:23:23 +0800 <GettrafficNSW> Auburn - traffic heavy westbound Parramatta Rd between Saint Hilliers Road and James Ruse Dr
+1308139295115374593 2020-09-22 04:21:26 +0800 <GettrafficNSW> Wiley Park - traffic cued citybound Canterbury Rd at King Georges Rd
+1308139143407435776 2020-09-22 04:20:50 +0800 <GettrafficNSW> Haberfield - traffic underspeed inbound City-West Link approaching Balmain Rd
+1308137327324135424 2020-09-22 04:13:37 +0800 <GettrafficNSW> Leichhardt - heavy traffic inbound City West Link approaching Norton Street
+1308137157844848640 2020-09-22 04:12:57 +0800 <GettrafficNSW> Granville - heavy traffic outbound Parramatta Road approaching Woodville Rd &amp; The M4
+1308137026495983616 2020-09-22 04:12:25 +0800 <GettrafficNSW> West Ryde - heavy traffic citybound Victoria Road approaching Shaftsbury Rd
+1308136900129992704 2020-09-22 04:11:55 +0800 <GettrafficNSW> Brighton Le Sands - heavy traffic citybound The Grand Parade approaching General Holmes Drive &amp; The Airport Tunnel
+1308136789232640000 2020-09-22 04:11:29 +0800 <GettrafficNSW> Bella Vista - traffic building inbound Westlink M7 approaching The M2 Motorway
+1308136310104711168 2020-09-22 04:09:34 +0800 <GettrafficNSW> Granville - traffic heavy southbound Woodville Rd at Louis St
+1308136296175394817 2020-09-22 04:09:31 +0800 <GettrafficNSW> Kariong - traffic building southbound Central Coast Highway approaching Kangoo Road
+1308134193738653697 2020-09-22 04:01:10 +0800 <GettrafficNSW> Mascot - traffic busy citybound General Holmes Drive in The Airport Tunnel
+1308134003489214465 2020-09-22 04:00:25 +0800 <GettrafficNSW> Prospect - traffic congested   southbound Prospect Hwy approaching The Great Western Highway &amp; The M4
+1308133876514971648 2020-09-22 03:59:54 +0800 <GettrafficNSW> Roselands - slow traffic southbound King Georges Rd approaching Moorefields Rd
+1308133600819208192 2020-09-22 03:58:49 +0800 <GettrafficNSW> Acacia Gardens - traffic congested   inbound Westlink M7 approaching Sunnyholt Rd
+1308129267604058112 2020-09-22 03:41:35 +0800 <GettrafficNSW> Winston Hills - traffic congestion bothways Old Windsor Rd at Powers Rd
+1308128743660027905 2020-09-22 03:39:31 +0800 <GettrafficNSW> Bankstown - traffic building northbound Stacey St approaching Macauley Ave
+1308128613552668672 2020-09-22 03:38:59 +0800 <GettrafficNSW> Five Dock - traffic congested   northbound Great N Road approaching Lyons Rd
+1308128413958287360 2020-09-22 03:38:12 +0800 <GettrafficNSW> Homebush West - heavy traffic northbound Centenary Drive approaching Weeroona Rd &amp; Arthur Street
+1308128011590410240 2020-09-22 03:36:36 +0800 <GettrafficNSW> Clyde - traffic busy citybound Parramatta Road approaching James Ruse Drive
+1308127922486611969 2020-09-22 03:36:15 +0800 <GettrafficNSW> Greenacre - traffic building southbound Roberts Rd approaching Rawson Rd
+1308123369833857024 2020-09-22 03:18:09 +0800 <GettrafficNSW> Prospect - brokendown truck westbound M4 at Prospect H/W
+1308120457694965760 2020-09-22 03:06:35 +0800 <GettrafficNSW> Mascot - debris citybound M1 at Foreshore Rd
+1307963980921466881 2020-09-21 16:44:48 +0800 <GettrafficNSW> Thornleigh - traffic busy southbound Pennant Hills Rd at The Comenarra Parkway
+1307963480142565376 2020-09-21 16:42:49 +0800 <GettrafficNSW> Frenchs Forest - traffic busy bothways Warringah Road at Wakehurst Parkway
+1307960869955932160 2020-09-21 16:32:26 +0800 <GettrafficNSW> Glenwood - traffic busy outbound Old Windsor Road at Sunnyholt Rd
+1307960722312241153 2020-09-21 16:31:51 +0800 <GettrafficNSW> Kellyville - traffic congested   northbound Windsor Rd at Memorial Ave
+1307959682233896960 2020-09-21 16:27:43 +0800 <GettrafficNSW> Granville - traffic delayed westbound Parramatta Rd approaching Woodville Rd
+1307959332194017280 2020-09-21 16:26:20 +0800 <GettrafficNSW> Lilyfield - traffic busy westbound City-West Link Road at Catherine St
+1307959059639758848 2020-09-21 16:25:15 +0800 <GettrafficNSW> Strathfield - traffic heavy westbound Parramatta Rd at M4
+1307958815418019841 2020-09-21 16:24:16 +0800 <GettrafficNSW> Ryde - traffic delayed southbound Lane Cove Rd at Blaxland Rd
+1307957743811063808 2020-09-21 16:20:01 +0800 <GettrafficNSW> La Perouse - accident all directions Anzac Parade at Endeavour Avenue
+1307957318613573632 2020-09-21 16:18:20 +0800 <GettrafficNSW> Bankstown - accident all directions Lady Cutler Ave between North Terrace and Rickard Rd
+1307955474579378177 2020-09-21 16:11:00 +0800 <GettrafficNSW> Moorebank - traffic congested   westbound M5 at Moorebank Ave
+1307954512573808640 2020-09-21 16:07:11 +0800 <GettrafficNSW> Carlingford - traffic delayed southbound Pennant Hills Rd at Carlingford Rd
+1307954255844630539 2020-09-21 16:06:09 +0800 <GettrafficNSW> Horsley Park - traffic busy southbound M7 between The Horsley Dr and Elizabeth Dr
+1307954092463894528 2020-09-21 16:05:30 +0800 <GettrafficNSW> Homebush West - traffic heavy southbound Centenary Drive between Homebush Bay Drive and Arthur St
+1307953708634787843 2020-09-21 16:03:59 +0800 <GettrafficNSW> Pyrmont - traffic building westbound Anzac Bridge approaching The Crescent
+1307952837976977408 2020-09-21 16:00:31 +0800 <GettrafficNSW> Marsfield - traffic congested   northbound Epping Rd at Balaclava Rd
+1307952386929876996 2020-09-21 15:58:44 +0800 <GettrafficNSW> Gladesville - traffic slow westbound Victoria Rd approaching Cressy Rd
+1307948972938387457 2020-09-21 15:45:10 +0800 <GettrafficNSW> Woolloomooloo - slow traffic southbound Eastern Distributor approaching Cleveland St
+1307947706615173120 2020-09-21 15:40:08 +0800 <GettrafficNSW> Revesby - slow traffic outbound M5 Motorway approaching Moorebank
+1307945730120720384 2020-09-21 15:32:17 +0800 <GettrafficNSW> Gymea - traffic congested   southbound Princes Hwy between The Boulevarde and The Kingsway
+1307945199629340672 2020-09-21 15:30:10 +0800 <GettrafficNSW> Brookvale - slow traffic northbound Pittwater Rd at Dee Why
+1307937611235770368 2020-09-21 15:00:01 +0800 <GettrafficNSW> Horsley Park - traffic heavy southbound M7 between Old Wallgrove Rd On-Ramp and Cowpasture Rd, Hoxton Park
+1307936378781462530 2020-09-21 14:55:07 +0800 <GettrafficNSW> Beverly Park - traffic underspeed southbound Princes Hwy between Rocky Point Rd and Ramsgate Rd
+1307935917244473344 2020-09-21 14:53:17 +0800 <GettrafficNSW> Pyrmont - heavy traffic westbound at Anzac Bridge
+1307928260945129473 2020-09-21 14:22:52 +0800 <GettrafficNSW> Pennant Hills - traffic building bothways Pennant Hills Road between Pennant Hills and Thornleigh
+1307927963468328960 2020-09-21 14:21:41 +0800 <GettrafficNSW> Winston Hills - traffic building northbound Old Windsor Road between Winston Hills and Seven Hills
+1307927528980377602 2020-09-21 14:19:57 +0800 <GettrafficNSW> Mulgrave - traffic building northbound Windsor Road from Mulgrave Road
+1307927364391768064 2020-09-21 14:19:18 +0800 <GettrafficNSW> Revesby - traffic building outbound M5 between The River Road and Moorebank Avenue
+1307922177254014976 2020-09-21 13:58:41 +0800 <GettrafficNSW> Woolloomooloo - breakdown southbound The Domain Tunnel in The Main Tunnel
+1307920459783045120 2020-09-21 13:51:52 +0800 <GettrafficNSW> Summer Hill - brokendown van westbound Parramatta Rd approaching Liverpool Rd
+1307918657708650497 2020-09-21 13:44:42 +0800 <GettrafficNSW> Parramatta - breakdown inbound M4 approaching Pitt St
+1307913551017721856 2020-09-21 13:24:25 +0800 <GettrafficNSW> Cremorne - traffic underspeed inbound Military Rd approaching The Warringah Freeway
+1307913205553872896 2020-09-21 13:23:02 +0800 <GettrafficNSW> Wiley Park - traffic delayed northbound King Georges Road between Canterbury Rd and The Boulevarde
+1307913182070013952 2020-09-21 13:22:57 +0800 <GettrafficNSW> Woy Woy - traffic building southbound Blackwall Road between Railway Street and Rawson Road
+1307912595442036745 2020-09-21 13:20:37 +0800 <GettrafficNSW> Beverly Hills - traffic congested   bothways King Georges Rd at Broadarrow Rd
+1307912341535600641 2020-09-21 13:19:36 +0800 <GettrafficNSW> Brighton-Le-Sands - traffic heavy southbound General Holmes Drive approaching Bay St
+1307911195387592704 2020-09-21 13:15:03 +0800 <GettrafficNSW> Ettalong - traffic building bothways Empire Bay Drive at Empire Bay Public School
+1307910059041501184 2020-09-21 13:10:32 +0800 <GettrafficNSW> Castle Cove - accident all directions Boundary St after Eastern Valley Way
+1307908006521139200 2020-09-21 13:02:23 +0800 <GettrafficNSW> Ingleside - traffic underspeed westbound Mona Vale Rd at Powderworks Rd
+1307907680913076226 2020-09-21 13:01:05 +0800 <GettrafficNSW> Mount Pritchard - traffic congested   westbound Cabramatta Rd West approaching Elizabeth Dr
+1307904731986108416 2020-09-21 12:49:22 +0800 <GettrafficNSW> Turramurra - traffic busy northbound Pacific Highway between Kissing Point Rd, Turramurra and M1 At Wahroonga
+1307899191931273218 2020-09-21 12:27:21 +0800 <GettrafficNSW> Hurstville - traffic building quickly northbound King Georges Rd at Woniora Rd
+1307897036214165504 2020-09-21 12:18:47 +0800 <GettrafficNSW> Richmond - slow traffic bothways Kurrajong Road between March St and Old Kurrajong Rd
+1307896097969287168 2020-09-21 12:15:03 +0800 <GettrafficNSW> Roseville - traffic building quickly outbound Pacific Highway between Boundary St and Grosvenor Rd
+1307895859393118209 2020-09-21 12:14:07 +0800 <GettrafficNSW> Warriewood - slow traffic westbound Mona Vale Rd between Samuel St and Powderworks Rd
+1307895546460295169 2020-09-21 12:12:52 +0800 <GettrafficNSW> Neutral Bay - slow traffic citybound Military Rd at Ben Boyd Rd
+1307895465141178368 2020-09-21 12:12:33 +0800 <GettrafficNSW> Granville - slow traffic westbound Parramatta Rd between Cowper St and Woodville Rd
+1307895297750704128 2020-09-21 12:11:53 +0800 <GettrafficNSW> Brighton-Le-Sands - slow traffic southbound General Holmes Drive between Bestic St and Bay St
+1307895143488397312 2020-09-21 12:11:16 +0800 <GettrafficNSW> Brighton-Le-Sands - traffic building quickly outbound The Grand Parade between General Holmes Drive and Bay St
+1307894724947189760 2020-09-21 12:09:36 +0800 <GettrafficNSW> Sydney - traffic congestion bothways Druitt St at York St
+1307855737851273216 2020-09-21 09:34:41 +0800 <GettrafficNSW> Roseville Chase - debris citybound Warringah Road at Roseville Bridge
+1307853213261991936 2020-09-21 09:24:39 +0800 <GettrafficNSW> Normanhurst - breakdown northbound Pennant Hills Rd at Normanhurst Rd
+1307851711499980805 2020-09-21 09:18:41 +0800 <GettrafficNSW> Caringbah - accident bothways Kingsway at Preident Ave
+1307850087507193856 2020-09-21 09:12:14 +0800 <GettrafficNSW> Balgowlah - traffic congestion all directions Sydney Rd at Manly Rd
+1307846585687056384 2020-09-21 08:58:19 +0800 <GettrafficNSW> Rozelle - roadwork westbound Victoria Rd at Terry St
+1307840853755310081 2020-09-21 08:35:32 +0800 <GettrafficNSW> Newtown - traffic congested   citybound King St at Holt St
+1307838482883076102 2020-09-21 08:26:07 +0800 <GettrafficNSW> Winston Hills - traffic congestion bothways Old Windsor Rd at Powers Rd
+1307829893091061761 2020-09-21 07:51:59 +0800 <GettrafficNSW> Drummoyne - traffic congestion citybound Victoria Rd at Lyons Rd
+1307829388663160833 2020-09-21 07:49:59 +0800 <GettrafficNSW> Roselands - traffic congestion citybound Canterbury Rd at King Georges Rd
+1307823606303354881 2020-09-21 07:27:00 +0800 <GettrafficNSW> Moore Park - debris citybound at Eastern Distributor
+1307823563303395329 2020-09-21 07:26:50 +0800 <GettrafficNSW> Carlingford - traffic congestion all directions Pennant Hills Rd at Bettington Rd
+1307823241025581056 2020-09-21 07:25:33 +0800 <GettrafficNSW> St Ives - traffic congestion all directions Mona Vale Rd at Memorial Ave
+1307822882857254912 2020-09-21 07:24:08 +0800 <GettrafficNSW> Waitara - traffic congestion bothways Edgeworth David Ave at Balmoral St
+1307814179689037824 2020-09-21 06:49:33 +0800 <GettrafficNSW> Ryde - breakdown northbound Lane Cove Rd at Blaxland Rd
+1307812673384378369 2020-09-21 06:43:33 +0800 <GettrafficNSW> Drummoyne, Rozelle - slow traffic citybound Victoria Road approaching The Anzac Bridge
+1307809358483353600 2020-09-21 06:30:23 +0800 <GettrafficNSW> Woronora - slow traffic eastbound at Woronora Bridge
+1307807981640118272 2020-09-21 06:24:55 +0800 <GettrafficNSW> Horsley Park - slow traffic northbound M7 approaching Light Horse Interchange
+1307806529827926017 2020-09-21 06:19:09 +0800 <GettrafficNSW> Oatlands - slow traffic bothways Pennant Hills Road at Bettington Road
+1307806251342942208 2020-09-21 06:18:02 +0800 <GettrafficNSW> Drummoyne - slow traffic southbound Victoria Road approaching Iron Cove Bridge
+1307805544820875264 2020-09-21 06:15:14 +0800 <GettrafficNSW> Marsden Park - traffic underspeed southbound Richmond Rd at M7
+1307805392789938176 2020-09-21 06:14:38 +0800 <GettrafficNSW> Rookwood - traffic slow northbound Centenary Dr at Arthur St
+1307805112488792064 2020-09-21 06:13:31 +0800 <GettrafficNSW> Clyde - traffic congestion citybound Parramatta Rd at James Ruse Dr
+1307804958675279872 2020-09-21 06:12:54 +0800 <GettrafficNSW> Eastern Creek - traffic congestion citybound M4 at Light Horse Interchange
+1307804938261524480 2020-09-21 06:12:49 +0800 <GettrafficNSW> Bella Vista - traffic flowing freely citybound M7 at Old Windsor Rd
+1307804900491849728 2020-09-21 06:12:40 +0800 <GettrafficNSW> Wahroonga - traffic busy southbound M1 at Pacific Highway
+1307804775560273921 2020-09-21 06:12:10 +0800 <GettrafficNSW> Thornleigh - traffic congestion bothways Pennant Hills Rd at Comenarra Parkway
+1307804743381647360 2020-09-21 06:12:03 +0800 <GettrafficNSW> Rhodes - traffic busy northbound Concord Rd at Ryde Bridge
+1307804723064369153 2020-09-21 06:11:58 +0800 <GettrafficNSW> Drummoyne - traffic busy citybound Victoria Rd at Lyons Rd
+1307804701765718016 2020-09-21 06:11:53 +0800 <GettrafficNSW> Rozelle - traffic slow citybound City West Link at The Crescent
+1307804674519527424 2020-09-21 06:11:46 +0800 <GettrafficNSW> North Sydney - traffic heavy southbound Warringah Fwy at Falcon St
+1307804636678561793 2020-09-21 06:11:37 +0800 <GettrafficNSW> Seaforth - traffic congestion bothways Spit Rd at Spit Bridge
+1307804600464941056 2020-09-21 06:11:29 +0800 <GettrafficNSW> Turramurra - traffic congested   southbound Pacific Hwy at Kissing Point Rd
+1307804573399093248 2020-09-21 06:11:22 +0800 <GettrafficNSW> North Sydney - traffic cued southbound Warringah Fwy at Falcon St
+1307804528238972929 2020-09-21 06:11:12 +0800 <GettrafficNSW> Brighton Le Sands - traffic building northbound The Grand Parade at Bay St
+1307804492620992512 2020-09-21 06:11:03 +0800 <GettrafficNSW> Campsie - traffic heavy citybound Canterbury Rd at Wonga St
+1307804427630174208 2020-09-21 06:10:48 +0800 <GettrafficNSW> Sydney - stalled bus westbound Druitt St at Sussex St
+1307799743767093248 2020-09-21 05:52:11 +0800 <GettrafficNSW> Moorebank - accident westbound M5 at Moorebank Ave
+1307798427799924739 2020-09-21 05:46:57 +0800 <GettrafficNSW> Ryde - traffic moving well  Ryde Bridge approaching Top Ryde
+1307797440997683200 2020-09-21 05:43:02 +0800 <GettrafficNSW> Lane Cove West - traffic slow bothways Burns Bay Rd at Burns Bay Rd
+1307794361111863297 2020-09-21 05:30:47 +0800 <GettrafficNSW> Ashfield - traffic moderate citybound Liverpool Rd at Frederick St
+1307794324491362304 2020-09-21 05:30:39 +0800 <GettrafficNSW> Five Dock - traffic building citybound Parramatta Rd at Great North Rd
+1307794199631204352 2020-09-21 05:30:09 +0800 <GettrafficNSW> Leichhardt - traffic congested   citybound Parramatta Rd at Norton St
+1307794184888176641 2020-09-21 05:30:05 +0800 <GettrafficNSW> Camperdown - traffic busy citybound Parramatta Rd at Missenden Rd
+1307794161240690693 2020-09-21 05:30:00 +0800 <GettrafficNSW> Roselands - traffic busy citybound Parramatta Rd at King Georges Rd
+1307794040637677568 2020-09-21 05:29:31 +0800 <GettrafficNSW> Bankstown - traffic busy northbound Stacey St at Rickard Rd
+1307794008714825728 2020-09-21 05:29:23 +0800 <GettrafficNSW> Bankstown - traffic busy northbound Fairford Rd at Macauley Ave
+1307793914603008000 2020-09-21 05:29:01 +0800 <GettrafficNSW> Milperra - traffic busy northbound Henry Lawson Dr at Milperra Rd
+1307793892717207552 2020-09-21 05:28:56 +0800 <GettrafficNSW> Georges Hall - traffic congestion southbound Henry Lawson Dr at Haig Ave
+1307793879563776000 2020-09-21 05:28:53 +0800 <GettrafficNSW> Mascot - brokendown truck southbound General Holmes Dr at Mill Pond Rd
+1307793823855116288 2020-09-21 05:28:39 +0800 <GettrafficNSW> Chipping Norton - traffic cued citybound Newbridge Rd at Governor Macquarie Dr
+1307793743412568064 2020-09-21 05:28:20 +0800 <GettrafficNSW> Moorebank - traffic congestion northbound Moorebank Ave at Newbridge Rd
+1307793717428760576 2020-09-21 05:28:14 +0800 <GettrafficNSW> Liverpool - traffic heavy northbound Hume Highway at Elizabeth Dr
+1307793705827328000 2020-09-21 05:28:11 +0800 <GettrafficNSW> Middleton Grange - traffic congestion southbound M7 at Cowpasture Rd
+1307793540819247104 2020-09-21 05:27:32 +0800 <GettrafficNSW> Mosman - traffic underspeed citybound Spit Road between Spit Bridge and Military Rd At The Junction
+1307793324439302144 2020-09-21 05:26:40 +0800 <GettrafficNSW> Penshurst - traffic delayed northbound King Georges Rd at Stoney Creek Rd
+1307793145963323392 2020-09-21 05:25:58 +0800 <GettrafficNSW> Macquarie Park - traffic congested   citybound M2 at Delhi Rd Exit
+1307791488890273792 2020-09-21 05:19:23 +0800 <GettrafficNSW> Parramatta - accident southbound James Ruse Dr at Victoria Rd
+1307790271590006784 2020-09-21 05:14:32 +0800 <GettrafficNSW> Minto - traffic busy bothways Pembroke Rd at Ben Lomond Rd
+1307790244524126208 2020-09-21 05:14:26 +0800 <GettrafficNSW> Campbelltown - traffic building quickly all directions Narellan Rd at Blaxland Rd
+1307790204292313090 2020-09-21 05:14:16 +0800 <GettrafficNSW> Harrington Park - traffic moderate bothways The Northern Rd at Fairwater Dr
+1307790182641360896 2020-09-21 05:14:11 +0800 <GettrafficNSW> Kogarah - traffic moderate northbound Princes Highway at Rocky Point Rd
+1307790153889398784 2020-09-21 05:14:04 +0800 <GettrafficNSW> Gladesville - traffic congestion citybound Victoria Rd at Pittwater Dr
+1307790080342282240 2020-09-21 05:13:47 +0800 <GettrafficNSW> Blakehurst - traffic congested   bothways Princes Highway at King Georges Rd
+1307790061312729088 2020-09-21 05:13:42 +0800 <GettrafficNSW> Miranda - traffic busy all directions The Boulevarde at Port Hacking Rd
+1307790039401676800 2020-09-21 05:13:37 +0800 <GettrafficNSW> St Peters - traffic congestion northbound Princes Highway at Canal Rd
+1307790011224305664 2020-09-21 05:13:30 +0800 <GettrafficNSW> Redfern - traffic building all directions Henderson Rd at Mitchell Rd
+1307789959047163904 2020-09-21 05:13:18 +0800 <GettrafficNSW> Leppington - traffic congestion northbound Camden Valley Way at Denham Court Rd
+1307789939078168577 2020-09-21 05:13:13 +0800 <GettrafficNSW> Double Bay - traffic busy bothways New South Head Rd at Bellevue Rd
+1307789281541332992 2020-09-21 05:10:36 +0800 <GettrafficNSW> Eastern Creek - traffic heavy citybound M4 Mwy at M7 Motorway On-Ramp
+1307789007099629568 2020-09-21 05:09:31 +0800 <GettrafficNSW> Pennant Hills - traffic busy bothways Pennant Hills Rd between Beecroft Rd and Boundary Rd
+1307787717732835329 2020-09-21 05:04:24 +0800 <GettrafficNSW> Padstow Heights - breakdown northbound Henry Lawson Dr at Clancey St
+1307785608182415361 2020-09-21 04:56:01 +0800 <GettrafficNSW> Belrose - debris westbound Mona Vale Rd at Near St Ives Showground
+1307785565618667520 2020-09-21 04:55:50 +0800 <GettrafficNSW> Drummoyne - heavy traffic citybound Victoria Road approaching Rozelle &amp; The Anzac Bridge
+1307785391269797888 2020-09-21 04:55:09 +0800 <GettrafficNSW> Ryde - heavy traffic northbound Church Street approaching Victoria Rd &amp; Top Ryde
+1307784476743725056 2020-09-21 04:51:31 +0800 <GettrafficNSW> Rhodes - traffic slow northbound Concord Rd on Ryde Bridge
+1307784090393874433 2020-09-21 04:49:59 +0800 <GettrafficNSW> Chatswood - traffic underspeed westbound Mowbray Rd approaching Pacific Highway
+1307783908973404160 2020-09-21 04:49:16 +0800 <GettrafficNSW> Bella Vista - traffic congested   citybound M7 between Sunnyholt Rd and M2
+1307783353223897088 2020-09-21 04:47:03 +0800 <GettrafficNSW> Chipping Norton - traffic heavy citybound Newbridge Rd at Henry Lawson Dr
+1307783069433094144 2020-09-21 04:45:55 +0800 <GettrafficNSW> Rushcutters Bay - traffic slow westbound New South Head Rd approaching Ocean St
+1307781611279118341 2020-09-21 04:40:08 +0800 <GettrafficNSW> Hammondville - traffic heavy citybound M5 at Nuwarra Rd
+1307778976828407808 2020-09-21 04:29:40 +0800 <GettrafficNSW> Homebush West - heavy traffic northbound Centenary Drive approaching Weeroona Rd &amp; Arthur Street
+1307778780035833856 2020-09-21 04:28:53 +0800 <GettrafficNSW> Bella Vista - heavy traffic inbound Westlink M7 approaching The M2 Motorway
+1307778636880125952 2020-09-21 04:28:19 +0800 <GettrafficNSW> Minchinbury - heavy traffic citybound M4 Motorway between Roper Rd and The Light Horse Interchange
+1307778464116699136 2020-09-21 04:27:37 +0800 <GettrafficNSW> Cecil Hills - traffic congested   northbound M7 Motorway approaching Elizabeth Drive
+1307775247236493314 2020-09-21 04:14:50 +0800 <GettrafficNSW> Gladesville - traffic busy citybound Victoria Road approaching Pittwater Rd
+1307775105938804736 2020-09-21 04:14:17 +0800 <GettrafficNSW> Leichhardt - heavy traffic inbound City West Link approaching Norton Street
+1307774434413965312 2020-09-21 04:11:37 +0800 <GettrafficNSW> Moorebank - accident citybound M5 at Heathcote Rd
+1307774264603369473 2020-09-21 04:10:56 +0800 <GettrafficNSW> Hammondville - vehicle roll-over citybound M5 Motorway approaching The Georges River
+1307772178046222337 2020-09-21 04:02:39 +0800 <GettrafficNSW> Kings Langley - breakdown southbound Old Windsor Road at Seven Hills Rd
+1307771815268237313 2020-09-21 04:01:12 +0800 <GettrafficNSW> Colebee - traffic busy southbound Richmond Rd at M7 Motorway On-Ramp
+1307771775808225280 2020-09-21 04:01:03 +0800 <GettrafficNSW> Beverly Hills - traffic building northbound King Georges Rd approaching Stoney Creek Rd
+1307771639862501376 2020-09-21 04:00:30 +0800 <GettrafficNSW> Moorebank - traffic busy citybound Newbridge Rd at Gov Macquarie Dr
+1307771607109132290 2020-09-21 04:00:23 +0800 <GettrafficNSW> Clyde - traffic building citybound Parramatta Road approaching James Ruse Drive
+1307771499713974272 2020-09-21 03:59:57 +0800 <GettrafficNSW> Kyeemagh - traffic congested   citybound General Holmes Drive approaching Bestic Street
+1307771496287223808 2020-09-21 03:59:56 +0800 <GettrafficNSW> Ermington - traffic building bothways Stewart Street at Kissing Point Rd
+1307771365584375809 2020-09-21 03:59:25 +0800 <GettrafficNSW> St Peters - traffic congested   citybound Princes Highway at Campbell St
+1307771358781169664 2020-09-21 03:59:23 +0800 <GettrafficNSW> St Peters - traffic building citybound Princes Highway approaching Campbell Street
+1307766495783518208 2020-09-21 03:40:04 +0800 <GettrafficNSW> Wiley Park - traffic cued citybound Canterbury Road approaching King Georges Rd
+1307766268821254144 2020-09-21 03:39:10 +0800 <GettrafficNSW> Wolli Creek - traffic building citybound Princes Highway approaching Brodie Spark Drive
+1307766042630828032 2020-09-21 03:38:16 +0800 <GettrafficNSW> Leichhardt - traffic congested   outbound Parramatta Road approaching Crystal Street
+1307765912976551936 2020-09-21 03:37:45 +0800 <GettrafficNSW> Homebush West - traffic building northbound Centenary Drive approaching Weeroona Rd &amp; Arthur Street
+1307765280953622528 2020-09-21 03:35:14 +0800 <GettrafficNSW> Bankstown - traffic building northbound Fairford Rd at Macauley Ave
+1307575628443521026 2020-09-20 15:01:38 +0800 <GettrafficNSW> North Ryde - wires down northbound Lane Cove Road near Lorna Avenue
+1307552579417567232 2020-09-20 13:30:02 +0800 <GettrafficNSW> Matraville - accident northbound Bunnerong Rd at Beachamp Road
+1307471138813960192 2020-09-20 08:06:25 +0800 <GettrafficNSW> Cowan - accident northbound Pacific Highway south of Rfs Station
+1307445585167806464 2020-09-20 06:24:53 +0800 <GettrafficNSW> Wahroonga - breakdown southbound M1 off ramp Pacific Highway
+1307431062876770305 2020-09-20 05:27:10 +0800 <GettrafficNSW> Northmead - collision involving motorcycle eastbound Windsor Road on ramp James Ruse Drive
+1306875670379851777 2020-09-18 16:40:15 +0800 <GettrafficNSW> Ashfield - traffic busy southbound Frederick St at Elizabeth St
+1306872914193592322 2020-09-18 16:29:17 +0800 <GettrafficNSW> Mascot - traffic delayed outbound Southern Cross Dr approaching The Airport Tunnel
+1306872551109398528 2020-09-18 16:27:51 +0800 <GettrafficNSW> Homebush West - traffic congested   southbound Centenary Drive approaching Arthur St
+1306871734084141056 2020-09-18 16:24:36 +0800 <GettrafficNSW> Sydney - traffic delayed bothways Sydney Harbour Tunnel in The Main Tunnel
+1306871071480578048 2020-09-18 16:21:58 +0800 <GettrafficNSW> Wiley Park - traffic busy northbound King Georges Rd between Canterbury Rd and The Boulevarde
+1306857877793955840 2020-09-18 15:29:32 +0800 <GettrafficNSW> Pyrmont - traffic underspeed westbound Anzac Bridge approaching The Crescent
+1306857595496329216 2020-09-18 15:28:25 +0800 <GettrafficNSW> Eastern Creek - traffic cued southbound M7 between M4 and The Horsley Dr
+1306857387328851968 2020-09-18 15:27:36 +0800 <GettrafficNSW> Petersham - traffic delayed westbound Stanmore Rd at Shaw St
+1306855882529976325 2020-09-18 15:21:37 +0800 <GettrafficNSW> Concord - traffic delayed westbound Parramatta Rd approaching M4
+1306855549863034880 2020-09-18 15:20:17 +0800 <GettrafficNSW> Ryde - traffic slow northbound The Ryde Bridge approaching Victoria Rd
+1306855197826674688 2020-09-18 15:18:54 +0800 <GettrafficNSW> Pennant Hills - traffic delayed northbound Pennant Hills Rd at Beecroft Rd
+1306855122228490240 2020-09-18 15:18:35 +0800 <GettrafficNSW> St Peters - heavy traffic outbound Princes Highway at Railway Rd
+1306854956037623809 2020-09-18 15:17:56 +0800 <GettrafficNSW> Homebush West - traffic congestion southbound Centenary Drive between Homebush Bay Drive and Arthur St
+1306850876330369024 2020-09-18 15:01:43 +0800 <GettrafficNSW> Ultimo - accident outbound Harris St near Broadway
+1306840635605807104 2020-09-18 14:21:02 +0800 <GettrafficNSW> Gymea - heavy traffic outbound Princes Highway between Bates Drive and Oak Rd
+1306840406311669760 2020-09-18 14:20:07 +0800 <GettrafficNSW> Cammeray - accident southbound Warringah Freeway near Miller St
+1306840141856604160 2020-09-18 14:19:04 +0800 <GettrafficNSW> West Pymble - slow traffic inbound Lane Cove Road at Lady Game Drive
+1306839922075029505 2020-09-18 14:18:11 +0800 <GettrafficNSW> Brighton-Le-Sands - heavy traffic outbound General Holmes Drive after Bestic St
+1306839770538995713 2020-09-18 14:17:35 +0800 <GettrafficNSW> Ingleside - blocked by broken down vehicle all directions Mona Vale Road at Tumburra St
+1306834285370855424 2020-09-18 13:55:48 +0800 <GettrafficNSW> Castle Cove - heavy traffic northbound Eastern Valley Way between Victoria Ave and Babbage Rd
+1306834038649319424 2020-09-18 13:54:49 +0800 <GettrafficNSW> Warwick Farm - traffic delayed outbound Hume Highway at Gov Macquarie Dr
+1306833818083495936 2020-09-18 13:53:56 +0800 <GettrafficNSW> Menai - traffic heavy outbound Alfords Point Road approaching Old Illawarra Rd
+1306833626458275840 2020-09-18 13:53:10 +0800 <GettrafficNSW> Darlinghurst - traffic slow southbound Eastern Distributor between Moore Park Rd
+1306831938288640000 2020-09-18 13:46:28 +0800 <GettrafficNSW> Mosman - traffic heavy inbound Military Rd approaching The Warringah Freeway
+1306831734961401857 2020-09-18 13:45:40 +0800 <GettrafficNSW> South Wentworthville - traffic delayed westbound M4 at To The Cumberland Hwy
+1306830498052751361 2020-09-18 13:40:45 +0800 <GettrafficNSW> St Clair - heavy traffic northbound Mamre Rd between Luddenham Rd and Banks Drive
+1306830310630240257 2020-09-18 13:40:00 +0800 <GettrafficNSW> Mosman - heavy traffic citybound Military Rd at Belmont Rd
+1306830166631481344 2020-09-18 13:39:26 +0800 <GettrafficNSW> Cecil Hills - traffic building quickly inbound M7 approaching Elizabeth Drive
+1306830006337728512 2020-09-18 13:38:47 +0800 <GettrafficNSW> Woollahra - slow traffic citybound Oxford St at Lang Rd
+1306827025651392512 2020-09-18 13:26:57 +0800 <GettrafficNSW> Darlinghurst - traffic delayed southbound Eastern Distributor approaching Moore Park Rd
+1306826160257417216 2020-09-18 13:23:30 +0800 <GettrafficNSW> Homebush West - traffic heavy southbound Centenary Drive between Homebush Bay Drive and Arthur St
+1306825973904498690 2020-09-18 13:22:46 +0800 <GettrafficNSW> Ingleside - traffic heavy bothways Mona Vale Rd at Powderworks Rd
+1306825725022855168 2020-09-18 13:21:47 +0800 <GettrafficNSW> Abbotsbury - traffic slow southbound Cowpasture Rd between Prairie Vale Rd and N Liverpool Rd
+1306825523784380416 2020-09-18 13:20:59 +0800 <GettrafficNSW> Cecil Hills - traffic busy northbound M7 approaching Elizabeth Dr
+1306825369115189248 2020-09-18 13:20:22 +0800 <GettrafficNSW> Liverpool - traffic congested   southbound Hume Highway between Orange Grove Rd/ The Cumberland Hwy and Hoxton Park Rd
+1306824857288503297 2020-09-18 13:18:20 +0800 <GettrafficNSW> Pemulwuy - traffic delayed northbound Prospect Hwy approaching Reservoir Rd
+1306824685951180804 2020-09-18 13:17:39 +0800 <GettrafficNSW> Horsley Park - traffic delayed southbound M7 between M4 and The Horsley Dr
+1306820640490418177 2020-09-18 13:01:34 +0800 <GettrafficNSW> Auburn - accident outbound Rawson St at St Hilliers Rd
+1306820478258929665 2020-09-18 13:00:56 +0800 <GettrafficNSW> Blacktown - brokendown bus inbound Third Ave at Prince St
+1306820301750116352 2020-09-18 13:00:14 +0800 <GettrafficNSW> Clyde - traffic delayed outbound Parramatta Rd between Silverwater Rd and Woodville Rd
+1306820276642918401 2020-09-18 13:00:08 +0800 <GettrafficNSW> Ashcroft - blocked by broken down vehicle inbound Elizabeth Drive at Maxwells Ave
+1306820052797145088 2020-09-18 12:59:14 +0800 <GettrafficNSW> Cowan - brokendown truck southbound M1 just past Jerusalem Bay Track
+1306819916390039553 2020-09-18 12:58:42 +0800 <GettrafficNSW> Dural - traffic heavy southbound Old Northern Rd approaching New Line Rd
+1306819797674418182 2020-09-18 12:58:13 +0800 <GettrafficNSW> Beverly Hills - brokendown truck citybound M5 at King Georges Road
+1306819754255155201 2020-09-18 12:58:03 +0800 <GettrafficNSW> Wiley Park - traffic delayed southbound King Georges Rd at The Boulevarde
+1306817487938281473 2020-09-18 12:49:03 +0800 <GettrafficNSW> Macquarie Park - traffic busy southbound Lane Cove Rd at Epping Rd
+1306817308929662976 2020-09-18 12:48:20 +0800 <GettrafficNSW> Leichhardt - slow traffic citybound Parramatta Rd approaching Norton St
+1306817156844142593 2020-09-18 12:47:44 +0800 <GettrafficNSW> Strathfield - traffic slow northbound Centenary Drive between Roberts Road and Arthur St
+1306816992876265473 2020-09-18 12:47:05 +0800 <GettrafficNSW> Mosman - traffic heavy inbound Spit Rd approaching Military Rd
+1306816356034076673 2020-09-18 12:44:33 +0800 <GettrafficNSW> Stanmore - accident bothways Stanmore Rd near Merton St
+1306810774052941825 2020-09-18 12:22:22 +0800 <GettrafficNSW> Glenwood - slow traffic outbound Old Windsor Road at Miami St
+1306810593152704512 2020-09-18 12:21:39 +0800 <GettrafficNSW> Seaforth - slow traffic citybound Manly Rd after Ethel St
+1306761133437509642 2020-09-18 09:05:07 +0800 <GettrafficNSW> Camden - traffic heavy bothways Argyle St at Elizabeth St
+1306752225117569025 2020-09-18 08:29:43 +0800 <GettrafficNSW> Rozelle - roadwork citybound Victoria Rd at Robert St
+1306745128543907840 2020-09-18 08:01:31 +0800 <GettrafficNSW> Lilyfield - heavy traffic citybound City-West Link Road at Norton St
+1306744889925722112 2020-09-18 08:00:34 +0800 <GettrafficNSW> Leichhardt - heavy traffic citybound Parramatta Rd at Flood St
+1306725730827382784 2020-09-18 06:44:26 +0800 <GettrafficNSW> Kogarah - traffic busy northbound Princes Highway at Rocky Point Rd
+1306725454485757952 2020-09-18 06:43:20 +0800 <GettrafficNSW> Lane Cove - slow traffic all directions Longueville Rd at Dorritt St
+1306725175988084736 2020-09-18 06:42:14 +0800 <GettrafficNSW> Hunter Hill - traffic heavy all directions Gladesville Rd at Ryde Rd
+1306722821351956480 2020-09-18 06:32:53 +0800 <GettrafficNSW> Ryde - heavy traffic northbound Church Street approaching Top Ryde &amp; Victoria Rd
+1306722732327882753 2020-09-18 06:32:31 +0800 <GettrafficNSW> Normanhurst - slow traffic northbound Pennant Hills Road approaching M1
+1306722694021308416 2020-09-18 06:32:22 +0800 <GettrafficNSW> Woronora - heavy traffic eastbound Woronora Bridge approaching Sutherland
+1306721991676669953 2020-09-18 06:29:35 +0800 <GettrafficNSW> Belrose - school zone congestion northbound at Forest Way
+1306721813892718592 2020-09-18 06:28:52 +0800 <GettrafficNSW> Dee Why - slow traffic citybound at Pittwater Rd
+1306718595510988801 2020-09-18 06:16:05 +0800 <GettrafficNSW> Oatlands - slow traffic bothways Pennant Hills Road at Bettington Road
+1306718055758614529 2020-09-18 06:13:56 +0800 <GettrafficNSW> Campsie - slow traffic citybound Canterbury Road after Fore Street
+1306715088380858368 2020-09-18 06:02:09 +0800 <GettrafficNSW> Clyde - traffic busy citybound Parramatta Rd at James Ruse Dr
+1306715037789167617 2020-09-18 06:01:57 +0800 <GettrafficNSW> Eastern Creek - traffic busy citybound M4 at Light Horse Interchange
+1306715011557912576 2020-09-18 06:01:51 +0800 <GettrafficNSW> Bella Vista - traffic moving well citybound M7 at Old Windsor Rd
+1306714977957343232 2020-09-18 06:01:42 +0800 <GettrafficNSW> Wahroonga - traffic moving well southbound M1 at Pacific Highway
+1306714945136914432 2020-09-18 06:01:35 +0800 <GettrafficNSW> Thornleigh - traffic slow southbound Pennant Hills Rd at Castle Hill Rd
+1306714901788852224 2020-09-18 06:01:24 +0800 <GettrafficNSW> Kellyville - traffic slow southbound Old Windsor Rd at Memorial Ave
+1306714849246760960 2020-09-18 06:01:12 +0800 <GettrafficNSW> Rhodes - traffic busy northbound Concord Rd at Ryde Bridge
+1306714794582368256 2020-09-18 06:00:59 +0800 <GettrafficNSW> Rozelle - traffic congestion citybound City West Link at The Crescent
+1306714720997576704 2020-09-18 06:00:41 +0800 <GettrafficNSW> Drummoyne - traffic moderate citybound Victoria Rd at Lyons Rd
+1306714684536496129 2020-09-18 06:00:33 +0800 <GettrafficNSW> North Sydney - traffic flowing freely southbound Warringah Fwy at Falcon St
+1306714346349686785 2020-09-18 05:59:12 +0800 <GettrafficNSW> Rose Bay, Bondi Junction - slow traffic citybound at Old South Head Road
+1306714278410420225 2020-09-18 05:58:56 +0800 <GettrafficNSW> Seaforth - traffic slow bothways Spit Rd at Spit Bridge
+1306714236530221056 2020-09-18 05:58:46 +0800 <GettrafficNSW> Frenchs Forest - traffic building all directions Warringah Rd at Wakehurst Parkway
+1306714158428168192 2020-09-18 05:58:27 +0800 <GettrafficNSW> Turramurra - traffic congested   southbound Pacific Hwy at Kissing Point Rd
+1306714138110877696 2020-09-18 05:58:22 +0800 <GettrafficNSW> Brighton Le Sands - traffic busy northbound The Grand Parade at Bay St
+1306714116736786434 2020-09-18 05:58:17 +0800 <GettrafficNSW> Campsie - traffic congestion citybound Canterbury Rd at Beamish St
+1306714078207856640 2020-09-18 05:58:08 +0800 <GettrafficNSW> Ashfield - traffic busy citybound Liverpool Rd at Frederick St
+1306714058050027520 2020-09-18 05:58:03 +0800 <GettrafficNSW> Five Dock - traffic busy citybound Parramatta Rd at Great North Rd
+1306714021022769153 2020-09-18 05:57:54 +0800 <GettrafficNSW> Leichhardt - traffic heavy citybound Parramatta Rd at Norton St
+1306714001913475072 2020-09-18 05:57:50 +0800 <GettrafficNSW> Camperdown - traffic moderate citybound Parramatta Rd at Missenden Rd
+1306713887341862912 2020-09-18 05:57:22 +0800 <GettrafficNSW> Cherrybrook - slow traffic outbound New Line Road between Purchase Road and David Road
+1306713865489539075 2020-09-18 05:57:17 +0800 <GettrafficNSW> Roselands - traffic building quickly citybound Canterbury Rd at King Georges Rd
+1306713838746648577 2020-09-18 05:57:11 +0800 <GettrafficNSW> Bankstown - traffic busy citybound Canterbury Rd at Fairford Rd
+1306713796975587328 2020-09-18 05:57:01 +0800 <GettrafficNSW> Milperra - traffic moving well northbound Henry Lawson Dr at Milperra Rd
+1306713756500598784 2020-09-18 05:56:51 +0800 <GettrafficNSW> Georges Hall - traffic heavy bothways Henry Lawson Dr at Haig Ave
+1306713490044809216 2020-09-18 05:55:48 +0800 <GettrafficNSW> Homebush West - breakdown northbound Centenary Drive approaching Weeroona Rd
+1306713092999376896 2020-09-18 05:54:13 +0800 <GettrafficNSW> Chipping Norton - traffic busy citybound Newbridge Rd at Governor Macquarie Dr
+1306713066868887552 2020-09-18 05:54:07 +0800 <GettrafficNSW> Moorebank - traffic busy northbound Moorebank Ave at Newbridge Rd
+1306712995691552768 2020-09-18 05:53:50 +0800 <GettrafficNSW> Liverpool - traffic heavy northbound Hume Highway at Reilly St
+1306712896303292416 2020-09-18 05:53:26 +0800 <GettrafficNSW> Cecil Hills - traffic lighter than normal northbound M7 at Elizabeth Dr
+1306712837247565824 2020-09-18 05:53:12 +0800 <GettrafficNSW> Minto - traffic moderate bothways Pembroke Rd at Ben Lomond Rd
+1306712807694450688 2020-09-18 05:53:05 +0800 <GettrafficNSW> Harrington Park - traffic busy bothways The Northern Rd at Fairwater Dr
+1306710810329116673 2020-09-18 05:45:09 +0800 <GettrafficNSW> Woodbine - traffic moderate northbound Campbelltown Rd at Rose Payton Dr
+1306710792956305408 2020-09-18 05:45:05 +0800 <GettrafficNSW> Mascot - traffic busy citybound General Homes Dr at Foreshore Rd
+1306710779039686657 2020-09-18 05:45:01 +0800 <GettrafficNSW> Gladesville - traffic congestion citybound Victoria Rd at Pittwater Rd
+1306710748203163648 2020-09-18 05:44:54 +0800 <GettrafficNSW> Moore Park - traffic moderate citybound Southern Cross Dr at Eastern Distributor
+1306710706553667584 2020-09-18 05:44:44 +0800 <GettrafficNSW> Banksmeadow - traffic congestion bothways Foreshore Rd at Botany Rd
+1306710687838695424 2020-09-18 05:44:40 +0800 <GettrafficNSW> Matraville - traffic building bothways Botany Rd at Bumborah Point Rd
+1306710644557668353 2020-09-18 05:44:29 +0800 <GettrafficNSW> Miranda - traffic busy all directions The Boulevarde at Port Hacking Rd
+1306710628388630528 2020-09-18 05:44:25 +0800 <GettrafficNSW> Sutherland - traffic busy bothways River Rd at Linden St
+1306710606309777408 2020-09-18 05:44:20 +0800 <GettrafficNSW> Waverley - traffic congestion all directions Carrington Rd at Bronte Rd
+1306710191455399936 2020-09-18 05:42:41 +0800 <GettrafficNSW> Auburn - breakdown westbound Parramatta Rd at Station St
+1306708043900489730 2020-09-18 05:34:09 +0800 <GettrafficNSW> Coogee - traffic moderate all directions Mount St at Coogee Bay Rd
+1306708011138691072 2020-09-18 05:34:01 +0800 <GettrafficNSW> Maroubra - traffic congestion bothways Malabar Rd at Maroubra Rd
+1306707979459149825 2020-09-18 05:33:54 +0800 <GettrafficNSW> Lucas Heights - traffic moderate all directions Heathcote Rd at New Illawarra Rd
+1306707965160742912 2020-09-18 05:33:51 +0800 <GettrafficNSW> Bardia - traffic busy citybound Campbelltown Rd at Macdonald Rd
+1306707941890744320 2020-09-18 05:33:45 +0800 <GettrafficNSW> Campsie - traffic congestion southbound Beamish St at South Parade
+1306707921120628736 2020-09-18 05:33:40 +0800 <GettrafficNSW> Colyton - traffic heavy southbound Carlisle Ave at Roper Rd
+1306707918281084928 2020-09-18 05:33:39 +0800 <GettrafficNSW> Beaconsfield - traffic building all directions Oriordan St at Collins St
+1306707581277106176 2020-09-18 05:32:19 +0800 <GettrafficNSW> Bondi Junction - traffic building citybound Old South Head Rd at Bondi Rd At The Junction
+1306707519117520896 2020-09-18 05:32:04 +0800 <GettrafficNSW> Rosebery - traffic busy all directions Gardeners Rd at Botany Rd
+1306707430428925952 2020-09-18 05:31:43 +0800 <GettrafficNSW> Fairlight - traffic congestion all directions Sydney Rd at Condamine St
+1306707384585216000 2020-09-18 05:31:32 +0800 <GettrafficNSW> Mosman - traffic busy bothways at Spit Bridge
+1306707136785690624 2020-09-18 05:30:33 +0800 <GettrafficNSW> Ingleside - traffic congestion bothways Mona Vale Rd at Lane Cove Rd
+1306707120666996736 2020-09-18 05:30:29 +0800 <GettrafficNSW> Mascot - traffic underspeed citybound General Holmes Drive between M5 and Airport Tunnel
+1306706842991489025 2020-09-18 05:29:23 +0800 <GettrafficNSW> Queens Park - traffic busy all directions Avoca St at Darley Rd
+1306704019407077376 2020-09-18 05:18:10 +0800 <GettrafficNSW> Leichhardt - traffic building inbound City West Link approaching Balmain Rd
+1306703905749757952 2020-09-18 05:17:43 +0800 <GettrafficNSW> Lidcombe - traffic building northbound Olympic Drive approaching Kerrs Rd
+1306703769590087685 2020-09-18 05:17:10 +0800 <GettrafficNSW> Homebush West - slow traffic northbound Centenary Drive approaching Weeroona Rd &amp; Arthur Street
+1306703638656475138 2020-09-18 05:16:39 +0800 <GettrafficNSW> Blakehurst - traffic building northbound Princes Highway approaching King Georges Rd
+1306703231888666624 2020-09-18 05:15:02 +0800 <GettrafficNSW> Ultimo - traffic congestion all directions Wattle St at William Henry St
+1306703122169880576 2020-09-18 05:14:36 +0800 <GettrafficNSW> Lidcombe - traffic underspeed northbound Olympic Drive at Vaughan St
+1306703007606693889 2020-09-18 05:14:09 +0800 <GettrafficNSW> Newtown - traffic congestion all directions Carillon Ave at Missenden Rd
+1306702810700947462 2020-09-18 05:13:22 +0800 <GettrafficNSW> Strathfield - traffic busy citybound Hume Highway at The Boulevarde
+1306702790618562561 2020-09-18 05:13:17 +0800 <GettrafficNSW> Enmore - traffic congestion citybound Enmore Rd at King St
+1306702441283379200 2020-09-18 05:11:54 +0800 <GettrafficNSW> Rozelle - slow traffic citybound at Victoria Road
+1306696727928344576 2020-09-18 04:49:11 +0800 <GettrafficNSW> Frenchs Forest - traffic building southbound Forest Way at Warringah Road
+1306696639600451585 2020-09-18 04:48:50 +0800 <GettrafficNSW> Milperra - accident bothways Milperra Rd between Ashford Ave and Marigold St
+1306696555454328832 2020-09-18 04:48:30 +0800 <GettrafficNSW> Greystanes - slow traffic citybound M4 Motorway between Prospect Hwy and Greystanes Rd
+1306690967672553472 2020-09-18 04:26:18 +0800 <GettrafficNSW> Prestons - Cecil Park - traffic congested   northbound at M7
+1306690519414706176 2020-09-18 04:24:31 +0800 <GettrafficNSW> Rozelle - breakdown citybound Victoria Rd at Darling St
+1306689712984264704 2020-09-18 04:21:19 +0800 <GettrafficNSW> Mona Vale - traffic building eastbound Mona Vale Road at Samuel St
+1306689540975812608 2020-09-18 04:20:38 +0800 <GettrafficNSW> Macquarie Park - traffic busy bothways Lane Cove Rd at Epping Rd
+1306688381649207296 2020-09-18 04:16:01 +0800 <GettrafficNSW> Cecil Hills - traffic building northbound M7 Motorway approaching Elizabeth Drive
+1306688120625094657 2020-09-18 04:14:59 +0800 <GettrafficNSW> Casula - breakdown citybound M5 after Kurrajong Rd
+1306688005592158208 2020-09-18 04:14:32 +0800 <GettrafficNSW> Hammondville - sun glare citybound at M5
+1306687249124175872 2020-09-18 04:11:31 +0800 <GettrafficNSW> Brighton Le Sands - traffic congested   citybound The Grand Parade approaching Bay Street
+1306687128194052096 2020-09-18 04:11:03 +0800 <GettrafficNSW> Arncliffe - traffic building citybound General Holmes Drive after The M5 East Tunnel
+1306687005963595776 2020-09-18 04:10:33 +0800 <GettrafficNSW> Leichhardt - heavy traffic inbound City West Link approaching Catherine Street
+1306686889915686912 2020-09-18 04:10:06 +0800 <GettrafficNSW> North Ryde - slow traffic northbound Lane Cove Rd approaching Bridge Rd
+1306685088013234176 2020-09-18 04:02:56 +0800 <GettrafficNSW> Quakers Hill - traffic busy southbound Richmond Rd at Knox Rd
+1306684084316299266 2020-09-18 03:58:57 +0800 <GettrafficNSW> Yagoona - traffic congestion southbound Rookwood Rd at Muir Rd
+1306683862282502144 2020-09-18 03:58:04 +0800 <GettrafficNSW> Padstow - traffic busy bothways Davies Rd at Burradoo St
+1306683285217538048 2020-09-18 03:55:46 +0800 <GettrafficNSW> Greenacre - traffic congestion southbound Roberts Rd approaching Rawson Rd
+1306683115864162304 2020-09-18 03:55:06 +0800 <GettrafficNSW> Clyde - slow traffic citybound Parramatta Road approaching James Ruse Drive
+1306682969432547328 2020-09-18 03:54:31 +0800 <GettrafficNSW> Wolli Creek - traffic building citybound Princes Highway approaching Brodie Spark Drive
+1306682560538267648 2020-09-18 03:52:54 +0800 <GettrafficNSW> Chatswood - traffic busy citybound Pacific Highway at Mowbray Rd
+1306682325489471489 2020-09-18 03:51:58 +0800 <GettrafficNSW> Kirrawee - slow traffic citybound Princes Highway at Kingsway
+1306681874274639872 2020-09-18 03:50:10 +0800 <GettrafficNSW> Chatswood - traffic congestion southbound Pacific Highway at Mowbray Rd
+1306680554092335104 2020-09-18 03:44:55 +0800 <GettrafficNSW> Prospect - slow traffic southbound Prospect Highway approaching The M4
+1306679853786177536 2020-09-18 03:42:08 +0800 <GettrafficNSW> Brighton Le-Sands - traffic flowing freely citybound at The Grand Parade, General Holmes Drive
+1306679497672986624 2020-09-18 03:40:43 +0800 <GettrafficNSW> Minchinbury - traffic building citybound M4 Motorway between Roper Rd and The Light Horse Interchange
+1306679336947212288 2020-09-18 03:40:05 +0800 <GettrafficNSW> Prospect - heavy traffic southbound Prospect Hwy approaching The Great Western Highway &amp; The M4
+1306679200472944640 2020-09-18 03:39:32 +0800 <GettrafficNSW> Bexley - traffic building northbound Forest Road approaching Bexley Road
+1306678999498645504 2020-09-18 03:38:45 +0800 <GettrafficNSW> South Wentworthville - traffic building northbound Cumberland Highway approaching The M4 Motorway
+1306678862324015106 2020-09-18 03:38:12 +0800 <GettrafficNSW> Homebush West - heavy traffic northbound Centenary Drive approaching Weeroona Rd &amp; Arthur Street
+1306678644069154817 2020-09-18 03:37:20 +0800 <GettrafficNSW> Rookwood - traffic slow northbound Centenary Dr at Arthur St
+1306678444600619008 2020-09-18 03:36:32 +0800 <GettrafficNSW> Bonnyrigg - traffic busy citybound Elizabeth Dr at Cowpasture Rd
+1306674118675193856 2020-09-18 03:19:21 +0800 <GettrafficNSW> Kellyville - traffic building southbound Old Windsor Road at Memorial Ave
+1306673961518788608 2020-09-18 03:18:43 +0800 <GettrafficNSW> Liverpool - traffic building northbound Hume Highway at Elizabeth Dr
+1306673615216062464 2020-09-18 03:17:21 +0800 <GettrafficNSW> Camden - closed due to building fire bothways Argyle St between Elizabeth St and John St
+1306673383011094528 2020-09-18 03:16:25 +0800 <GettrafficNSW> Rhodes - traffic busy bothways Concord Rd at Homebush Bay Dr
+1306672827181838337 2020-09-18 03:14:13 +0800 <GettrafficNSW> Strathfield - traffic building northbound Centenary Drive approaching Arthur St
+1306511110791598080 2020-09-17 16:31:37 +0800 <GettrafficNSW> Mascot - traffic delayed outbound Southern Cross Dr at The Airport Tunnel
+1306510883292545024 2020-09-17 16:30:43 +0800 <GettrafficNSW> Winston Hills - slow traffic bothways Old Windsor Road at Powers Road
+1306510229740290059 2020-09-17 16:28:07 +0800 <GettrafficNSW> Warwick Farm - slow traffic bothways Hume Hwy at Governor Macquarie Dr
+1306509791825506304 2020-09-17 16:26:22 +0800 <GettrafficNSW> Strathfield - slow traffic northbound Centenary Dr approaching Arthur Street
+1306507228145278976 2020-09-17 16:16:11 +0800 <GettrafficNSW> Northmead - traffic congestion eastbound Old Windsor Road approaching Briens Rd
+1306507019726196736 2020-09-17 16:15:21 +0800 <GettrafficNSW> Georges Hall - traffic delayed southbound Henry Lawson Dr between Denman Rd and Milperra Road
+1306506779010899968 2020-09-17 16:14:24 +0800 <GettrafficNSW> Brighton-Le-Sands - traffic slow southbound General Holmes Drive approaching The Grand Parade
+1306503316310949888 2020-09-17 16:00:38 +0800 <GettrafficNSW> Macquarie Park - traffic building quickly westbound M2 at Delhi Rd
+1306502674850824194 2020-09-17 15:58:05 +0800 <GettrafficNSW> North Parramatta - traffic delayed westbound James Ruse Drive approaching Briens Rd
+1306502448937226240 2020-09-17 15:57:12 +0800 <GettrafficNSW> Glenwood - traffic slow northbound Old Windsor Road between Norwest Blvd and Balmoral Rd
+1306502235560394752 2020-09-17 15:56:21 +0800 <GettrafficNSW> Bankstown - traffic delayed bothways Canterbury Rd at Fairford Road
+1306502098385661952 2020-09-17 15:55:48 +0800 <GettrafficNSW> Sydney - traffic heavy bothways Sydney Harbour Tunnel in The Main Tunnel
+1306501804142682112 2020-09-17 15:54:38 +0800 <GettrafficNSW> West Pymble - traffic delayed southbound Ryde Road approaching Lane Cove Rd
+1306501554778722305 2020-09-17 15:53:38 +0800 <GettrafficNSW> Mcgraths Hill - slow traffic northbound Windsor Rd between Pitt Town Rd and Macquarie Street
+1306501338222657536 2020-09-17 15:52:47 +0800 <GettrafficNSW> Wamberal - slow traffic southbound Ocean View Dr between Lake View Rd and Terrigal Dr
+1306496192411439104 2020-09-17 15:32:20 +0800 <GettrafficNSW> Gledswood Hills - slow traffic outbound Camden Valley Way between Catherine Fields Rd and Gregory Hills Dr
+1306495475168628737 2020-09-17 15:29:29 +0800 <GettrafficNSW> Mona Vale - slow traffic northbound Pittwater Rd between Warriewood Rd and Vineyard St
+1306494890365218817 2020-09-17 15:27:10 +0800 <GettrafficNSW> Banksmeadow - slow traffic northbound Foreshore Road approaching General Holmes Drive
+1306494748929056768 2020-09-17 15:26:36 +0800 <GettrafficNSW> Naremburn - traffic congestion northbound Gore Hill Freeway at Willoughby Rd
+1306494190197436416 2020-09-17 15:24:23 +0800 <GettrafficNSW> Baulkham Hills - traffic delayed westbound M2 approaching Windsor Rd
+1306492226508259328 2020-09-17 15:16:34 +0800 <GettrafficNSW> Thornleigh - traffic delayed westbound The Comenarra Parkway between Fox Valley Rd and Pennant Hills Rd
+1306492052339740673 2020-09-17 15:15:53 +0800 <GettrafficNSW> Strathfield - heavy traffic northbound Centenary Drive between Roberts Rd and Arthur St
+1306488999985389570 2020-09-17 15:03:45 +0800 <GettrafficNSW> Mosman - slow traffic bothways Military Road at Spit Road
+1306487659817099268 2020-09-17 14:58:26 +0800 <GettrafficNSW> Horsley Park - traffic cued southbound M7 between M4 and The Horsley Dr
+1306487350805950464 2020-09-17 14:57:12 +0800 <GettrafficNSW> Seaforth - traffic congested   inbound Manly Road approaching Spit Bridge
+1306484867962564609 2020-09-17 14:47:20 +0800 <GettrafficNSW> Strathfield - traffic heavy northbound Centenary Drive between Roberts Rd and Arthur St
+1306484656104038400 2020-09-17 14:46:29 +0800 <GettrafficNSW> West Pymble - traffic delayed southbound Ryde Rd approaching Lane Cove Rd
+1306482247919235073 2020-09-17 14:36:55 +0800 <GettrafficNSW> Menai - heavy traffic outbound Alfords Point Road between Brushwood Drive and Old Illawarra Rd
+1306481900974874624 2020-09-17 14:35:33 +0800 <GettrafficNSW> Kirrawee - traffic building outbound Princes Highway between Bates Drive and Flora St
+1306481683244310529 2020-09-17 14:34:41 +0800 <GettrafficNSW> Prospect - heavy traffic southbound Prospect Hwy approaching M4
+1306481455413907456 2020-09-17 14:33:46 +0800 <GettrafficNSW> Northmead - slow traffic outbound James Ruse Dr approaching Briens Road
+1306478137669165056 2020-09-17 14:20:35 +0800 <GettrafficNSW> Revesby - accident outbound M5 approaching Beaconsfield St
+1306477819229122561 2020-09-17 14:19:19 +0800 <GettrafficNSW> Roselands - accident outbound King Georges Rd at Roseland Ave
+1306477497966448641 2020-09-17 14:18:03 +0800 <GettrafficNSW> Mascot - accident bothways King St between Botany Rd and O'riordan St
+1306475684609441792 2020-09-17 14:10:51 +0800 <GettrafficNSW> Darlinghurst - heavy traffic outbound Eastern Distributor between Bourke St and Anzac Parade
+1306473900071555072 2020-09-17 14:03:45 +0800 <GettrafficNSW> Eastern Creek - slow traffic southbound M7 at Light Horse Interchange
+1306473536983199747 2020-09-17 14:02:18 +0800 <GettrafficNSW> Stanmore - accident citybound Stanmore Rd at Liberty St
+1306473279272570880 2020-09-17 14:01:17 +0800 <GettrafficNSW> Greystaines - accident westbound M4 at Clunies Ross St
+1306472868499210240 2020-09-17 13:59:39 +0800 <GettrafficNSW> Brighton Le Sands - slow traffic bothways The Grand Parade at Bay Street
+1306472429787557888 2020-09-17 13:57:55 +0800 <GettrafficNSW> Mascot - brokendown truck outbound Southern Cross Drive near Wentworth Ave
+1306464792882757634 2020-09-17 13:27:34 +0800 <GettrafficNSW> Horsley Park - traffic congested   southbound M7 between M4 and Elizabeth Dr
+1306464550644977664 2020-09-17 13:26:36 +0800 <GettrafficNSW> Bondi - traffic heavy westbound Old South Head Rd between Lancaster Rd and Victoria Rd
+1306464378535866368 2020-09-17 13:25:55 +0800 <GettrafficNSW> Mosman - traffic heavy inbound Spit Rd approaching Military Rd
+1306463786375675904 2020-09-17 13:23:34 +0800 <GettrafficNSW> Mosman - traffic congested   bothways Military Rd between Ben Boyd Rd and Pearl Bay Ave
+1306463607786364929 2020-09-17 13:22:51 +0800 <GettrafficNSW> North Bondi - heavy traffic bothways Old South Head Rd at Fernleigh Ave
+1306463404937232385 2020-09-17 13:22:03 +0800 <GettrafficNSW> Point Piper - heavy traffic outbound New South Head Rd between Bellevue Rd and Clairvaux Rd
+1306463114783678464 2020-09-17 13:20:54 +0800 <GettrafficNSW> Kensington - brokendown truck outbound Alison Rd just past Doncaster Ave
+1306459651291058176 2020-09-17 13:07:08 +0800 <GettrafficNSW> Earlwood - heavy traffic outbound Homer St approaching Hartill-Law Ave
+1306459404691103745 2020-09-17 13:06:09 +0800 <GettrafficNSW> Beverly Hills - slow traffic bothways King Georges Rd at Broadarrow Rd
+1306454246439571456 2020-09-17 12:45:39 +0800 <GettrafficNSW> Sydney - police activity outbound Castlereagh St between Hunter St and King St
+1306450126123053056 2020-09-17 12:29:17 +0800 <GettrafficNSW> Mascot - heavy traffic outbound M5 East at Cooks River Tunnel
+1306449908803670016 2020-09-17 12:28:25 +0800 <GettrafficNSW> Warwick Farm - slow traffic outbound Hume Highway at Governor Macquarie Drive
+1306449679295475712 2020-09-17 12:27:30 +0800 <GettrafficNSW> Rozelle - slow traffic citybound Victoria Rd at The Crescent
+1306449379146919939 2020-09-17 12:26:19 +0800 <GettrafficNSW> Orchard Hills - traffic building quickly northbound The Northern Road at Glenmore Parkway
+1306449055938048000 2020-09-17 12:25:02 +0800 <GettrafficNSW> Thornleigh - slow traffic inbound Pennant Hills Rd at Trelawney St
+1306448855173529602 2020-09-17 12:24:14 +0800 <GettrafficNSW> Bradbury - heavy traffic all directions Oxley St at Bradbury Ave
+1306448655008759808 2020-09-17 12:23:26 +0800 <GettrafficNSW> Kyeemagh - heavy traffic bothways General Holmes Drive at Rowley St
+1306448379363225600 2020-09-17 12:22:20 +0800 <GettrafficNSW> Colebee - heavy traffic bothways Richmond Rd at Hollinsworth Rd
+1306448178539950081 2020-09-17 12:21:33 +0800 <GettrafficNSW> Mosman - traffic congestion bothways Spit Bridge between Manly Rd and Spit Rd
+1306447984821899264 2020-09-17 12:20:46 +0800 <GettrafficNSW> Kogarah - slow traffic bothways Railway Parade at Regent St
+1306446741340745728 2020-09-17 12:15:50 +0800 <GettrafficNSW> Granville - slow traffic westbound Parramatta Rd between Rawson St and Woodville Rd
+1306446600332439553 2020-09-17 12:15:16 +0800 <GettrafficNSW> Rozelle - slow traffic southbound Victoria Rd between Evans St and The Crescent
+1306446444564340736 2020-09-17 12:14:39 +0800 <GettrafficNSW> Newtown - slow traffic bothways Princes Highway between Erskineville Rd and Enmore Rd
+1306403074664095744 2020-09-17 09:22:19 +0800 <GettrafficNSW> Mona Vale - accident southbound Mona Vale Road at Pondarosa Pde
+1306391432714887169 2020-09-17 08:36:03 +0800 <GettrafficNSW> Pymble - accident eastbound Mona Vale Rd at Telegraph Rd
+1306391123468759042 2020-09-17 08:34:50 +0800 <GettrafficNSW> Glenmore Park - traffic congestion bothways The Northern Rd at Bradley St
+1306378202567249921 2020-09-17 07:43:29 +0800 <GettrafficNSW> Mona Vale - traffic heavy bothways Mona Vale Rd at Lane Cove Rd
+1306370954700890113 2020-09-17 07:14:41 +0800 <GettrafficNSW> Croydon - brokendown B-double citybound Hume Highway at Fredrick St
+1306370583966359552 2020-09-17 07:13:13 +0800 <GettrafficNSW> Artarmon - stalled bus citybound Sydney Orbital Network at Reserve Rd
+1306362247271215106 2020-09-17 06:40:05 +0800 <GettrafficNSW> Rookwood - traffic busy northbound Centenary Dr at Arthur St
+1306362206712258560 2020-09-17 06:39:55 +0800 <GettrafficNSW> Clyde - traffic heavy bothways Parramatta Rd at James Ruse Dr
+1306362135094542336 2020-09-17 06:39:38 +0800 <GettrafficNSW> Eastern Creek - traffic congested   citybound M4 at Light Horse Interchange
+1306362098218221568 2020-09-17 06:39:29 +0800 <GettrafficNSW> Wahroonga - traffic building southbound M1 at Pacific Highway
+1306362062935789568 2020-09-17 06:39:21 +0800 <GettrafficNSW> Bella Vista - traffic moving well southbound M7 at Old Windsor Rd
+1306362013061320705 2020-09-17 06:39:09 +0800 <GettrafficNSW> Thornleigh - traffic congestion bothways Pennant Hills Rd at Comenarra Parkway
+1306361987866046464 2020-09-17 06:39:03 +0800 <GettrafficNSW> Rhodes - traffic busy northbound Concord Rd at Ryde Bridge
+1306361960494067713 2020-09-17 06:38:57 +0800 <GettrafficNSW> Rozelle - traffic congestion citybound City West Link at Darley Rd
+1306361922325897216 2020-09-17 06:38:47 +0800 <GettrafficNSW> Drummoyne - traffic busy citybound Victoria Rd at Lyons Rd
+1306361879825014784 2020-09-17 06:38:37 +0800 <GettrafficNSW> North Sydney - traffic congestion northbound Warringah Fwy at Falcon St
+1306361845775626240 2020-09-17 06:38:29 +0800 <GettrafficNSW> Seaforth - traffic congestion northbound Spit Rd at Spit Bridge
+1306361801945223168 2020-09-17 06:38:19 +0800 <GettrafficNSW> Frenchs Forest - traffic moderate all directions Warringah Rd at Wakehurst Parkway
+1306361787177000960 2020-09-17 06:38:15 +0800 <GettrafficNSW> Turramurra - traffic congestion southbound Pacific Hwy at Kissing Point Rd
+1306361750724292609 2020-09-17 06:38:07 +0800 <GettrafficNSW> Chatswood - traffic busy southbound Pacific Hwy at Mowbray Rd
+1306361695858618368 2020-09-17 06:37:53 +0800 <GettrafficNSW> Brighton Le Sands - traffic slow northbound The Grand Parade at Bay St
+1306361681153384449 2020-09-17 06:37:50 +0800 <GettrafficNSW> Campsie - traffic busy citybound Canterbury Rd at Beamish St
+1306361662560063488 2020-09-17 06:37:46 +0800 <GettrafficNSW> Ashfield - traffic moving well citybound Liverpool Rd at Frederick St
+1306361605806985217 2020-09-17 06:37:32 +0800 <GettrafficNSW> Five Dock - traffic moderate citybound Parramatta Rd at Great North Rd
+1306361562282651649 2020-09-17 06:37:22 +0800 <GettrafficNSW> Leichhardt - traffic congestion citybound Parramatta Rd at Norton St
+1306361540602294272 2020-09-17 06:37:16 +0800 <GettrafficNSW> Camperdown - traffic busy citybound Parramatta Rd at Missenden Rd
+1306359156266266625 2020-09-17 06:27:48 +0800 <GettrafficNSW> Kincumber - traffic building eastbound Avoca Drive approaching Empire Bay Drive
+1306358989710450689 2020-09-17 06:27:08 +0800 <GettrafficNSW> East Gosford - traffic building westbound Wells Street approaching Henry Parry Drive
+1306358837612392449 2020-09-17 06:26:32 +0800 <GettrafficNSW> Pyrmont - slow traffic inbound Anzac Bridge approaching The City
+1306358793136087041 2020-09-17 06:26:21 +0800 <GettrafficNSW> Wamberal - traffic building southbound Ocean View Drive approaching Terrigal Drive
+1306358656535990273 2020-09-17 06:25:49 +0800 <GettrafficNSW> Terrigal - traffic building northbound Scenic Highway approaching Charles Kay Drive
+1306358654518484992 2020-09-17 06:25:48 +0800 <GettrafficNSW> Carlingford - school zone congestion bothways at Pennant Hills Rd
+1306358486117171200 2020-09-17 06:25:08 +0800 <GettrafficNSW> Edgecliffe And Rose Bay - school zone congestion bothways at New South Head Rd
+1306358403124453376 2020-09-17 06:24:48 +0800 <GettrafficNSW> Erina Heights - traffic building westbound Central Coast Highway approaching Terrigal Drive
+1306355691293032448 2020-09-17 06:14:02 +0800 <GettrafficNSW> North Narrabeen - traffic underspeed bothways Pittwater Rd at Wakehurst Parkway
+1306355526666612736 2020-09-17 06:13:23 +0800 <GettrafficNSW> Dural - traffic busy southbound Old Northern Rd at New Line Rd
+1306355379907915776 2020-09-17 06:12:48 +0800 <GettrafficNSW> Concord - traffic congested   southbound Concord Rd at M4 Motorway On-Ramp
+1306355147107262464 2020-09-17 06:11:52 +0800 <GettrafficNSW> Camperdown - slow traffic bothways Missenden Rd between Parramatta Road and King St
+1306352543065202688 2020-09-17 06:01:31 +0800 <GettrafficNSW> Northmead - traffic heavy northbound Windsor Rd between James Ruse Drive and Churchill Dr
+1306352376933040129 2020-09-17 06:00:52 +0800 <GettrafficNSW> Sutherland - traffic busy inbound River Rd Over The Woronora Bridge approaching Linden St
+1306352181537157120 2020-09-17 06:00:05 +0800 <GettrafficNSW> Kensington - traffic congested   citybound Anzac Parade at Dacey Ave
+1306352044639313920 2020-09-17 05:59:32 +0800 <GettrafficNSW> St Peters - traffic slow citybound Princes Highway at Campbell St
+1306347647788224512 2020-09-17 05:42:04 +0800 <GettrafficNSW> Ingleside - traffic heavy bothways Mona Vale Rd at Manor Rd
+1306347570369761280 2020-09-17 05:41:46 +0800 <GettrafficNSW> Drummoyne - traffic underspeed citybound Victoria Road between Lyons Rd and Darling St, Balmain
+1306347375615598592 2020-09-17 05:40:59 +0800 <GettrafficNSW> North Turramurra - traffic heavy all directions Bobbin Head Rd at Burns Rd
+1306347058874335232 2020-09-17 05:39:44 +0800 <GettrafficNSW> Bligh Park - traffic congested   southbound George St at Blacktown Rd
+1306346820323258369 2020-09-17 05:38:47 +0800 <GettrafficNSW> Emu Plains - traffic congested   northbound Great Western Hwy at Old Bathurst Rd
+1306346547504754688 2020-09-17 05:37:42 +0800 <GettrafficNSW> Mulgoa - traffic heavy bothways The Northern Rd at Littlefields Rd
+1306346319900934144 2020-09-17 05:36:48 +0800 <GettrafficNSW> Luddenham - traffic congested   northbound The Northern Rd at Elizabeth Dr
+1306345604948176897 2020-09-17 05:33:57 +0800 <GettrafficNSW> Roselands - traffic heavy citybound Canterbury Rd at King Georges Rd
+1306345587034304512 2020-09-17 05:33:53 +0800 <GettrafficNSW> Bankstown - traffic cued northbound Fairford Rd at Macauley Ave
+1306345558240423937 2020-09-17 05:33:46 +0800 <GettrafficNSW> Milperra - traffic building northbound Henry Lawson Dr at Milperra Rd
+1306345528762929152 2020-09-17 05:33:39 +0800 <GettrafficNSW> Georges Hall - traffic congestion southbound Henry Lawson Dr at Haig Ave
+1306345478871605249 2020-09-17 05:33:27 +0800 <GettrafficNSW> Chipping Norton - traffic busy citybound Newbridge Rd at Governor Macquarie Dr
+1306345458474786817 2020-09-17 05:33:22 +0800 <GettrafficNSW> Moorebank - traffic building northbound Moorebank Ave at Newbridge Rd
+1306345426463809536 2020-09-17 05:33:15 +0800 <GettrafficNSW> Liverpool - traffic heavy northbound Hume Highway at Elizabeth Dr
+1306345397661478914 2020-09-17 05:33:08 +0800 <GettrafficNSW> Cecil Hills - traffic lighter than normal northbound M7 at Elizabeth Dr
+1306345334772174848 2020-09-17 05:32:53 +0800 <GettrafficNSW> Leppington - traffic congestion northbound Camden Valley Way at Denham Court Rd
+1306345317667725313 2020-09-17 05:32:49 +0800 <GettrafficNSW> Minto - traffic busy bothways Pembroke Rd at Ben Lomond Rd
+1306345298839568384 2020-09-17 05:32:44 +0800 <GettrafficNSW> Campbelltown - traffic building all directions Narellan Rd at Blaxland Rd
+1306345125459550208 2020-09-17 05:32:03 +0800 <GettrafficNSW> Blakehurst - traffic delayed southbound King Georges Rd at Princes Highway
+1306345034241830913 2020-09-17 05:31:41 +0800 <GettrafficNSW> Harrington Park - traffic moderate bothways The Northern Rd at Fairwater Dr
+1306344999638892544 2020-09-17 05:31:33 +0800 <GettrafficNSW> Mascot - traffic moderate citybound General Holmes Dr at Foreshore Rd
+1306344971939708928 2020-09-17 05:31:26 +0800 <GettrafficNSW> Eastern Creek - traffic underspeed citybound M4 at The Lighthorse Interchange
+1306344968957566976 2020-09-17 05:31:25 +0800 <GettrafficNSW> Roseville - traffic congested   citybound Pacific Highway at Boundary St
+1306344913999544320 2020-09-17 05:31:12 +0800 <GettrafficNSW> Gladesville - traffic cued citybound Victoria Rd at Pittwater Dr
+1306344891564175361 2020-09-17 05:31:07 +0800 <GettrafficNSW> Kogarah - traffic busy northbound Princes Highway at Rocky Point Rd
+1306344852167094272 2020-09-17 05:30:58 +0800 <GettrafficNSW> Rouse Hill - traffic busy southbound Windsor Rd at Commercial Rd
+1306344839789727745 2020-09-17 05:30:55 +0800 <GettrafficNSW> Stanhope Gardens - slow traffic southbound Old Windsor Road at Memorial Ave
+1306344811520126976 2020-09-17 05:30:48 +0800 <GettrafficNSW> Blakehurst - traffic busy northbound Princes Highway at King Georges Rd
+1306344793740435456 2020-09-17 05:30:44 +0800 <GettrafficNSW> Seven Hills - heavy traffic citybound M7 &amp; M2 at Seven Hills Road
+1306344767060496385 2020-09-17 05:30:37 +0800 <GettrafficNSW> Taren Point - traffic congestion all directions Taren Point Rd at Captain Cook Dr
+1306344660852375553 2020-09-17 05:30:12 +0800 <GettrafficNSW> Kirrawee - traffic building bothways Princes Highway at President Ave
+1306344564685381632 2020-09-17 05:29:49 +0800 <GettrafficNSW> Hoxton Park - traffic moderate all directions Cowpasture Rd at Hoxton Park Rd
+1306344441922248705 2020-09-17 05:29:20 +0800 <GettrafficNSW> Croydon Park - traffic busy citybound Georges River Rd at Brighton Ave
+1306344417318453249 2020-09-17 05:29:14 +0800 <GettrafficNSW> St Peters - slow traffic northbound Princes Highway at Canal Rd
+1306344389048852480 2020-09-17 05:29:07 +0800 <GettrafficNSW> Queens Park - traffic building all directions Avoca St at Darley Rd
+1306344363258077184 2020-09-17 05:29:01 +0800 <GettrafficNSW> Waverley - slow traffic all directions Carrington Rd at Bronte Rd
+1306344184412946432 2020-09-17 05:28:18 +0800 <GettrafficNSW> Balmain - traffic congested   all directions Montague St at Darling St
+1306344027298488320 2020-09-17 05:27:41 +0800 <GettrafficNSW> Padstow - traffic busy northbound Fairford Rd above M5 Motorway
+1306343925913759744 2020-09-17 05:27:17 +0800 <GettrafficNSW> Lewisham - traffic congestion all directions Old Canterbury Rd at Railway Terrace
+1306343692710506496 2020-09-17 05:26:21 +0800 <GettrafficNSW> Eastlakes - traffic slow citybound Southern Cross Drive at Moore Park
+1306339846479208448 2020-09-17 05:11:04 +0800 <GettrafficNSW> Pyrmont - breakdown westbound Western Distributor at Anzac Bridge
+1306339184647368705 2020-09-17 05:08:26 +0800 <GettrafficNSW> Double Bay - traffic slow bothways New South Head Rd at Ocean St
+1306338967176884224 2020-09-17 05:07:35 +0800 <GettrafficNSW> Bondi North - traffic congestion bothways Old South Head Rd at Blair St
+1306338761832165377 2020-09-17 05:06:46 +0800 <GettrafficNSW> Kyeemagh - traffic heavy citybound General Holmes Dr at Bestic St
+1306338564548902913 2020-09-17 05:05:59 +0800 <GettrafficNSW> Bexley - traffic busy all directions Preddys Rd at Stony Creek Rd
+1306338350727532544 2020-09-17 05:05:08 +0800 <GettrafficNSW> Beverly Hills - traffic congestion northbound King Georges Rd at Broadarrow Rd
+1306338136461434880 2020-09-17 05:04:16 +0800 <GettrafficNSW> Padstow - traffic heavy northbound Davies Rd at Watson Rd
+1306337948091076608 2020-09-17 05:03:32 +0800 <GettrafficNSW> Bardia - traffic congested   northbound Campbelltown Rd at Macdonald Rd
+1306337610516713472 2020-09-17 05:02:11 +0800 <GettrafficNSW> North Sydney - breakdown northbound Warringah Freeway at Falcon St
+1306336785618800640 2020-09-17 04:58:54 +0800 <GettrafficNSW> North Ryde, Macquarie Park - slow traffic northbound Lane Cove Road approaching M2
+1306336057638621184 2020-09-17 04:56:01 +0800 <GettrafficNSW> Terrigal - traffic building southbound Ocean View Drive approaching Terrigal Drive
+1306335719724523520 2020-09-17 04:54:40 +0800 <GettrafficNSW> West Gosford - traffic building bothways Central Coast Highway at Henry Kendall Bridge
+1306333829980762119 2020-09-17 04:47:10 +0800 <GettrafficNSW> Smithfield - traffic congestion northbound Cumberland Hwy at The Horsley Dr
+1306333545678290945 2020-09-17 04:46:02 +0800 <GettrafficNSW> Middleton Grange - traffic congestion bothways M7 at Cowpasture Rd
+1306333217775996928 2020-09-17 04:44:44 +0800 <GettrafficNSW> Monterey - traffic delayed citybound The Grand Parade between President Ave and Airport Tunnel, Mascot
+1306333001484177409 2020-09-17 04:43:52 +0800 <GettrafficNSW> Baulkham Hills - traffic busy southbound Old Windsor Road at Caroline Chisholm Dr
+1306332437266403328 2020-09-17 04:41:38 +0800 <GettrafficNSW> Cammeray - car in clearway westbound Ernest St at Anzac Ave
+1306330091195043840 2020-09-17 04:32:18 +0800 <GettrafficNSW> Kincumber - wires down  at Water Street
+1306330036467765248 2020-09-17 04:32:05 +0800 <GettrafficNSW> Prestons - traffic cued citybound M5 at Beech Rd
+1306329267165302784 2020-09-17 04:29:02 +0800 <GettrafficNSW> West Pennant Hills - traffic underspeed eastbound M2 Motorway approaching Pennant Hills Rd Exit
+1306328974323138560 2020-09-17 04:27:52 +0800 <GettrafficNSW> Haberfield - traffic congested   inbound City-West Link at Lilyfield
+1306328640385212416 2020-09-17 04:26:32 +0800 <GettrafficNSW> Seaforth - traffic cued southbound Burnt Bridge Creek Deviation at Sydney Rd
+1306328299174391808 2020-09-17 04:25:11 +0800 <GettrafficNSW> Granville - heavy traffic bothways Parramatta Rd between Woodville Rd and James Ruse Dr
+1306326725253505024 2020-09-17 04:18:56 +0800 <GettrafficNSW> Rhodes - traffic busy northbound Concord Rd approaching Ryde Bridge
+1306326511876620289 2020-09-17 04:18:05 +0800 <GettrafficNSW> Leppington - traffic building northbound Camden Valley Way at Denham Court Road
+1306326301091848192 2020-09-17 04:17:15 +0800 <GettrafficNSW> Mascot - traffic building citybound M5 Motorway at Airport Tunnel
+1306324483322474497 2020-09-17 04:10:01 +0800 <GettrafficNSW> East Gosford - traffic building bothways Wells Street between Brougham Street and Wattle Street
+1306324217386811392 2020-09-17 04:08:58 +0800 <GettrafficNSW> West Gosford - traffic building eastbound Central Coast Highway after Racecourse Road
+1306323884350865408 2020-09-17 04:07:39 +0800 <GettrafficNSW> Prospect - animal on highway bothways Great Western Highway at Blacktown Rd
+1306322610242764800 2020-09-17 04:02:35 +0800 <GettrafficNSW> Marsden Park - traffic underspeed southbound Richmond Rd approaching M7 Motorway On-Ramp
+1306322348669243394 2020-09-17 04:01:32 +0800 <GettrafficNSW> Bankstown - traffic slow bothways Stacey Street at Hume Highway
+1306322346752368641 2020-09-17 04:01:32 +0800 <GettrafficNSW> Liverpool - traffic busy bothways Hume Highway at Elizabeth Dr
+1306322186316070912 2020-09-17 04:00:54 +0800 <GettrafficNSW> Harrington Park - traffic building bothways The Northern Rd at Fairwater Dr
+1306322077394239489 2020-09-17 04:00:28 +0800 <GettrafficNSW> St Leonards - traffic busy citybound Pacific Highway at Herbert St
+1306321974671548416 2020-09-17 04:00:03 +0800 <GettrafficNSW> Dean Park - traffic congestion southbound Richmond Rd at M7
+1306321905490653184 2020-09-17 03:59:47 +0800 <GettrafficNSW> Woronora - traffic flowing freely eastbound at Woronora Bridge
+1306321730219118592 2020-09-17 03:59:05 +0800 <GettrafficNSW> Mooney Mooney Creek - traffic flowing freely southbound M1 at Mooney Mooney Bridge
+1306321512144617472 2020-09-17 03:58:13 +0800 <GettrafficNSW> Lilyfield - traffic building inbound at Citywestlink
+1306321318736879616 2020-09-17 03:57:27 +0800 <GettrafficNSW> Strathfield - slow traffic northbound Centenary Drive between The Hume Highway and Arthur Street
+1306321262726111232 2020-09-17 03:57:13 +0800 <GettrafficNSW> Brookvale - traffic busy eastbound Warringah Rd at Pittwater Rd
+1306321089480462336 2020-09-17 03:56:32 +0800 <GettrafficNSW> Brooklyn - traffic flowing freely  M1 at Hawkesbury River Bridge
+1306321081439928320 2020-09-17 03:56:30 +0800 <GettrafficNSW> Cecil Hills - traffic congested   all directions Cowpasture Rd at Elizabeth Dr
+1306320603939364864 2020-09-17 03:54:36 +0800 <GettrafficNSW> Melrose Park - traffic building eastbound Victoria Rd approaching Marsden Rd
+1306319303721975808 2020-09-17 03:49:26 +0800 <GettrafficNSW> Beverly Hills - brokendown B-double eastbound M5 at Coolongatta Rd
+1306318302369648640 2020-09-17 03:45:28 +0800 <GettrafficNSW> Beverly Hills - brokendown truck citybound M5 at King Georges Road
+1306317860583567362 2020-09-17 03:43:42 +0800 <GettrafficNSW> Prospect - slow traffic southbound Prospect Highway between Blacktown Road and Reservoir Road
+1306317681373507584 2020-09-17 03:43:00 +0800 <GettrafficNSW> Bexley - traffic busy bothways Forest Rd at Stony Creek Rd
+1306315589548494848 2020-09-17 03:34:41 +0800 <GettrafficNSW> Kyeemagh - traffic busy citybound General Holmes Dr at Bestic St
+1306315313466679296 2020-09-17 03:33:35 +0800 <GettrafficNSW> North Parramatta - traffic building southbound James Ruse Drive at Pennant Hills Rd
+1306314968229273600 2020-09-17 03:32:13 +0800 <GettrafficNSW> Liverpool - traffic congestion bothways Hume Highway approaching Elizabeth Dr
+1306314788755001344 2020-09-17 03:31:30 +0800 <GettrafficNSW> Strathfield - traffic building northbound Centenary Drive at Arthur St
+1306310363617456128 2020-09-17 03:13:55 +0800 <GettrafficNSW> Seven Hills - traffic building southbound Seven Hills Rd at Prospect Highway
+1306310168188055552 2020-09-17 03:13:08 +0800 <GettrafficNSW> Macquarie Park - traffic busy citybound M2 at Delhi Rd Exit
+1306309982623678466 2020-09-17 03:12:24 +0800 <GettrafficNSW> St Peters - traffic building bothways Princes Highway at Canal Rd
+1306151389194723328 2020-09-16 16:42:12 +0800 <GettrafficNSW> Glenwood - traffic slow northbound Old Windsor Road at Balmoral Rd
+1306151243279024129 2020-09-16 16:41:38 +0800 <GettrafficNSW> Woolloomooloo - traffic underspeed southbound Eastern Distributor approaching Dacey Ave
+1306143660900102145 2020-09-16 16:11:30 +0800 <GettrafficNSW> Ryde - slow traffic inbound Lane Cove Road at Goulding Rd
+1306140640510525440 2020-09-16 15:59:30 +0800 <GettrafficNSW> North Ryde - traffic slow southbound Lane Cove Road approaching Blaxland Rd
+1306140446419156992 2020-09-16 15:58:43 +0800 <GettrafficNSW> Brighton-Le-Sands - traffic congested   southbound The Grand Parade at Bay St
+1306140269801172993 2020-09-16 15:58:01 +0800 <GettrafficNSW> Forest Lodge - heavy traffic bothways Parramatta Rd at Ross St
+1306139831697731584 2020-09-16 15:56:17 +0800 <GettrafficNSW> Gymea - traffic busy outbound Princes Highway between The Boulevarde and Kingsway
+1306139652881936384 2020-09-16 15:55:34 +0800 <GettrafficNSW> Camperdown - heavy traffic bothways Parramatta Road between City Rd and Missenden Rd
+1306132490612953088 2020-09-16 15:27:07 +0800 <GettrafficNSW> Penrith - slow traffic outbound Castlereagh Rd between Great Western Highway and Coreen Ave
+1306132253320163329 2020-09-16 15:26:10 +0800 <GettrafficNSW> Brookvale - traffic building quickly outbound Pittwater Rd at Old Pittwater Rd
+1306132118909542401 2020-09-16 15:25:38 +0800 <GettrafficNSW> Riverwood - heavy traffic outbound M5 after Bonds Rd
+1306131921668169728 2020-09-16 15:24:51 +0800 <GettrafficNSW> Sydney - blocked by broken down vehicle citybound Sydney Harbour Tunnel at Mid Tunnel
+1306131599583395840 2020-09-16 15:23:34 +0800 <GettrafficNSW> Beecroft - brokendown truck citybound M2 after Pennant Hills Road
+1306131257131036673 2020-09-16 15:22:13 +0800 <GettrafficNSW> Beverly Hills - accident citybound Stoney Creek Rd at Penshurst St
+1306117084816896000 2020-09-16 14:25:54 +0800 <GettrafficNSW> Warwick Farm - traffic congested   outbound Hume Highway at Gov Macquarie Dr
+1306116630502469633 2020-09-16 14:24:05 +0800 <GettrafficNSW> Miranda - accident outbound Kingsway at Sylvania Rd
+1306116611296825344 2020-09-16 14:24:01 +0800 <GettrafficNSW> Gymea - traffic busy outbound Princes Highway at Kingsway
+1306116402734981121 2020-09-16 14:23:11 +0800 <GettrafficNSW> Blacktown - traffic slow westbound M4 at Reservoir Rd
+1306113968612679680 2020-09-16 14:13:31 +0800 <GettrafficNSW> Granville - accident inbound The Avenue at Queen St
+1306110346696876037 2020-09-16 13:59:07 +0800 <GettrafficNSW> Horsley Park - traffic delayed southbound M7 at The Horsley Dr
+1306110181491654656 2020-09-16 13:58:28 +0800 <GettrafficNSW> Auburn - traffic heavy bothways Parramatta Rd between Silverwater Rd and Woodville Rd
+1306110007121858560 2020-09-16 13:57:46 +0800 <GettrafficNSW> Homebush West - traffic delayed southbound Centenary Drive between Homebush Bay Drive and Arthur St
+1306102358317740032 2020-09-16 13:27:23 +0800 <GettrafficNSW> Northmead - slow traffic outbound James Ruse Dr approaching Briens Road
+1306102184363212800 2020-09-16 13:26:41 +0800 <GettrafficNSW> Cremorne - slow traffic bothways Military Road at Murdoch Street
+1306102027441729538 2020-09-16 13:26:04 +0800 <GettrafficNSW> Pyrmont - slow traffic outbound Anzac Bridge approaching Victoria Road
+1306101259724677120 2020-09-16 13:23:01 +0800 <GettrafficNSW> Silverwater - accident southbound Silverwater Rd approaching M4
+1306094018313424896 2020-09-16 12:54:14 +0800 <GettrafficNSW> Homebush West - traffic heavy southbound Centenary Drive between Homebush Bay Drive and Arthur St
+1306093850490855424 2020-09-16 12:53:34 +0800 <GettrafficNSW> Mosman - traffic congested   inbound Spit Rd approaching Military Rd
+1306093430724984832 2020-09-16 12:51:54 +0800 <GettrafficNSW> Lilyfield - traffic delayed westbound City-West Link Road at Catherine St
+1306091923132747776 2020-09-16 12:45:55 +0800 <GettrafficNSW> Orchard Hills - heavy traffic northbound The Northern Rd approaching M4
+1306091762738327552 2020-09-16 12:45:16 +0800 <GettrafficNSW> Sans Souci - traffic building quickly bothways Rocky Point Rd at Russell Ave
+1306091610153779200 2020-09-16 12:44:40 +0800 <GettrafficNSW> Newtown - heavy traffic bothways King St at Erskineville Rd
+1306064412025827328 2020-09-16 10:56:35 +0800 <GettrafficNSW> Ingleside - slow traffic eastbound Wakehurst Parkway between Oxford Falls Rd and Middle Creek Reserve
+1306064164926885889 2020-09-16 10:55:37 +0800 <GettrafficNSW> Rozelle - slow traffic southbound Victoria Rd between Darling St and The Crescent
+1306029673093029888 2020-09-16 08:38:33 +0800 <GettrafficNSW> Rozelle - breakdown citybound Victoria Rd at Darling St
+1306027430516158465 2020-09-16 08:29:38 +0800 <GettrafficNSW> Mooney Mooney - breakdown southbound M1 at Hawkesbury River Bridge
+1306013823464288256 2020-09-16 07:35:34 +0800 <GettrafficNSW> Guildford - accident southbound Woodville Rd at Guilford Rd
+1306012573960146945 2020-09-16 07:30:36 +0800 <GettrafficNSW> Cataract - accident bothways at Appin Road
+1306011359017140226 2020-09-16 07:25:47 +0800 <GettrafficNSW> Randwick - traffic lights blacked out bothways Carrington Rd at Clovelly Rd
+1306005257407750145 2020-09-16 07:01:32 +0800 <GettrafficNSW> Hebersham - accident all directions Woodstock Ave between Pringle Rd and Rooty Hill Road North
+1306002110857715712 2020-09-16 06:49:02 +0800 <GettrafficNSW> Horsley Park - traffic congestion northbound M7 approaching M4
+1306001019818487809 2020-09-16 06:44:42 +0800 <GettrafficNSW> Stanhope Gardens - heavy traffic southbound Old Windsor Road approaching Sunnyholt Road
+1305999303626780672 2020-09-16 06:37:52 +0800 <GettrafficNSW> Drummoyne - slow traffic southbound Victoria Road approaching Iron Cove Bridge
+1305998229444550656 2020-09-16 06:33:36 +0800 <GettrafficNSW> Revesby - vehicle fire citybound M5 Motorway near Queens Street
+1305997538273574913 2020-09-16 06:30:52 +0800 <GettrafficNSW> Kogorah - traffic busy citybound Princes Highway approaching Rocky Point Rd
+1305997413048483841 2020-09-16 06:30:22 +0800 <GettrafficNSW> Rhodes - heavy traffic northbound Concord Rd approaching The Ryde Bridge &amp; Church Street
+1305997271306133505 2020-09-16 06:29:48 +0800 <GettrafficNSW> Campsie - heavy traffic citybound Canterbury Rd approaching The Cooks River &amp; Canterbury
+1305992855198920705 2020-09-16 06:12:15 +0800 <GettrafficNSW> Woronora - slow traffic eastbound at Woronora Bridge
+1305992681634455553 2020-09-16 06:11:34 +0800 <GettrafficNSW> Drummoyne, Rozelle - slow traffic citybound Victoria Road merging w Anzac Bridge
+1305992412083355648 2020-09-16 06:10:29 +0800 <GettrafficNSW> Rookwood - traffic congested   northbound Centenary Dr at Arthur St
+1305992385931825152 2020-09-16 06:10:23 +0800 <GettrafficNSW> Clyde - traffic slow citybound Parramatta Rd at James Ruse Dr
+1305992359658708992 2020-09-16 06:10:17 +0800 <GettrafficNSW> Bella Vista - traffic moderate citybound M7 at Old Windsor Rd
+1305992340373299200 2020-09-16 06:10:12 +0800 <GettrafficNSW> Wahroonga - traffic lighter than normal southbound M1 at Pacific Highway
+1305992110592540672 2020-09-16 06:09:17 +0800 <GettrafficNSW> Beecroft - traffic congestion bothways Pennant Hills Rd at Beecroft Rd
+1305991904299872256 2020-09-16 06:08:28 +0800 <GettrafficNSW> Kellyville - traffic congested   southbound Old Windsor Rd at Memorial Ave
+1305991642101366785 2020-09-16 06:07:26 +0800 <GettrafficNSW> Rozelle - traffic heavy citybound City West Link at The Cresecent
+1305991618781089792 2020-09-16 06:07:20 +0800 <GettrafficNSW> Drummoyne - traffic congestion citybound Victoria Rd at Lyons Rd
+1305991585411133440 2020-09-16 06:07:12 +0800 <GettrafficNSW> North Sydney - traffic flowing freely southbound Warringah Fwy at Falcon St
+1305991389960744960 2020-09-16 06:06:26 +0800 <GettrafficNSW> Seaforth - slow traffic bothways Spit Rd at Spit Bridge
+1305991340736483328 2020-09-16 06:06:14 +0800 <GettrafficNSW> Chatswood - traffic heavy southbound Pacific Highway at Fullers Rd
+1305991306133401600 2020-09-16 06:06:06 +0800 <GettrafficNSW> Frenchs Forest - traffic building all directions Warringah Rd at Wakehurst Parkway
+1305991280816607232 2020-09-16 06:06:00 +0800 <GettrafficNSW> Turramurra - traffic heavy southbound Pacific Hwy at Kissing Point Rd
+1305991255243907072 2020-09-16 06:05:54 +0800 <GettrafficNSW> Brighton Le Sands - traffic moderate northbound The Grand Parade at Bay St
+1305991116215300096 2020-09-16 06:05:20 +0800 <GettrafficNSW> Campsie - traffic busy citybound Canterbury Rd at Beamish St
+1305990896224145408 2020-09-16 06:04:28 +0800 <GettrafficNSW> Ashfield - traffic congested   northbound Frederick St at Elizabeth St
+1305986142978809857 2020-09-16 05:45:35 +0800 <GettrafficNSW> Greystanes - accident citybound M4 at Greystanes Rd
+1305985274179067904 2020-09-16 05:42:08 +0800 <GettrafficNSW> Beverly Hills - slow traffic northbound King Georges Rd between Pensurst and Stoney Creek Road
+1305984927532343297 2020-09-16 05:40:45 +0800 <GettrafficNSW> Oxford Falls - slow traffic citybound The Wakehurst Parkway approaching Oxford Falls Road
+1305984305928138753 2020-09-16 05:38:17 +0800 <GettrafficNSW> Turramurra And Pymble - slow traffic citybound at Pacific Highway
+1305984052218925056 2020-09-16 05:37:16 +0800 <GettrafficNSW> Five Dock - traffic moderate citybound Parramatta Rd at Great North Rd
+1305984018320486400 2020-09-16 05:37:08 +0800 <GettrafficNSW> Leichhardt - traffic heavy citybound Parramatta Rd at Norton St
+1305984002042413056 2020-09-16 05:37:04 +0800 <GettrafficNSW> Camperdown - traffic moving well citybound Parramatta Rd at Missenden Rd
+1305983663906021376 2020-09-16 05:35:44 +0800 <GettrafficNSW> Roselands - slow traffic citybound Canterbury Rd at King Georges Rd
+1305983631010095105 2020-09-16 05:35:36 +0800 <GettrafficNSW> Bankstown - traffic congested   northbound Fairford Rd at Macauley Ave
+1305983590761545728 2020-09-16 05:35:26 +0800 <GettrafficNSW> Georges Hall - traffic moderate southbound Henry Lawson Dr at Haig Ave
+1305983555856523264 2020-09-16 05:35:18 +0800 <GettrafficNSW> Milperra - traffic moderate northbound Henry Lawson Dr at Milperra Rd
+1305983476324212737 2020-09-16 05:34:59 +0800 <GettrafficNSW> Chipping Norton - traffic congested   citybound Newbridge Rd at Governor Macquarie Dr
+1305983440047677441 2020-09-16 05:34:50 +0800 <GettrafficNSW> Moorebank - traffic busy northbound Moorebank Ave at Newbridge Rd
+1305983405813690368 2020-09-16 05:34:42 +0800 <GettrafficNSW> Liverpool - traffic congestion northbound Hume Highway at Elizabeth Dr
+1305983314054930432 2020-09-16 05:34:20 +0800 <GettrafficNSW> Currans Hill - traffic heavy inbound Narellan Rd at Hartley Dr
+1305982353785778176 2020-09-16 05:30:31 +0800 <GettrafficNSW> Chatswood - traffic building northbound Pacific Highway approaching Fullers Rd
+1305982246101245952 2020-09-16 05:30:06 +0800 <GettrafficNSW> Ryde - heavy traffic northbound Church Street approaching Victoria Rd &amp; Top Ryde
+1305982232687857667 2020-09-16 05:30:02 +0800 <GettrafficNSW> Bass Hill - traffic congestion citybound Hume Highway at Miller Rd
+1305982041238855680 2020-09-16 05:29:17 +0800 <GettrafficNSW> Gladesville - slow traffic citybound Victoria Road approaching Pittwater Rd
+1305981995424444416 2020-09-16 05:29:06 +0800 <GettrafficNSW> Narellan - traffic busy all directions Camden Valley Way at The Northern Rd
+1305980868532424704 2020-09-16 05:24:37 +0800 <GettrafficNSW> Cecil Hills - traffic busy northbound M7 at Elizabeth Dr
+1305980844788469760 2020-09-16 05:24:32 +0800 <GettrafficNSW> Middleton Grange - traffic congestion northbound M7 at Cowpasture Rd
+1305980821417861121 2020-09-16 05:24:26 +0800 <GettrafficNSW> Leppington - traffic heavy northbound Camden Valley Way at Denham Court Rd
+1305980804607090688 2020-09-16 05:24:22 +0800 <GettrafficNSW> Minto - traffic moderate all directions Pembroke Rd at Ben Lomond Rd
+1305980788165324800 2020-09-16 05:24:18 +0800 <GettrafficNSW> Campbelltown - traffic busy all directions Campbelltown Rd at Blaxland Rd
+1305980764287246336 2020-09-16 05:24:12 +0800 <GettrafficNSW> Harrington Park - traffic building quickly bothways The Northern Rd at Fairwater Dr
+1305980738634805248 2020-09-16 05:24:06 +0800 <GettrafficNSW> Mascot - traffic congestion citybound General Holmes Dr at Foreshore Rd
+1305980712789577730 2020-09-16 05:24:00 +0800 <GettrafficNSW> Moore Park - traffic busy citybound Southern Cross Dr at Eastern Distributor
+1305980606732365824 2020-09-16 05:23:35 +0800 <GettrafficNSW> Gladesville - traffic congestion citybound Victoria Rd at Pittwater Rd
+1305980586826235904 2020-09-16 05:23:30 +0800 <GettrafficNSW> Kogarah - traffic building northbound Princes Highway at Rocky Point Rd
+1305980558179090432 2020-09-16 05:23:23 +0800 <GettrafficNSW> Blakehurst - traffic congestion northbound Princes Highway at King Georges Rd
+1305980498305404928 2020-09-16 05:23:09 +0800 <GettrafficNSW> Willoughby - traffic building bothways Mowbray Rd at Willoughby Rd
+1305980474255273985 2020-09-16 05:23:03 +0800 <GettrafficNSW> Paddington - traffic busy all directions Moore Park Rd at Lang Rd
+1305980451257946113 2020-09-16 05:22:58 +0800 <GettrafficNSW> Double Bay - traffic moderate citybound New South Head Rd at Bellevue Rd
+1305980401777696770 2020-09-16 05:22:46 +0800 <GettrafficNSW> Bondi Junction - traffic moderate citybound Syd Einfield Dr at York Rd
+1305980376632848385 2020-09-16 05:22:40 +0800 <GettrafficNSW> Revesby - traffic building bothways The River Rd at Beaconsfield St
+1305979995945275392 2020-09-16 05:21:09 +0800 <GettrafficNSW> Wentworthville - traffic slow eastbound Great Western Highway approaching Coleman St
+1305979627597254657 2020-09-16 05:19:41 +0800 <GettrafficNSW> Sutherland - traffic delayed northbound Princes Highway at Old Princes Highway
+1305979475293696000 2020-09-16 05:19:05 +0800 <GettrafficNSW> Randwick - traffic congested   bothways Darley Rd at Carrington Rd
+1305979440954892288 2020-09-16 05:18:57 +0800 <GettrafficNSW> Kellyville - traffic congested   inbound Old Windsor Rd approaching Samantha Riley Drive
+1305979300596781057 2020-09-16 05:18:23 +0800 <GettrafficNSW> Mosman - heavy traffic inbound Spit Rd approaching Military Rd Junction
+1305979171399561216 2020-09-16 05:17:53 +0800 <GettrafficNSW> Pennant Hills - accident northbound Pennant Hills Rd between Boundary Rd and Yarrara Rd
+1305979164722307073 2020-09-16 05:17:51 +0800 <GettrafficNSW> Wiley Park - slow traffic citybound Canterbury Road approaching King Georges Rd
+1305979123349614594 2020-09-16 05:17:41 +0800 <GettrafficNSW> Pennant Hills - accident northbound Pennant Hills Rd at Yarrara Rd
+1305975906758832128 2020-09-16 05:04:54 +0800 <GettrafficNSW> Dean Park - slow traffic northbound M7 Motorway approaching Richmond Rd
+1305975694363521024 2020-09-16 05:04:04 +0800 <GettrafficNSW> North Sydney - traffic flowing freely citybound Warringah Freeway between Falcon Street and The Harbour Bridge / Tunnel
+1305975506727174145 2020-09-16 05:03:19 +0800 <GettrafficNSW> Surry Hills - heavy traffic citybound Eastern Distributor approaching Cleveland Street
+1305975224899260416 2020-09-16 05:02:12 +0800 <GettrafficNSW> Drummoyne - heavy traffic citybound Victoria Road approaching The Iron Cove Bridge, Rozelle &amp; The Anzac Bridge
+1305974905402355712 2020-09-16 05:00:55 +0800 <GettrafficNSW> Wetherill Park - traffic congestion all directions The Horsley Dr at Hassall St
+1305972796225323008 2020-09-16 04:52:33 +0800 <GettrafficNSW> Petersham - traffic cued all directions New Canterbury Rd at Gordon St
+1305972538082652160 2020-09-16 04:51:31 +0800 <GettrafficNSW> Beverly Hills - traffic congestion bothways King Georges Rd at Broadarrow Rd
+1305972282339151872 2020-09-16 04:50:30 +0800 <GettrafficNSW> Canterbury - traffic heavy citybound Canterbury Rd at Charles St
+1305972016504209408 2020-09-16 04:49:27 +0800 <GettrafficNSW> Georges Hall - traffic congestion southbound Henry Lawson Dr at Haig Ave
+1305971867115692032 2020-09-16 04:48:51 +0800 <GettrafficNSW> Hoxton Park - traffic congested   all directions Cowpasture Rd at Hoxton Park Rd
+1305971631580311552 2020-09-16 04:47:55 +0800 <GettrafficNSW> Luddenham - traffic heavy northbound The Northern Rd at Elizabeth Dr
+1305970096733519872 2020-09-16 04:41:49 +0800 <GettrafficNSW> Macquarie Park - heavy traffic northbound Lane Cove Road approaching Epping Road
+1305966702585233408 2020-09-16 04:28:20 +0800 <GettrafficNSW> Kellyville - slow traffic southbound Old Windsor Road at Samantha Riley Drive
+1305966007664566272 2020-09-16 04:25:34 +0800 <GettrafficNSW> Leichhardt - heavy traffic citybound Parramatta Road approaching Norton Street
+1305965824688025600 2020-09-16 04:24:50 +0800 <GettrafficNSW> Prestons - heavy traffic northbound Hume Mwy approaching The Cutler Vc Interchange (M5/M7)
+1305965093159542784 2020-09-16 04:21:56 +0800 <GettrafficNSW> Baulkham Hills - breakdown citybound M2 Motorway at Langdon Road
+1305965051702984705 2020-09-16 04:21:46 +0800 <GettrafficNSW> Baulkham Hills - breakdown citybound M2 at Langdon Rd
+1305963979064311808 2020-09-16 04:17:30 +0800 <GettrafficNSW> Baulkham Hills - fog citybound M2 at Langdon Rd
+1305963527333535744 2020-09-16 04:15:43 +0800 <GettrafficNSW> Homebush West - heavy traffic northbound Centenary Drive approaching Weeroona Rd &amp; Arthur Street
+1305963192850345984 2020-09-16 04:14:23 +0800 <GettrafficNSW> Brighton Le Sands - traffic building citybound The Grand Parade approaching General Holmes Drive
+1305963029813579778 2020-09-16 04:13:44 +0800 <GettrafficNSW> South Wentworthville - traffic busy northbound Cumberland Highway approaching The M4 Motorway
+1305960404615458816 2020-09-16 04:03:18 +0800 <GettrafficNSW> Ashfield - slow traffic citybound Frederick Street approaching Parramatta Rd
+1305960174083956736 2020-09-16 04:02:23 +0800 <GettrafficNSW> Clyde - heavy traffic citybound Parramatta Road approaching James Ruse Drive
+1305959976267993088 2020-09-16 04:01:36 +0800 <GettrafficNSW> Leichhardt - traffic building inbound City West Link approaching Balmain Rd
+1305959602303848449 2020-09-16 04:00:07 +0800 <GettrafficNSW> Cecil Hills - traffic building northbound M7 Motorway approaching Elizabeth Drive
+1305959451568955392 2020-09-16 03:59:31 +0800 <GettrafficNSW> North Ryde - traffic building northbound Lane Cove Rd approaching Kent Rd
+1305959400641671169 2020-09-16 03:59:19 +0800 <GettrafficNSW> Eastern Creek - traffic congested   citybound M4 at Light Horse Interchange
+1305958575374659584 2020-09-16 03:56:02 +0800 <GettrafficNSW> Cowan - fog bothways M1 at Hawkesbury River Bridge
+1305957542330212352 2020-09-16 03:51:56 +0800 <GettrafficNSW> Mascot - accident citybound General Holmes Drive at Airport Tunnel
+1305957437162188800 2020-09-16 03:51:31 +0800 <GettrafficNSW> Mascot - multi-vehicle citybound General Holmes Drive in The Airport Tunnel
+1305957424948371458 2020-09-16 03:51:28 +0800 <GettrafficNSW> Mascot - accident citybound M1 at Airport Tunnel
+1305956791142866944 2020-09-16 03:48:57 +0800 <GettrafficNSW> Horsley Park - fog bothways M7 Mwy at The Horsley Dr
+1305956561483739136 2020-09-16 03:48:02 +0800 <GettrafficNSW> Bankstown - traffic building northbound Stacey Street approaching Macauley Ave
+1305956350535499776 2020-09-16 03:47:12 +0800 <GettrafficNSW> Minchinbury - fog citybound M4 Motorway near Roper Rd
+1305955317889470464 2020-09-16 03:43:05 +0800 <GettrafficNSW> Kyeemagh - traffic busy citybound General Holmes Drive approaching Bestic Street &amp; The Airport Tunnel
+1305954925147381760 2020-09-16 03:41:32 +0800 <GettrafficNSW> Prospect - slow traffic southbound Prospect Hwy approaching The Great Western Highway &amp; The M4
+1305954749649313792 2020-09-16 03:40:50 +0800 <GettrafficNSW> Homebush West - heavy traffic northbound Centenary Drive approaching Arthur Street
+1305953996213874689 2020-09-16 03:37:50 +0800 <GettrafficNSW> Bardia - traffic busy northbound Campbelltown Rd at Macdonald Rd
+1305953041640685568 2020-09-16 03:34:03 +0800 <GettrafficNSW> Marsden Park - traffic building southbound Richmond Rd at South St
+1305952302839128064 2020-09-16 03:31:07 +0800 <GettrafficNSW> Mooney Mooney Creek - fog bothways M1 at Mooney Mooney Creek Bridge
+1305951640357228544 2020-09-16 03:28:29 +0800 <GettrafficNSW> Revesby - debris eastbound M5 at The River Rd
+1305949742694674433 2020-09-16 03:20:56 +0800 <GettrafficNSW> Greystanes - traffic busy citybound M4 approaching Cumberland Highway Exit
+1305949490814173184 2020-09-16 03:19:56 +0800 <GettrafficNSW> Pennant Hills - traffic busy southbound Boundary Rd at Pennant Hills Rd
+1305949275042406400 2020-09-16 03:19:05 +0800 <GettrafficNSW> Homebush - traffic building citybound Parramatta Rd at Concord Rd
+1305949140208087041 2020-09-16 03:18:33 +0800 <GettrafficNSW> Artarmon - traffic busy southbound Pacific Highway at Gore Hill Freeway On-Ramp
+1305783930331652096 2020-09-15 16:22:03 +0800 <GettrafficNSW> Epping - traffic delayed westbound Epping Rd at Beecroft Rd
+1305783599392645121 2020-09-15 16:20:45 +0800 <GettrafficNSW> Glenwood - traffic congestion outbound Old Windsor Road between Norwest Blvd and Sunnyholt Rd
+1305783376163475457 2020-09-15 16:19:51 +0800 <GettrafficNSW> Pymble - traffic slow northbound Pacific Highway between Ryde Rd and Bobbin Head Rd
+1305783166917959685 2020-09-15 16:19:01 +0800 <GettrafficNSW> Hammondville - traffic delayed southbound Heathcote Rd at M5
+1305782975519367170 2020-09-15 16:18:16 +0800 <GettrafficNSW> Ryde - traffic heavy southbound Devlin St approaching Victoria Rd
+1305779315871678465 2020-09-15 16:03:43 +0800 <GettrafficNSW> Annandale - traffic cued outbound Parramatta Rd approaching Crystal St
+1305779065429737472 2020-09-15 16:02:44 +0800 <GettrafficNSW> Homebush West - traffic heavy southbound Centenary Drive approaching Arthur St
+1305778191051546625 2020-09-15 15:59:15 +0800 <GettrafficNSW> Sydney - heavy traffic northbound Western Distributor between Darling Harbour and Cahill Expressway
+1305777974038290433 2020-09-15 15:58:23 +0800 <GettrafficNSW> North Parramatta - traffic congestion westbound James Ruse Drive approaching Briens Road
+1305777544394727429 2020-09-15 15:56:41 +0800 <GettrafficNSW> Woolloomooloo - traffic underspeed southbound Eastern Distributor approaching Anzac Parade
+1305769037113090048 2020-09-15 15:22:53 +0800 <GettrafficNSW> Northmead - accident citybound Cumberland Highway at Old Windsor Road
+1305765324923367429 2020-09-15 15:08:08 +0800 <GettrafficNSW> North Ryde - blocked by broken down vehicle inbound Lane Cove Rd near Cooney St
+1305758208451989504 2020-09-15 14:39:51 +0800 <GettrafficNSW> Seaforth - slow traffic citybound Manly Rd after Ethel St
+1305757406543015936 2020-09-15 14:36:40 +0800 <GettrafficNSW> Woolloomooloo - heavy traffic outbound Eastern Distributor between Cahill Expressway and Anzac Parade
+1305754425357529088 2020-09-15 14:24:49 +0800 <GettrafficNSW> Gymea - traffic building quickly southbound Princes Highway at Kingsway
+1305753768005312513 2020-09-15 14:22:12 +0800 <GettrafficNSW> Cataract - nightworks bothways Picton Road east of Cordeaux Dam Road
+1305750342559170565 2020-09-15 14:08:35 +0800 <GettrafficNSW> South Wentworthville - accident outbound M4 at Cumberland Highway
+1305745974212440064 2020-09-15 13:51:14 +0800 <GettrafficNSW> North Bondi - traffic slow inbound Old South Head Rd between Roberts St and Blair St
+1305745675825459205 2020-09-15 13:50:03 +0800 <GettrafficNSW> Menai - traffic heavy outbound Alfords Point Rd approaching Menai Rd
+1305743811071455233 2020-09-15 13:42:38 +0800 <GettrafficNSW> St. Ives - slow traffic bothways Mona Vale Rd between Woodbury Rd and Richmond Ave
+1305739801195241472 2020-09-15 13:26:42 +0800 <GettrafficNSW> Ashfield - traffic slow southbound Old Canterbury Rd at New Canterbury Rd
+1305738779081105413 2020-09-15 13:22:39 +0800 <GettrafficNSW> Rouse Hill - accident all directions Windsor Road at Mile End Rd
+1305738149503492096 2020-09-15 13:20:08 +0800 <GettrafficNSW> Chatswood - blocked by broken down vehicle citybound Pacific Highway at Wyvern Ave
+1305737878257893376 2020-09-15 13:19:04 +0800 <GettrafficNSW> Berkshire Park - hazard all directions The Northern Road at Richmond Rd
+1305737550586286080 2020-09-15 13:17:46 +0800 <GettrafficNSW> Narrabeen - oil spill citybound Pittwater Rd near Waterloo St
+1305735097916694528 2020-09-15 13:08:01 +0800 <GettrafficNSW> Granville - traffic heavy westbound Parramatta Rd between James Ruse Dr and Woodville Rd
+1305734964877565952 2020-09-15 13:07:29 +0800 <GettrafficNSW> Homebush West - traffic heavy southbound Centenary Drive between Homebush Bay Drive and Arthur St
+1305734758832304128 2020-09-15 13:06:40 +0800 <GettrafficNSW> Rozelle - traffic building inbound Victoria Road approaching The Anzac Bridge
+1305734103233331200 2020-09-15 13:04:04 +0800 <GettrafficNSW> Miranda - traffic building quickly bothways Kingsway at Kiora Rd
+1305733928070701057 2020-09-15 13:03:22 +0800 <GettrafficNSW> Turramurra - heavy traffic outbound Pacific Highway between Kissing Point Rd and Fox Valley Rd
+1305733626596700160 2020-09-15 13:02:10 +0800 <GettrafficNSW> Orchard Hills - heavy traffic northbound The Northern Rd approaching Bradley St
+1305733427421827072 2020-09-15 13:01:23 +0800 <GettrafficNSW> Brighton-Le-Sands - slow traffic outbound The Grand Parade at Bay St
+1305733132558061569 2020-09-15 13:00:12 +0800 <GettrafficNSW> Seven Hills - slow traffic outbound Old Windsor Rd at Powers Rd
+1305732981999370240 2020-09-15 12:59:36 +0800 <GettrafficNSW> Ryde - traffic building quickly outbound Victoria Road at Charles St
+1305732840819097600 2020-09-15 12:59:03 +0800 <GettrafficNSW> Georges Hall - heavy traffic bothways Henry Lawson Drive between Flinders Rd and Milperra Rd
+1305732655871266816 2020-09-15 12:58:19 +0800 <GettrafficNSW> Wiley Park - traffic building quickly bothways King Georges Rd near Canterbury Rd
+1305732481006542848 2020-09-15 12:57:37 +0800 <GettrafficNSW> Dulwich Hill - slow traffic citybound New Canterbury Rd at Union St
+1305732339327053824 2020-09-15 12:57:03 +0800 <GettrafficNSW> North Bondi - heavy traffic bothways Old South Head Rd between Dover Heights and O'sullivan Rd
+1305731119803850756 2020-09-15 12:52:12 +0800 <GettrafficNSW> Georges Hall - traffic delayed bothways Henry Lawson Dr between Haig Ave and Milperra Rd
+1305730969484144640 2020-09-15 12:51:37 +0800 <GettrafficNSW> Lilyfield - traffic congested   westbound City-West Link Road at Catherine St
+1305730006224576512 2020-09-15 12:47:47 +0800 <GettrafficNSW> Hammondville - gas leak all directions Heathcote Rd at Keato Ave
+1305729804830793729 2020-09-15 12:46:59 +0800 <GettrafficNSW> Bringelly - blocked by broken down vehicle northbound The Northern Road at Bringelly Rd
+1305729518015897600 2020-09-15 12:45:51 +0800 <GettrafficNSW> Sydney Olympic Park - blocked by broken down vehicle  M4 at Homebush Bay Drive
+1305727140638253056 2020-09-15 12:36:24 +0800 <GettrafficNSW> Rockdale - traffic building quickly outbound Princes Highway at Bestic St
+1305726964003561472 2020-09-15 12:35:42 +0800 <GettrafficNSW> Granville - heavy traffic outbound Parramatta Rd between James Ruse Drive and Woodville Rd
+1305726679420026880 2020-09-15 12:34:34 +0800 <GettrafficNSW> Sydney - slow traffic bothways Druitt St at York St
+1305673886780989440 2020-09-15 09:04:47 +0800 <GettrafficNSW> Kogarah - roadwork southbound Princes Highway at Regent St
+1305642489093656576 2020-09-15 07:00:01 +0800 <GettrafficNSW> Castle Hill - traffic heavy all directions Old Northern Rd at Excelsior Ave
+1305641999010209792 2020-09-15 06:58:04 +0800 <GettrafficNSW> Cabramatta - accident bothways Railway Parade between Canley Vale Rd and Sussex St
+1305638774584430593 2020-09-15 06:45:16 +0800 <GettrafficNSW> Rookwood - traffic congested   northbound Centenary Dr at Arthur St
+1305638751134085121 2020-09-15 06:45:10 +0800 <GettrafficNSW> Clyde - traffic slow bothways Parramatta Rd at James Ruse Dr
+1305638709228761088 2020-09-15 06:45:00 +0800 <GettrafficNSW> Bella Vista - traffic flowing freely citybound M7 at Old Windsor Rd
+1305638678509674498 2020-09-15 06:44:53 +0800 <GettrafficNSW> Wahroonga - traffic moderate southbound M1 at Pacific Highway
+1305638639351676930 2020-09-15 06:44:43 +0800 <GettrafficNSW> Kellyville - traffic congestion southbound Old Windsor Rd at Memorial Ave
+1305638611476336640 2020-09-15 06:44:37 +0800 <GettrafficNSW> Rhodes - traffic heavy northbound Concord Rd at Ryde Bridge
+1305638590701993984 2020-09-15 06:44:32 +0800 <GettrafficNSW> Drummoyne - traffic busy citybound Victoria Rd at Lyons Rd
+1305638558527438849 2020-09-15 06:44:24 +0800 <GettrafficNSW> Rozelle - traffic slow citybound City West Link at The Crescent
+1305638538185068546 2020-09-15 06:44:19 +0800 <GettrafficNSW> North Sydney - traffic flowing freely southbound Warringah Fwy at Falcon St
+1305638492601344005 2020-09-15 06:44:08 +0800 <GettrafficNSW> Seaforth - traffic congestion northbound Spit Rd at Spit Bridge
+1305638465065766913 2020-09-15 06:44:02 +0800 <GettrafficNSW> Ryde - heavy traffic northbound Church Street approaching Victoria Rd &amp; Top Ryde
+1305638436099874816 2020-09-15 06:43:55 +0800 <GettrafficNSW> Frenchs Forest - traffic busy all directions Warringah Rd at Wakehurst Parkway
+1305638413052252160 2020-09-15 06:43:49 +0800 <GettrafficNSW> Turramurra - traffic congestion southbound Pacific Highway at Kissing Point Rd
+1305638382433837056 2020-09-15 06:43:42 +0800 <GettrafficNSW> Chatswood - traffic heavy southbound Pacific Hwy at Fullers Rd
+1305638363911712768 2020-09-15 06:43:38 +0800 <GettrafficNSW> Brighton Le Sands - traffic building northbound The Grand Parade at Bay St
+1305636173814009858 2020-09-15 06:34:56 +0800 <GettrafficNSW> Roseville - traffic delayed bothways Eastern Valley Way between Smith St and Babbage Road
+1305636075071627264 2020-09-15 06:34:32 +0800 <GettrafficNSW> Zetland - slow traffic northbound Southern Cross Drive approaching The Eastern Distributor
+1305635989612707841 2020-09-15 06:34:12 +0800 <GettrafficNSW> Dee Why - heavy traffic southbound Pittwater Road at Oaks Ave
+1305635942993027073 2020-09-15 06:34:01 +0800 <GettrafficNSW> Gladesville - heavy traffic citybound Victoria Road approaching Pittwater Rd
+1305635820443897857 2020-09-15 06:33:31 +0800 <GettrafficNSW> Kingsgrove - brokendown truck citybound M5 Motorway at King Georges Road
+1305629765647228928 2020-09-15 06:09:28 +0800 <GettrafficNSW> Campsie - traffic busy citybound Canterbury Rd at Beamish St
+1305629614425817089 2020-09-15 06:08:52 +0800 <GettrafficNSW> Ashfield - traffic busy citybound Liverpool Rd at Frederick St
+1305629509513695232 2020-09-15 06:08:27 +0800 <GettrafficNSW> Five Dock - traffic busy citybound Parramatta Rd at Great North Rd
+1305629477519544320 2020-09-15 06:08:19 +0800 <GettrafficNSW> Leicharddt - traffic congestion citybound Parramatta Rd at Norton St
+1305629380547231746 2020-09-15 06:07:56 +0800 <GettrafficNSW> Camperdown - traffic busy citybound Parramatta Rd at Missenden Rd
+1305629277182816256 2020-09-15 06:07:31 +0800 <GettrafficNSW> Roselands - traffic heavy citybound Canterbury Rd at King Georges Rd
+1305629254789472257 2020-09-15 06:07:26 +0800 <GettrafficNSW> Bankstown - traffic cued northbound Fairford Rd at Macauley Ave
+1305629201572061184 2020-09-15 06:07:13 +0800 <GettrafficNSW> Georges Hall - traffic congestion bothways Henry Lawson Dr at Haig Ave
+1305629098325073920 2020-09-15 06:06:49 +0800 <GettrafficNSW> Chipping Norton - traffic busy citybound Newbridge Rd at Governor Macquarie Dr
+1305629079668842496 2020-09-15 06:06:44 +0800 <GettrafficNSW> Moorebank - traffic busy northbound Moorebank Ave at Newbridge Rd
+1305629057548079104 2020-09-15 06:06:39 +0800 <GettrafficNSW> Liverpool - traffic slow northbound Hume Highway at Elizabeth Dr
+1305629009305194497 2020-09-15 06:06:27 +0800 <GettrafficNSW> Cecil Hills - traffic moderate northbound M7 at Elizabeth Dr
+1305628975150952448 2020-09-15 06:06:19 +0800 <GettrafficNSW> Leppington - traffic heavy northbound Camden Valley Way at Denham Court Rd
+1305628957459451905 2020-09-15 06:06:15 +0800 <GettrafficNSW> Campbelltown - traffic moderate all directions Narellan Rd at Blaxland Rd
+1305628862244483078 2020-09-15 06:05:52 +0800 <GettrafficNSW> North Ryde - traffic slow inbound M2 Motorway at Lane Cove Tunnel
+1305628647177347072 2020-09-15 06:05:01 +0800 <GettrafficNSW> Strathfield - traffic delayed northbound Centenary Drive between Hume Highway and Arthur St
+1305628515992133632 2020-09-15 06:04:30 +0800 <GettrafficNSW> Mascot - heavy traffic citybound Southern Cross Drive approaching Moore Park
+1305622799474589696 2020-09-15 05:41:47 +0800 <GettrafficNSW> Harrington Park - traffic moderate bothways The Northern Rd at Fairwater Dr
+1305622739143647232 2020-09-15 05:41:32 +0800 <GettrafficNSW> Minto - traffic moderate bothways Pembroke Rd at Ben Lomond Rd
+1305622642410487808 2020-09-15 05:41:09 +0800 <GettrafficNSW> Mascot - traffic busy citybound General Holmes Dr at Foreshore Rd
+1305622502123552768 2020-09-15 05:40:36 +0800 <GettrafficNSW> Moore Park - traffic congestion citybound Southern Cross Dr at Eastern Distributor
+1305622466262233088 2020-09-15 05:40:27 +0800 <GettrafficNSW> Gladesville - traffic congestion citybound Victoria Rd at Pittwater Rd
+1305622354437877766 2020-09-15 05:40:01 +0800 <GettrafficNSW> Ramsgate - traffic moderate all directions Rocky Point Rd at Ramsgate Rd
+1305622336909881344 2020-09-15 05:39:57 +0800 <GettrafficNSW> Hurstville - traffic congestion all directions King Georges Rd at Stony Creek Rd
+1305622235323879426 2020-09-15 05:39:32 +0800 <GettrafficNSW> Double Bay - traffic congested   bothways New South Head Rd at Bellevue Rd
+1305620765601980417 2020-09-15 05:33:42 +0800 <GettrafficNSW> Randwick - traffic busy all directions Avoca St at Alison Rd
+1305620605404737537 2020-09-15 05:33:04 +0800 <GettrafficNSW> Sylvania - traffic cued northbound Port Hacking Rd approaching Princes Highway
+1305620429185245184 2020-09-15 05:32:22 +0800 <GettrafficNSW> Rhodes - traffic busy northbound Concord Rd on Ryde Bridge
+1305620379797393408 2020-09-15 05:32:10 +0800 <GettrafficNSW> Sutherland - traffic busy bothways River Rd at Linden St
+1305620347337596928 2020-09-15 05:32:02 +0800 <GettrafficNSW> Northmead - traffic congestion northbound Windsor Rd at Moxhams Rd
+1305620311786704896 2020-09-15 05:31:54 +0800 <GettrafficNSW> Baulkham Hills - traffic building all directions Windsor Rd at Old Northern Rd
+1305620278882435072 2020-09-15 05:31:46 +0800 <GettrafficNSW> North Ryde - traffic congestion northbound Lane Cove Rd at Epping Rd
+1305620256736509955 2020-09-15 05:31:41 +0800 <GettrafficNSW> Roseville - traffic congestion bothways Boundary St at Penshurst St
+1305620211794497536 2020-09-15 05:31:30 +0800 <GettrafficNSW> Turramurra - traffic congested   eastbound Burns Rd at Bobbin Head Rd
+1305620189325664256 2020-09-15 05:31:25 +0800 <GettrafficNSW> Sylvania Waters - traffic congested   bothways Port Hacking Rd at Box Rd
+1305619111766929408 2020-09-15 05:27:08 +0800 <GettrafficNSW> Lane Cove West - traffic slow eastbound Epping Rd between Mowbray Rd and Centennial Ave
+1305618851019718656 2020-09-15 05:26:05 +0800 <GettrafficNSW> Cammeray - traffic building citybound Warringah Freeway at Falcon Street Exit
+1305613362923888641 2020-09-15 05:04:17 +0800 <GettrafficNSW> West Pennant Hills - traffic slow southbound Pennant Hills Rd at Copeland Rd
+1305613189015502848 2020-09-15 05:03:36 +0800 <GettrafficNSW> Seaforth - traffic cued citybound Burnt Bridge Creek Deviation at Sydney Rd
+1305613030923722752 2020-09-15 05:02:58 +0800 <GettrafficNSW> Granville - traffic congested   citybound Parramatta Rd at James Ruse Dr
+1305611733558386688 2020-09-15 04:57:49 +0800 <GettrafficNSW> Brighton Le Sands - slow traffic citybound The Grand Parade approaching General Holmes Drive
+1305611479849160704 2020-09-15 04:56:48 +0800 <GettrafficNSW> Ryde - heavy traffic citybound Victoria Road approaching Cressy Rd
+1305611351553765376 2020-09-15 04:56:17 +0800 <GettrafficNSW> Drummoyne - heavy traffic citybound Victoria Road approaching The Iron Cove Bridge, Rozelle &amp; The Anzac Bridge
+1305611240325013504 2020-09-15 04:55:51 +0800 <GettrafficNSW> Bankstown - slow traffic northbound Stacey St approaching Macauley Ave
+1305611129213706240 2020-09-15 04:55:24 +0800 <GettrafficNSW> Prestons - heavy traffic northbound Hume Mwy approaching The Cutler Vc Interchange (M5/M7)
+1305608996271714305 2020-09-15 04:46:56 +0800 <GettrafficNSW> Roseville - traffic congestion bothways Pacific Highway between Boundary St and Fullers Road
+1305608674811895808 2020-09-15 04:45:39 +0800 <GettrafficNSW> Beverly Hills - traffic slow bothways King Georges Rd at Stoney Creek Rd
+1305608481320308737 2020-09-15 04:44:53 +0800 <GettrafficNSW> Moore Park - traffic busy citybound Anzac Parade at Cleveland St
+1305608330769887233 2020-09-15 04:44:17 +0800 <GettrafficNSW> Haberfield - traffic delayed inbound City-West Link between Wattle St and Norton St
+1305606867494686720 2020-09-15 04:38:28 +0800 <GettrafficNSW> Plumpton - accident northbound M7 at Woodstock Ave
+1305605019417288705 2020-09-15 04:31:08 +0800 <GettrafficNSW> Mascot - traffic congested   citybound General Holmes Drive at Airport Tunnel
+1305604668320395264 2020-09-15 04:29:44 +0800 <GettrafficNSW> Bella Vista - heavy traffic inbound Westlink M7 approaching The M2 Motorway
+1305604564763029504 2020-09-15 04:29:19 +0800 <GettrafficNSW> Granville - heavy traffic outbound Parramatta Road approaching Woodville Rd &amp; The M4
+1305604123279073280 2020-09-15 04:27:34 +0800 <GettrafficNSW> Leichhardt - heavy traffic inbound City West Link approaching Balmain Rd
+1305603688354906112 2020-09-15 04:25:50 +0800 <GettrafficNSW> Kogarah - traffic slow citybound Princes Highway at Rocky Point Rd
+1305603549565337601 2020-09-15 04:25:17 +0800 <GettrafficNSW> Ashfield - traffic underspeed northbound Frederick St between Hume Highway and Parramatta Rd
+1305602801746153472 2020-09-15 04:22:19 +0800 <GettrafficNSW> Prospect - accident eastbound M4 at Propect H/W
+1305602252149678080 2020-09-15 04:20:08 +0800 <GettrafficNSW> Hoxton Park - slow traffic northbound M7 Motorway approaching Cecil Hills
+1305602016828301312 2020-09-15 04:19:12 +0800 <GettrafficNSW> Prospect - traffic building citybound M4 Motorway approaching Greystanes Rd
+1305600932487462912 2020-09-15 04:14:53 +0800 <GettrafficNSW> Middleton Grange - traffic congestion northbound M7 at Cowpasture Rd
+1305596199752273921 2020-09-15 03:56:05 +0800 <GettrafficNSW> Minchinbury - traffic flowing freely citybound M4 Motorway between Roper Rd and The Light Horse Interchange
+1305595974371274753 2020-09-15 03:55:11 +0800 <GettrafficNSW> Oatlands - traffic building inbound James Ruse Drive approaching Pennant Hills Road
+1305595857979408385 2020-09-15 03:54:43 +0800 <GettrafficNSW> Bexley - slow traffic inbound Stoney Creek Rd approaching Forest Rd
+1305595698272858112 2020-09-15 03:54:05 +0800 <GettrafficNSW> Prospect - heavy traffic southbound Prospect Hwy approaching The Great Western Highway &amp; The M4
+1305593885750521856 2020-09-15 03:46:53 +0800 <GettrafficNSW> Seven Hills - traffic congestion inbound Old Windsor Rd approaching Powers Rd
+1305593703508058113 2020-09-15 03:46:10 +0800 <GettrafficNSW> South Wentworthville - traffic busy northbound Cumberland Highway approaching The M4 Motorway
+1305593551489646593 2020-09-15 03:45:34 +0800 <GettrafficNSW> Homebush West - heavy traffic northbound Centenary Drive approaching Arthur Street
+1305593369351958528 2020-09-15 03:44:50 +0800 <GettrafficNSW> Arncliffe - traffic building citybound M5 East Motorway approaching General Holmes Drive &amp; The Airport Tunnel
+1305592024142282752 2020-09-15 03:39:29 +0800 <GettrafficNSW> Moorebank - breakdown eastbound M5 at Moorebank Ave
+1305591230907035650 2020-09-15 03:36:20 +0800 <GettrafficNSW> Clyde - traffic building citybound Parramatta Rd at James Ruse Dr
+1305586867832643584 2020-09-15 03:19:00 +0800 <GettrafficNSW> Bankstown - traffic building northbound Stacey St at Rickard Rd
+1305421284289859584 2020-09-14 16:21:02 +0800 <GettrafficNSW> Ryde - traffic congestion southbound Lane Cove Rd at Blaxland Rd
+1305421022837895169 2020-09-14 16:20:00 +0800 <GettrafficNSW> Dulwich Hill - traffic building quickly inbound Canterbury Rd at Old Canterbury Rd
+1305420573703462913 2020-09-14 16:18:12 +0800 <GettrafficNSW> Lane Cove - slow traffic inbound Burns Bay Rd at Penrose St
+1305420377506496512 2020-09-14 16:17:26 +0800 <GettrafficNSW> Coogee - slow traffic bothways Coogee Bay Rd at Arden St
+1305420157297152000 2020-09-14 16:16:33 +0800 <GettrafficNSW> Campbelltown - blocked by broken down vehicle inbound Narellan Road at Blaxland Rd
+1305419963855847424 2020-09-14 16:15:47 +0800 <GettrafficNSW> Carlingford - traffic building outbound Pennant Hills Rd at Carlingford Rd
+1305419732347006976 2020-09-14 16:14:52 +0800 <GettrafficNSW> Penrith - slow traffic citybound Belmore St after Station St
+1305419443690897409 2020-09-14 16:13:43 +0800 <GettrafficNSW> Randwick - slow traffic all directions Avoca St at Avoca St
+1305417934257360896 2020-09-14 16:07:43 +0800 <GettrafficNSW> Ashfield - accident bothways Holden St after Armstrong St
+1305417636453343233 2020-09-14 16:06:32 +0800 <GettrafficNSW> Girraween - accident bothways Girraween Rd north of Great Western Highway
+1305416962986577921 2020-09-14 16:03:52 +0800 <GettrafficNSW> Moorebank - traffic busy outbound M5 between The River Rd and Moorebank Ave
+1305416950625890305 2020-09-14 16:03:49 +0800 <GettrafficNSW> Schofields - accident all directions Stanmore St between Bellflower Ave and Whitechapel Ave
+1305416747701301251 2020-09-14 16:03:00 +0800 <GettrafficNSW> Strathfield - heavy traffic northbound Centenary Drive between Roberts Rd and Arthur St
+1305416448735543296 2020-09-14 16:01:49 +0800 <GettrafficNSW> Epping - traffic delayed westbound Epping Rd approaching Blaxland Rd
+1305416266916589576 2020-09-14 16:01:06 +0800 <GettrafficNSW> Mascot - traffic delayed outbound M5 in The Cooks River Tunnel
+1305416139598487552 2020-09-14 16:00:35 +0800 <GettrafficNSW> Granville - blocked by broken down vehicle westbound M4 approaching James Ruse Drive
+1305415909335396354 2020-09-14 15:59:40 +0800 <GettrafficNSW> Pyrmont - traffic delayed westbound Anzac Bridge at The Crescent
+1305412024067735552 2020-09-14 15:44:14 +0800 <GettrafficNSW> Roseville - slow traffic inbound Boundary Street at Pacific Highway
+1305411807553622016 2020-09-14 15:43:22 +0800 <GettrafficNSW> Marrickville - slow traffic all directions Illawarra Rd at Marrickville Rd
+1305411694840086529 2020-09-14 15:42:56 +0800 <GettrafficNSW> South Wentworthville - traffic delayed westbound M4 at The Cumberland Hwy
+1305411434885521414 2020-09-14 15:41:54 +0800 <GettrafficNSW> Cecil Hills - traffic congested   northbound M7 between Cowpasture Rd and Elizabeth Dr
+1305411263569166338 2020-09-14 15:41:13 +0800 <GettrafficNSW> Strathfield - traffic busy bothways Centenary Drive between Arthur St and Roberts Rd
+1305411032811073536 2020-09-14 15:40:18 +0800 <GettrafficNSW> Moorebank - traffic underspeed westbound M5 between Fairford Rd and Moorebank Ave
+1305407397951713281 2020-09-14 15:25:51 +0800 <GettrafficNSW> Greystanes - accident outbound M4 at Beresford Rd
+1305405973356359680 2020-09-14 15:20:11 +0800 <GettrafficNSW> Cecil Hills - traffic delayed northbound M7 at Elizabeth Dr
+1305405849167302656 2020-09-14 15:19:42 +0800 <GettrafficNSW> Strathfield South - traffic building westbound Hume Highway at Cosgrove Rd
+1305405728828436480 2020-09-14 15:19:13 +0800 <GettrafficNSW> Ryde - traffic delayed southbound Lane Cove Road approaching Blaxland Rd
+1305405574847238151 2020-09-14 15:18:36 +0800 <GettrafficNSW> Pyrmont - traffic congested   westbound Anzac Bridge approaching The Crescent
+1305401974712446976 2020-09-14 15:04:18 +0800 <GettrafficNSW> Penrith - accident all directions Colless St near Derby St
+1305397783663316993 2020-09-14 14:47:39 +0800 <GettrafficNSW> Glenwood - traffic cued outbound Old Windsor Road at Sunnyholt Rd
+1305397610941882371 2020-09-14 14:46:58 +0800 <GettrafficNSW> Granville - traffic congested   outbound Parramatta Rd between James Ruse Dr and Woodville Rd
+1305397449339543557 2020-09-14 14:46:19 +0800 <GettrafficNSW> Horsley Park - traffic busy southbound M7 at The Horsley Dr
+1305397264374927361 2020-09-14 14:45:35 +0800 <GettrafficNSW> Gymea - traffic delayed outbound Princes Highway at Kingsway
+1305391764660875264 2020-09-14 14:23:44 +0800 <GettrafficNSW> Newtown - heavy traffic citybound King St approaching Enmore Road
+1305391531524673536 2020-09-14 14:22:48 +0800 <GettrafficNSW> Newtown - heavy traffic outbound King St at Erskineville Rd
+1305391457050664960 2020-09-14 14:22:31 +0800 <GettrafficNSW> Bankstown Aerodrome - traffic heavy southbound Henry Lawson Dr approaching Milperra Rd
+1305391189789609985 2020-09-14 14:21:27 +0800 <GettrafficNSW> Petersham - traffic congestion bothways Parramatta Rd at Crystal St
+1305387927111786498 2020-09-14 14:08:29 +0800 <GettrafficNSW> Ryde - traffic heavy southbound Lane Cove Rd at Blaxland Rd
+1305387354136354816 2020-09-14 14:06:12 +0800 <GettrafficNSW> Fairfield East - accident all directions The Horsley Drive at Mitchell St
+1305384935780265984 2020-09-14 13:56:36 +0800 <GettrafficNSW> Cremorne - traffic heavy citybound Military Rd approaching Warringah Freeway
+1305384907863027712 2020-09-14 13:56:29 +0800 <GettrafficNSW> North Bondi - slow traffic citybound Old South Head Rd at Curlewis St
+1305384724278386688 2020-09-14 13:55:45 +0800 <GettrafficNSW> Rose Bay - traffic building quickly outbound New South Head Rd near O'sullivan Rd
+1305384676425564160 2020-09-14 13:55:34 +0800 <GettrafficNSW> Parramatta - accident all directions Argyle St at Marsden St
+1305383294398205953 2020-09-14 13:50:04 +0800 <GettrafficNSW> Quakers Hill - slow traffic westbound M7 just past Quakers Hill Parkway
+1305382434125430784 2020-09-14 13:46:39 +0800 <GettrafficNSW> Lilyfield - traffic delayed outbound City-West Link Road at Catherine St
+1305381978582126592 2020-09-14 13:44:51 +0800 <GettrafficNSW> Quakers Hill - traffic slow westbound M7 at Quakers Hill Parkway
+1305380848389165057 2020-09-14 13:40:21 +0800 <GettrafficNSW> Bankstown - traffic building quickly bothways Stacey Street at Hume Highway
+1305380669376180225 2020-09-14 13:39:39 +0800 <GettrafficNSW> Penrith - slow traffic bothways Parker St at Great Western Highway
+1305380496113692672 2020-09-14 13:38:57 +0800 <GettrafficNSW> Campbelltown - traffic building quickly inbound Narellan Road at Oxley St
+1305380314953388032 2020-09-14 13:38:14 +0800 <GettrafficNSW> Dee Why - heavy traffic citybound Pittwater Rd between Lismore Ave and Delmar Parade
+1305379658804858880 2020-09-14 13:35:38 +0800 <GettrafficNSW> Milsons Point - heavy traffic outbound Sydney Harbour Tunnel approaching Bradfield Highway
+1305378843125932032 2020-09-14 13:32:23 +0800 <GettrafficNSW> Warrawee - traffic congested   bothways Pacific Highway between M1 and Kissing Point Rd
+1305378323153920001 2020-09-14 13:30:19 +0800 <GettrafficNSW> Milperra - traffic delayed outbound Milperra Road at Henry Lawson Dr
+1305376425650790400 2020-09-14 13:22:47 +0800 <GettrafficNSW> Surry Hills - accident citybound Eastern Distributor at Cleveland St
+1305375772190760960 2020-09-14 13:20:11 +0800 <GettrafficNSW> Moore Park - football match all directions Moore Park Rd at Lang Rd
+1305375169129492480 2020-09-14 13:17:47 +0800 <GettrafficNSW> Dural - traffic delayed inbound Old Northern Rd between Galston Rd and New Line Rd
+1305374531943497732 2020-09-14 13:15:15 +0800 <GettrafficNSW> Beverly Hills - heavy traffic bothways King Georges Road between Broadarrow Rd and Stoney Creek Rd
+1305373613801918464 2020-09-14 13:11:36 +0800 <GettrafficNSW> Ryde - traffic busy westbound Victoria Rd approaching Church St
+1305373433136476160 2020-09-14 13:10:53 +0800 <GettrafficNSW> Oatlands - traffic busy bothways Cumberland Highway between Adderton Rd and James Ruse Drive
+1305373234561388546 2020-09-14 13:10:06 +0800 <GettrafficNSW> Rozelle - traffic slow citybound Victoria Road approaching The Anzac Bridge
+1305371904966979585 2020-09-14 13:04:49 +0800 <GettrafficNSW> Greystanes - traffic delayed westbound M4 at To The Cumberland Hwy
+1305371588410310656 2020-09-14 13:03:33 +0800 <GettrafficNSW> Brighton-Le-Sands - traffic delayed southbound General Holmes Dr approaching The Grand Parade
+1305371454288965632 2020-09-14 13:03:01 +0800 <GettrafficNSW> Homebush West - traffic congested   southbound Centenary Drive at Arthur St
+1305367515854323713 2020-09-14 12:47:22 +0800 <GettrafficNSW> Prospect - heavy traffic outbound M4 at Prospect Highway
+1305367321532227585 2020-09-14 12:46:36 +0800 <GettrafficNSW> Brighton-Le-Sands - heavy traffic outbound The Grand Parade at Bay St
+1305367162589073408 2020-09-14 12:45:58 +0800 <GettrafficNSW> Sydney - slow traffic bothways Druitt St at George St
+1305366951053594627 2020-09-14 12:45:08 +0800 <GettrafficNSW> Strathfield - accident outbound The Boulevarde near Wonga St
+1305366762209202176 2020-09-14 12:44:23 +0800 <GettrafficNSW> Wahroonga - brokendown truck citybound Pacific Highway at Ada Ave
+1305342471014985729 2020-09-14 11:07:51 +0800 <GettrafficNSW> Strathfield - slow traffic northbound Centenary Drive at Arthur St
+1305342337149591552 2020-09-14 11:07:19 +0800 <GettrafficNSW> Prospect - slow traffic southbound Prospect Highway between Harrod St and M4
+1305342025840033792 2020-09-14 11:06:05 +0800 <GettrafficNSW> Newtown - slow traffic citybound Princes Highway between Enmore Road and Missenden Rd
+1305341866540294146 2020-09-14 11:05:27 +0800 <GettrafficNSW> Thornleigh - slow traffic southbound Pennant Hills Rd between Nelson St and Commonarra Parkway
+1305319802437734401 2020-09-14 09:37:47 +0800 <GettrafficNSW> Yagoona - accident northbound Rookwood Rd at Muir Rd
+1305316465344614400 2020-09-14 09:24:31 +0800 <GettrafficNSW> Yagoona - heavy traffic eastbound Hume Highway at Edgar St
+1305294133485907968 2020-09-14 07:55:47 +0800 <GettrafficNSW> Bankstown - heavy traffic northbound Stacey St at Macauley Ave
+1305282645392158720 2020-09-14 07:10:08 +0800 <GettrafficNSW> Casula - breakdown northbound Hume Highway at M5
+1305279947087339520 2020-09-14 06:59:24 +0800 <GettrafficNSW> North Strathfield - accident northbound Concord Rd at Wellbank St
+1305278478405623808 2020-09-14 06:53:34 +0800 <GettrafficNSW> Rhodes - traffic busy northbound Concord Rd at Ryde Bridge
+1305278354732457984 2020-09-14 06:53:05 +0800 <GettrafficNSW> Moorebank - accident westbound M5 at Moorebank Ave
+1305278354405294080 2020-09-14 06:53:05 +0800 <GettrafficNSW> Rozelle - traffic congested   northbound City West Link at The Crescent
+1305278315054264320 2020-09-14 06:52:55 +0800 <GettrafficNSW> Drummoyne - traffic busy citybound Victoria Rd at Lyons Rd
+1305278277276241920 2020-09-14 06:52:46 +0800 <GettrafficNSW> North Sydney - traffic building southbound Warringah Fwy at Falcon St
+1305278238105546752 2020-09-14 06:52:37 +0800 <GettrafficNSW> Seaforth - traffic congestion northbound Spit Rd at Spit Bridge
+1305278212197425152 2020-09-14 06:52:31 +0800 <GettrafficNSW> Frenchs Forest - traffic building all directions Warringah Rd at Wakehurst Parkway
+1305278040180535296 2020-09-14 06:51:50 +0800 <GettrafficNSW> Turramurra - traffic heavy southbound Pacific Hwy at Kissing Point Rd
+1305277823393783808 2020-09-14 06:50:58 +0800 <GettrafficNSW> Brighton Le Sands - traffic building northbound The Grand Parade at Bay St
+1305277770017042432 2020-09-14 06:50:45 +0800 <GettrafficNSW> Campsie - traffic busy citybound Canterbury Rd at Beamish St
+1305277754212978688 2020-09-14 06:50:42 +0800 <GettrafficNSW> Ashfield - traffic congestion citybound Liverpool Rd at Frederick St
+1305277719500865538 2020-09-14 06:50:33 +0800 <GettrafficNSW> Five Dock - traffic building citybound Parramatta Rd at Great North Rd
+1305277496108003329 2020-09-14 06:49:40 +0800 <GettrafficNSW> Leichhardt - slow traffic citybound Parramatta Rd at Norton St
+1305277446162243585 2020-09-14 06:49:28 +0800 <GettrafficNSW> Camperdown - traffic busy citybound Parramatta Rd at Missenden Rd
+1305277402617057281 2020-09-14 06:49:18 +0800 <GettrafficNSW> Roselands - traffic congestion citybound Canterbury Rd at King Georges Rd
+1305277305728630784 2020-09-14 06:48:55 +0800 <GettrafficNSW> Bankstown - traffic busy citybound Canterbury Rd at Fairford Rd
+1305275536453763072 2020-09-14 06:41:53 +0800 <GettrafficNSW> Carlingford - slow traffic northbound Pennant Hills Road approaching North Rocks Road
+1305275412704948224 2020-09-14 06:41:23 +0800 <GettrafficNSW> Normanhurst - school zone congestion  at Pennant Hills Rd
+1305272628819632128 2020-09-14 06:30:20 +0800 <GettrafficNSW> Narrabeen - slow traffic northbound Pittwater Rd approaching Narrabeen Bridge
+1305272412301217792 2020-09-14 06:29:28 +0800 <GettrafficNSW> Rose Bay, Double Bay, Edgecliffe - school zone congestion bothways at New South Head Rd
+1305271855352217600 2020-09-14 06:27:15 +0800 <GettrafficNSW> Zetland - slow traffic northbound Southern Cross Dr approaching Eastern Distributor
+1305271660350586883 2020-09-14 06:26:29 +0800 <GettrafficNSW> Cremorne - slow traffic bothways Military Road at Murdoch Street
+1305270480585146369 2020-09-14 06:21:47 +0800 <GettrafficNSW> Hammondville - breakdown northbound Heathcote Rd at Bardia Pde
+1305266182581178368 2020-09-14 06:04:43 +0800 <GettrafficNSW> Moorebank - breakdown citybound M5 at Heathcote Rd
+1305263705123241984 2020-09-14 05:54:52 +0800 <GettrafficNSW> Georges Hall - traffic heavy northbound Henry Lawson Dr at Haig Ave
+1305263632972800000 2020-09-14 05:54:35 +0800 <GettrafficNSW> Chipping Norton - traffic busy citybound Newbridge Rd at Governor Macquarie Dr
+1305263617659432960 2020-09-14 05:54:31 +0800 <GettrafficNSW> Moorebank - traffic building northbound Moorebank Ave at Newbridge Rd
+1305263570154741760 2020-09-14 05:54:20 +0800 <GettrafficNSW> Liverpool - traffic congestion northbound Hume Highway at Elizabeth Dr
+1305263548650536960 2020-09-14 05:54:15 +0800 <GettrafficNSW> Cecil Hills - traffic lighter than normal northbound M7 at Elizabeth Dr
+1305263512973799424 2020-09-14 05:54:06 +0800 <GettrafficNSW> Horningsea Park - traffic busy northbound Camden Valley Way at Cowpasture Rd
+1305263482263072768 2020-09-14 05:53:59 +0800 <GettrafficNSW> Minto - traffic moving well all directions Pembroke Rd at Ben Lomond Rd
+1305263448691941376 2020-09-14 05:53:51 +0800 <GettrafficNSW> Harrington Park - traffic busy bothways The Northern Rd at Fairwater Dr
+1305261407928160256 2020-09-14 05:45:44 +0800 <GettrafficNSW> Colebee - breakdown eastbound Richmond Rd at M7
+1305258360241926145 2020-09-14 05:33:38 +0800 <GettrafficNSW> Gladesville - traffic congestion citybound Victoria Rd at Pittwater Rd
+1305258330743476224 2020-09-14 05:33:31 +0800 <GettrafficNSW> Kogarah - traffic busy northbound Princes Highway at Rocky Point Rd
+1305258304591900672 2020-09-14 05:33:24 +0800 <GettrafficNSW> Banksmeadow - traffic building bothways Foreshore Rd at Botany Rd
+1305258279572963328 2020-09-14 05:33:19 +0800 <GettrafficNSW> Mascot - traffic moderate citybound General Holmes Dr at Foreshore Rd
+1305258187608567808 2020-09-14 05:32:57 +0800 <GettrafficNSW> Moore Park - traffic moving well citybound Southern Cross Dr at Eastern Distributor
+1305258144470151168 2020-09-14 05:32:46 +0800 <GettrafficNSW> Double Bay - traffic busy citybound New South Head Rd at Bellevue Rd
+1305258102195761152 2020-09-14 05:32:36 +0800 <GettrafficNSW> Bondi - traffic heavy all directions Old South Head Rd at Bondi Rd
+1305258005538041858 2020-09-14 05:32:13 +0800 <GettrafficNSW> Padstow - heavy traffic northbound Davies Rd approaching The M5 Motorway
+1305257909782081536 2020-09-14 05:31:50 +0800 <GettrafficNSW> Caringbah - traffic building all directions Taren Point Rd at Captain Cook Dr
+1305257849656954880 2020-09-14 05:31:36 +0800 <GettrafficNSW> Milperra - vehicle fire bothways Milperra Rd east of Henry Lawson Drive
+1305257413977583616 2020-09-14 05:29:52 +0800 <GettrafficNSW> Milperra - vehicle fire eastbound Milperra Rd at Henry Lawson Dr
+1305256514114871296 2020-09-14 05:26:18 +0800 <GettrafficNSW> Rouse Hill - traffic cued southbound Windsor Rd at Commercial Rd
+1305256221339865088 2020-09-14 05:25:08 +0800 <GettrafficNSW> Moore Park - traffic busy all directions Anzac Parade at Cleveland St
+1305255935703539712 2020-09-14 05:24:00 +0800 <GettrafficNSW> Leichhardt - traffic congestion all directions Norton St at Allen St
+1305255716802887683 2020-09-14 05:23:08 +0800 <GettrafficNSW> Rozelle - traffic congestion citybound Victoria Rd at Iron Cove Bridge
+1305253909716377600 2020-09-14 05:15:57 +0800 <GettrafficNSW> Bankstown - traffic underspeed citybound Canterbury Rd approaching Stacey St
+1305253651057799168 2020-09-14 05:14:55 +0800 <GettrafficNSW> Greenacre - breakdown southbound Centenary Drive at Hume H/W
+1305253253240614912 2020-09-14 05:13:20 +0800 <GettrafficNSW> Annandale - breakdown southbound Pyrmont Bridge Rd at Parramatta Rd
+1305253150593396737 2020-09-14 05:12:56 +0800 <GettrafficNSW> West Pennant Hills - traffic busy southbound Castle Hill Rd at Pennant Hills Rd
+1305252859164803073 2020-09-14 05:11:46 +0800 <GettrafficNSW> Moore Park - traffic congested   eastbound Cleveland St approaching Anzac Parade
+1305252657905369095 2020-09-14 05:10:58 +0800 <GettrafficNSW> Turramurra - traffic slow southbound Pacific Highway at Bobbin Head Rd
+1305252027736367104 2020-09-14 05:08:28 +0800 <GettrafficNSW> Eastern Creek - traffic congested   citybound M4 at Light Horse Interchange
+1305251807287889920 2020-09-14 05:07:35 +0800 <GettrafficNSW> Eastern Creek - traffic congestion southbound M7 at Old Wallgrove Rd
+1305251536369381377 2020-09-14 05:06:31 +0800 <GettrafficNSW> Prospect - traffic congestion southbound Propsect Highway at Great Western Highway
+1305251261617332224 2020-09-14 05:05:25 +0800 <GettrafficNSW> Smithfield - traffic congestion all directions Victoria St at Hassall St
+1305251057497329664 2020-09-14 05:04:37 +0800 <GettrafficNSW> Smithfield - traffic moderate all directions Polding At at King Rd
+1305250901720928256 2020-09-14 05:04:00 +0800 <GettrafficNSW> Penshurst - traffic congested   bothways King Georges Road at Stoney Creek Rd
+1305250777921851392 2020-09-14 05:03:30 +0800 <GettrafficNSW> Ingleburn - traffic building all directions Williamson Rd at Brooks Rd
+1305250252329422848 2020-09-14 05:01:25 +0800 <GettrafficNSW> Elizabeth Hills, Cecil Hills - traffic busy northbound at M7
+1305250129654423552 2020-09-14 05:00:55 +0800 <GettrafficNSW> Drummoyne - heavy traffic citybound Victoria Road approaching The Iron Cove Bridge, Rozelle &amp; The Anzac Bridge
+1305250019646210048 2020-09-14 05:00:29 +0800 <GettrafficNSW> Mascot - heavy traffic citybound General Holmes Drive between The M5 and The Airport Tunnel
+1305249959818584064 2020-09-14 05:00:15 +0800 <GettrafficNSW> Ryde - heavy traffic northbound Church Street approaching Victoria Rd &amp; Top Ryde
+1305249861587972096 2020-09-14 04:59:52 +0800 <GettrafficNSW> Mascot - heavy traffic citybound General Holmes Drive in The Airport Tunnel
+1305249848577241088 2020-09-14 04:59:48 +0800 <GettrafficNSW> Haberfield, Lilyfield - slow traffic citybound at Citywestlink
+1305249722202902528 2020-09-14 04:59:18 +0800 <GettrafficNSW> Prestons - heavy traffic northbound Hume  Mwy approaching The Cutler Vc Interchange (M5/M7)
+1305248500339228672 2020-09-14 04:54:27 +0800 <GettrafficNSW> West Pennant Hills - breakdown citybound Castle Hill Rd at County Dr
+1305247825370836992 2020-09-14 04:51:46 +0800 <GettrafficNSW> Kirrawee - traffic busy all directions Princes Highway at President Ave
+1305246616291475457 2020-09-14 04:46:58 +0800 <GettrafficNSW> Bardia - breakdown northbound at Hume Motorway
+1305246061934465024 2020-09-14 04:44:46 +0800 <GettrafficNSW> Belrose - traffic busy bothways Mona Vale Rd at Forest Way
+1305245859311886337 2020-09-14 04:43:57 +0800 <GettrafficNSW> Carramar - traffic slow southbound The Horsley Dr at Hume Highway
+1305245728533487616 2020-09-14 04:43:26 +0800 <GettrafficNSW> Petersham - traffic congested   citybound New Canterbury Rd at Crystal St
+1305245446185476097 2020-09-14 04:42:19 +0800 <GettrafficNSW> Northmead - traffic cued eastbound Cumberland Highway at Old Windsor Road
+1305245194967683072 2020-09-14 04:41:19 +0800 <GettrafficNSW> Revesby - traffic underspeed citybound M5 Motorway at Fairford Rd Off-Ramp
+1305244968827547648 2020-09-14 04:40:25 +0800 <GettrafficNSW> Drummoyne - slow traffic citybound Victoria Rd approaching Iron Cove Bridge
+1305244637443964928 2020-09-14 04:39:06 +0800 <GettrafficNSW> Bella Vista - traffic congestion citybound M7 at Old Windsor Rd
+1305241936991666177 2020-09-14 04:28:22 +0800 <GettrafficNSW> Leichhardt - heavy traffic citybound Parramatta Road approaching Norton Street
+1305241665485979648 2020-09-14 04:27:17 +0800 <GettrafficNSW> Ramsgate - slow traffic citybound The Grand Parade approaching Ramsgate Rd
+1305241458224496640 2020-09-14 04:26:28 +0800 <GettrafficNSW> Eastern Creek - traffic building northbound M7 Motorway approaching The M4 Fly-Over
+1305241106569859073 2020-09-14 04:25:04 +0800 <GettrafficNSW> Cecil Hills - heavy traffic northbound M7 Motorway approaching Elizabeth Drive
+1305239587212541953 2020-09-14 04:19:02 +0800 <GettrafficNSW> Epping - breakdown eastbound Carlingford Rd at Ray Rd
+1305238354372390912 2020-09-14 04:14:08 +0800 <GettrafficNSW> South Wentworthville - slow traffic northbound Cumberland Highway approaching The M4 Motorway
+1305238191868227584 2020-09-14 04:13:29 +0800 <GettrafficNSW> Kyeemagh - traffic congestion citybound General Holmes Drive approaching Bestic Street
+1305238080538906624 2020-09-14 04:13:03 +0800 <GettrafficNSW> Arncliffe - traffic building citybound Forest Rd approaching The Princes Highway
+1305237936598786048 2020-09-14 04:12:28 +0800 <GettrafficNSW> Bankstown - heavy traffic northbound Stacey St approaching Macauley Ave
+1305235630373232640 2020-09-14 04:03:19 +0800 <GettrafficNSW> Gladesville - slow traffic citybound Victoria Road approaching Pittwater Rd
+1305235336038023168 2020-09-14 04:02:08 +0800 <GettrafficNSW> Bella Vista - traffic building inbound Westlink M7 approaching The M2 Motorway
+1305234698541563904 2020-09-14 03:59:36 +0800 <GettrafficNSW> Prospect - slow traffic southbound Prospect Highway between Blacktown Road and Reservoir Road
+1305233870111997952 2020-09-14 03:56:19 +0800 <GettrafficNSW> Five Dock - traffic busy citybound Parramatta Rd at Great N Rd
+1305233702050344960 2020-09-14 03:55:39 +0800 <GettrafficNSW> Carlingford - traffic building eastbound Pennant Hills Rd at Jenkins Rd
+1305232248891871232 2020-09-14 03:49:52 +0800 <GettrafficNSW> Macquarie Park - traffic lights flashing yellow bothways Epping Rd at Herring Rd
+1305231953528905728 2020-09-14 03:48:42 +0800 <GettrafficNSW> Roseville - traffic lights flashing yellow bothways Pacific Highway at Shirley Rd
+1305229991437713408 2020-09-14 03:40:54 +0800 <GettrafficNSW> Kogorah - traffic building citybound Princes Highway approaching Rocky Point Rd
+1305229719923642374 2020-09-14 03:39:49 +0800 <GettrafficNSW> Leichhardt - traffic busy inbound City West Link approaching Balmain Rd
+1305229485831118848 2020-09-14 03:38:54 +0800 <GettrafficNSW> Homebush West - traffic building northbound Centenary Drive approaching Arthur Street
+1305229300480712705 2020-09-14 03:38:09 +0800 <GettrafficNSW> Clyde - traffic building citybound Parramatta Road approaching James Ruse Drive
+1305229174970314752 2020-09-14 03:37:39 +0800 <GettrafficNSW> Granville - accident northbound James Ruse Dr at M4
+1305228061361623040 2020-09-14 03:33:14 +0800 <GettrafficNSW> Eastern Creek - breakdown eastbound M4 at M7
+1305228061038669824 2020-09-14 03:33:14 +0800 <GettrafficNSW> Landsdowne - traffic heavy citybound Hume Highway at Henry Lawson Dr
+1305223199014047745 2020-09-14 03:13:55 +0800 <GettrafficNSW> Georges Hall - accident bothways Henry Lawson Dr at Flinders Rd
+1305220475941826561 2020-09-14 03:03:05 +0800 <GettrafficNSW> Kogarah - accident southbound Princes Highway at Jubilee Ave
+1305052767610757120 2020-09-13 15:56:41 +0800 <GettrafficNSW> Georges Hall - collision involving a truck all directions Henry Lawson Drive at Tower Road
+1305019304245522434 2020-09-13 13:43:42 +0800 <GettrafficNSW> Menai - debris northbound Alfords Point Road at Old Illawarrra Road
+1305018506388201472 2020-09-13 13:40:32 +0800 <GettrafficNSW> Helensburgh - slow traffic northbound M1 Princes Motorway approaching Waterfall And Heathcote
+1305018227488034816 2020-09-13 13:39:26 +0800 <GettrafficNSW> Stanwell Tops - slow traffic citybound Lawrence Hargrave Drive approaching M1 Princes Motorway
+1304987962959036416 2020-09-13 11:39:10 +0800 <GettrafficNSW> Mascot - breakdown inbound Botany Road at Millpond Road
+1304956800907706370 2020-09-13 09:35:20 +0800 <GettrafficNSW> Ramsgate Beach - breakdown citybound The Grand Parade at Ramsgate Road
+1304877257903583233 2020-09-13 04:19:16 +0800 <GettrafficNSW> Mount White - breakdown northbound M1 at Mount White Exit
+1304338910294597634 2020-09-11 16:40:04 +0800 <GettrafficNSW> Gladesville - traffic busy westbound Victoria Rd at Pittwater Rd
+1304338362132652033 2020-09-11 16:37:53 +0800 <GettrafficNSW> Blacktown - accident bothways Sunnyholt Rd between Main St and Third Ave
+1304338115281084416 2020-09-11 16:36:54 +0800 <GettrafficNSW> Newtown - traffic congestion bothways King St at Enmore Rd
+1304337717321367554 2020-09-11 16:35:19 +0800 <GettrafficNSW> Ryde - blocked by broken down vehicle southbound Devlin Street near Pope St
+1304336851499589632 2020-09-11 16:31:53 +0800 <GettrafficNSW> Doonside - traffic delayed outbound Knox Rd approaching Richmond Rd
+1304335662800273408 2020-09-11 16:27:10 +0800 <GettrafficNSW> Newtown - slow traffic bothways King Street at Erskinville Road
+1304335639924494337 2020-09-11 16:27:04 +0800 <GettrafficNSW> Turramurra - slow traffic northbound Pacific Highway between Kissing Point Rd and Fox Valley Rd
+1304335457707110401 2020-09-11 16:26:21 +0800 <GettrafficNSW> Epping - traffic delayed westbound Epping Rd approaching Blaxland Rd
+1304335173488537601 2020-09-11 16:25:13 +0800 <GettrafficNSW> Moorebank - traffic congested   westbound M5 approaching Moorebank Ave
+1304332996854439938 2020-09-11 16:16:34 +0800 <GettrafficNSW> Wattle Grove - slow traffic westbound M5 between Bransgrove Rd and Moorebank Ave
+1304331208029949953 2020-09-11 16:09:27 +0800 <GettrafficNSW> Lane Cove - slow traffic outbound Penrose St at Burns Bay Rd
+1304330750800457729 2020-09-11 16:07:38 +0800 <GettrafficNSW> Granville - blocked by broken down vehicle westbound M4 above James Ruse Drive
+1304328503639199744 2020-09-11 15:58:43 +0800 <GettrafficNSW> Ryde - traffic slow southbound Lane Cove Rd at Blaxland Rd
+1304328474841153537 2020-09-11 15:58:36 +0800 <GettrafficNSW> Woolloomooloo - closed for a fire bothways Cathedral St between Sir John Young Crescent and Crown St
+1304328392536281090 2020-09-11 15:58:16 +0800 <GettrafficNSW> Granville - breakdown westbound M4 on ramp Church St On Ramp
+1304328357484482562 2020-09-11 15:58:08 +0800 <GettrafficNSW> Bankstown Aerodrome - traffic delayed northbound Henry Lawson Dr between Newbridge Road and Haig Ave
+1304325884879364096 2020-09-11 15:48:18 +0800 <GettrafficNSW> Winston Hills - traffic building bothways Old Windsor Rd near Powers Rd
+1304325683053694976 2020-09-11 15:47:30 +0800 <GettrafficNSW> Georges Hall - slow traffic northbound Henry Lawson Drive approaching Haig Ave
+1304325231557799938 2020-09-11 15:45:43 +0800 <GettrafficNSW> Turramurra - traffic heavy northbound Pacific Highway between Ryde Rd and Fox Valley Rd
+1304324924396371971 2020-09-11 15:44:29 +0800 <GettrafficNSW> Moorebank - traffic underspeed westbound M5 at Moorebank Ave
+1304324755101630466 2020-09-11 15:43:49 +0800 <GettrafficNSW> Padstow - heavy traffic outbound M5 between Fairford Road and Moorebank Ave
+1304324714488242176 2020-09-11 15:43:39 +0800 <GettrafficNSW> Horsley Park - traffic busy southbound M7 at The Horsley Dr
+1304324603494297600 2020-09-11 15:43:13 +0800 <GettrafficNSW> Winston Hills - traffic congested   outbound Old Windsor Rd at Prospect Highway
+1304320331868377088 2020-09-11 15:26:14 +0800 <GettrafficNSW> Miranda - slow traffic outbound Kiora Rd approaching President Ave
+1304320118843781120 2020-09-11 15:25:24 +0800 <GettrafficNSW> Newtown - slow traffic outbound King Street at Erskineville Rd
+1304319295388745729 2020-09-11 15:22:07 +0800 <GettrafficNSW> Bondi Junction - traffic building quickly bothways Old South Head Rd at Bondi Rd
+1304319178308898816 2020-09-11 15:21:39 +0800 <GettrafficNSW> Homebush West - traffic slow southbound Centenary Drive between Homebush Bay Drive and Arthur St
+1304318979528224768 2020-09-11 15:20:52 +0800 <GettrafficNSW> Liverpool - traffic building quickly southbound Hume Highway approaching Hoxton Park Rd
+1304318795184353280 2020-09-11 15:20:08 +0800 <GettrafficNSW> Menai - traffic slow outbound Alfords Point Rd approaching Menai Rd
+1304318633691111424 2020-09-11 15:19:29 +0800 <GettrafficNSW> Summer Hill - traffic congested   bothways Parramatta Rd at Tebbutt St
+1304318381244313600 2020-09-11 15:18:29 +0800 <GettrafficNSW> Rozelle - traffic delayed westbound Anzac Bridge approaching The Crescent
+1304314635105914880 2020-09-11 15:03:36 +0800 <GettrafficNSW> Rozelle - heavy traffic citybound Victoria Road approaching James Craig Rd
+1304314372169187328 2020-09-11 15:02:33 +0800 <GettrafficNSW> Turramurra - heavy traffic outbound Pacific Highway between Park Ave and Fox Valley Rd
+1304313954538123264 2020-09-11 15:00:54 +0800 <GettrafficNSW> Rockdale - traffic busy citybound Princes Highway at Bay St
+1304313790792515586 2020-09-11 15:00:15 +0800 <GettrafficNSW> Artarmon - debris outbound Gore Hill Freeway approaching The Lane Cove Tunnel
+1304309345602007041 2020-09-11 14:42:35 +0800 <GettrafficNSW> Penrith - brokendown truck westbound Gt Western Hwy approaching Parker St
+1304305588944293891 2020-09-11 14:27:39 +0800 <GettrafficNSW> Woolloomooloo - heavy traffic southbound Eastern Distributor between Sydney Harbour Tunnel and Anzac Parade
+1304305164384260097 2020-09-11 14:25:58 +0800 <GettrafficNSW> Northmead - traffic building outbound James Ruse Dr approaching Church Street
+1304304944279818241 2020-09-11 14:25:06 +0800 <GettrafficNSW> Ryde - heavy traffic bothways at Ryde Bridge
+1304303922585059328 2020-09-11 14:21:02 +0800 <GettrafficNSW> South Hurstville - heavy traffic outbound King Georges Road at Connells Point Rd
+1304303695610298368 2020-09-11 14:20:08 +0800 <GettrafficNSW> North Curl Curl - slow traffic northbound Griffin Rd between Adams St and Pitt Rd
+1304303523304075264 2020-09-11 14:19:27 +0800 <GettrafficNSW> Canterbury - slow traffic citybound Canterbury Rd at Wonga St
+1304300919274631168 2020-09-11 14:09:06 +0800 <GettrafficNSW> Gladesville - accident citybound Victoria Rd at Cowell St
+1304293805626142720 2020-09-11 13:40:50 +0800 <GettrafficNSW> Kariong - brokendown truck eastbound Central Coast Hwy after Wisemans Ferry Road
+1304290373368332289 2020-09-11 13:27:12 +0800 <GettrafficNSW> Cremorne - slow traffic bothways Military Road at Murdoch Street
+1304289838032535553 2020-09-11 13:25:04 +0800 <GettrafficNSW> Milperra - traffic delayed southbound M5 Motorway between Henry Lawson Dr and Moorebank Ave
+1304289515213737984 2020-09-11 13:23:47 +0800 <GettrafficNSW> Fairfield - traffic underspeed northbound The Horsley Dr between Fairfield St and Polding St
+1304289206764580865 2020-09-11 13:22:34 +0800 <GettrafficNSW> Rockdale - traffic busy all directions W Botany St at Bay St
+1304289160555978754 2020-09-11 13:22:23 +0800 <GettrafficNSW> Windsor - accident citybound Hawkesbury Valley Way at George St
+1304288987922665472 2020-09-11 13:21:41 +0800 <GettrafficNSW> Brookvale - traffic slow northbound Pittwater Rd at Warringah Rd
+1304286108029722624 2020-09-11 13:10:15 +0800 <GettrafficNSW> Horsley Park - traffic building southbound M7 between M7 and The Horsley Dr
+1304285976601092102 2020-09-11 13:09:43 +0800 <GettrafficNSW> Darlinghurst - traffic delayed southbound Eastern Distributor approaching Cleveland St
+1304284893577277442 2020-09-11 13:05:25 +0800 <GettrafficNSW> Northmead - traffic building westbound James Ruse Drive between James Ruse Drive and Windsor Rd
+1304284511300022272 2020-09-11 13:03:54 +0800 <GettrafficNSW> Pymble - slow traffic northbound Pacific Hwy approaching Kissing Point Road
+1304284195322171392 2020-09-11 13:02:39 +0800 <GettrafficNSW> Prospect - slow traffic outbound M4 approaching Prospect Highway
+1304283893818826752 2020-09-11 13:01:27 +0800 <GettrafficNSW> Granville - slow traffic bothways Parramatta Road at Woodville Road
+1304283647093039104 2020-09-11 13:00:28 +0800 <GettrafficNSW> Strathfield - slow traffic northbound Centenary Dr approaching Arthur Street
+1304283057961066498 2020-09-11 12:58:08 +0800 <GettrafficNSW> Belrose - brokendown truck northbound Forest Way at Ralston Ave
+1304282072547168257 2020-09-11 12:54:13 +0800 <GettrafficNSW> Lilyfield - traffic busy westbound City-West Link Road at Catherine St
+1304281938706837504 2020-09-11 12:53:41 +0800 <GettrafficNSW> Thornleigh - traffic heavy southbound Pennant Hills Rd approaching The Comenarra Parkway
+1304281746066694144 2020-09-11 12:52:55 +0800 <GettrafficNSW> Blacktown - traffic delayed westbound M4 approaching M7
+1304281594601984003 2020-09-11 12:52:19 +0800 <GettrafficNSW> Granville - traffic delayed westbound Parramatta Rd at James Ruse Dr
+1304281403530440710 2020-09-11 12:51:33 +0800 <GettrafficNSW> Brighton-Le-Sands - traffic congested   southbound General Holmes Dr at Bay St
+1304272879568252928 2020-09-11 12:17:41 +0800 <GettrafficNSW> Hammondville - debris westbound M5 approaching Heathcote Rd
+1304225809406722048 2020-09-11 09:10:38 +0800 <GettrafficNSW> Woodpark - breakdown northbound Cumberland Highway at Woodpark Rd
+1304218402295132160 2020-09-11 08:41:12 +0800 <GettrafficNSW> Greenacre - breakdown northbound Stacey Street at Greenacre Rd
+1304216553592778752 2020-09-11 08:33:52 +0800 <GettrafficNSW> Mascot - breakdown citybound General Holmes Dr at Airport Tunnel
+1304199281050415104 2020-09-11 07:25:14 +0800 <GettrafficNSW> Bar Point - brokendown semi northbound M1 at Jolls Bridge
+1304198463865806849 2020-09-11 07:21:59 +0800 <GettrafficNSW> Mulgrave - traffic congestion southbound Wilberforce Rd at Freemans Reach Rd
+1304198045370781696 2020-09-11 07:20:19 +0800 <GettrafficNSW> Dural - traffic heavy southbound Old Northern Rd at New Line Rd
+1304197645775241216 2020-09-11 07:18:44 +0800 <GettrafficNSW> Turramurra - traffic congestion bothways Pacific Hwy at Kissing Point Rd
+1304195608241037312 2020-09-11 07:10:38 +0800 <GettrafficNSW> Greenacre - accident citybound Hume Highway at Centenary Dr
+1304188972730466304 2020-09-11 06:44:16 +0800 <GettrafficNSW> Homebush West - slow traffic southbound Centenary Dr approaching Arthur Street
+1304188180690735104 2020-09-11 06:41:07 +0800 <GettrafficNSW> Normanhurst, Thornleigh - slow traffic bothways Pennant Hills Rd between The Commenarra Parkway and M1
+1304187718247702528 2020-09-11 06:39:17 +0800 <GettrafficNSW> Pyrmont - traffic moving well citybound at Anzac Bridge
