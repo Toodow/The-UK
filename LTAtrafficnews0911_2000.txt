@@ -1,0 +1,343 @@
+1436640876105662464 2021-09-11 18:40:51 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after BKE
+1436629246181404678 2021-09-11 17:54:38 +0800 <LTAtrafficnews> Accident on TPE (towards PIE) at Loyang Ave Entrance
+1436604505005576201 2021-09-11 16:16:19 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) after PIE(Jurong) Exit with congestion till PIE(Changi) Exit. Avoid lane 1
+1436603429762134020 2021-09-11 16:12:03 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) after PIE(Jurong) Exit. Avoid lane 1
+1436599733326282753 2021-09-11 15:57:21 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 1 Exit
+1436598936790130688 2021-09-11 15:54:11 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) before PIE(Changi) Exit with congestion till AMK Ave 1 Exit. Avoid lane 4
+1436598283342790659 2021-09-11 15:51:36 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Lornie Rd
+1436598283221147653 2021-09-11 15:51:36 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) before PIE(Changi) Exit. Avoid lane 4
+1436598150983159808 2021-09-11 15:51:04 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Stevens Rd Exit
+1436597871789240325 2021-09-11 15:49:57 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Stevens Rd Exit. Avoid lane 1
+1436597085835436032 2021-09-11 15:46:50 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) after Moulmein Rd Exit. Avoid lane 5
+1436596022055108619 2021-09-11 15:42:36 +0800 <LTAtrafficnews> Accident on SLE (towards CTE) before Upper Thomson Rd Exit. Avoid lane 1
+1436594319331184640 2021-09-11 15:35:51 +0800 <LTAtrafficnews> Heavy Traffic on PIE (towards Tuas) before KPE Exit
+1436594039898341377 2021-09-11 15:34:44 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) before KPE Exit with congestion till Paya Lebar Rd
+1436593781713694723 2021-09-11 15:33:42 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) before KPE Exit
+1436589821015691265 2021-09-11 15:17:58 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lane 1
+1436586917340925952 2021-09-11 15:06:26 +0800 <LTAtrafficnews> Accident on SLE (towards CTE) at Seletar West Link Entrance
+1436579238761558027 2021-09-11 14:35:55 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lane 2
+1436569171647627265 2021-09-11 13:55:55 +0800 <LTAtrafficnews> Obstacle on ECP (towards City) after Still Rd Sth Exit. Avoid lane 4
+1436567434736005121 2021-09-11 13:49:01 +0800 <LTAtrafficnews> Heavy Traffic on PIE (towards Changi Airport) after Thomson Rd
+1436556983587377152 2021-09-11 13:07:29 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards AYE) before Bukit Timah Rd Exit with congestion till PIE(Changi) Exit. Avoid lane 2
+1436556316374298624 2021-09-11 13:04:50 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Thomson Rd with congestion till Toa Payoh Lor 1. Avoid lane 1
+1436556056692342787 2021-09-11 13:03:48 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Thomson Rd
+1436554717778231296 2021-09-11 12:58:29 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Thomson Rd. Avoid lane 2
+1436554330346180608 2021-09-11 12:56:56 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards AYE) before Bukit Timah Rd Exit with congestion till PIE(Jurong) Exit. Avoid lane 2
+1436554200159117320 2021-09-11 12:56:25 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Thomson Rd with congestion till Toa Payoh Lor 1. Avoid lanes 1 and 2
+1436553269141118976 2021-09-11 12:52:43 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards AYE) before Bukit Timah Rd Exit. Avoid lane 2
+1436552880261984258 2021-09-11 12:51:11 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Thomson Rd. Avoid lanes 1 and 2
+1436552589835862019 2021-09-11 12:50:01 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Thomson Rd. Avoid lane 1
+1436544797552955396 2021-09-11 12:19:04 +0800 <LTAtrafficnews> Accident on Whitley Road (towards Merryn Road) after Dunearn Road. Avoid left lane
+1436541355614867465 2021-09-11 12:05:23 +0800 <LTAtrafficnews> Accident on Whitley Road (towards Merryn Road) after Dunearn Road. Avoid right lane
+1436536211405824005 2021-09-11 11:44:57 +0800 <LTAtrafficnews> Accident on TPE (towards PIE) at Pasir Ris Dr 8 Entrance
+1436535955024846849 2021-09-11 11:43:55 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) at Whitley Rd Entrance
+1436529362770096128 2021-09-11 11:17:44 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Paya Lebar Rd. Avoid lane 4
+1436514441772691463 2021-09-11 10:18:26 +0800 <LTAtrafficnews> Accident on Kallang Road (toward City) after Sims Way
+1436500827523325953 2021-09-11 09:24:20 +0800 <LTAtrafficnews> Obstacle on PIE (towards Changi Airport) after Jalan Bahar. Avoid lane 4
+1436475808206315520 2021-09-11 07:44:55 +0800 <LTAtrafficnews> Obstacle in CTE Tunnel (towards AYE) before Cairnhill Circle Exit. Avoid lane 4
+1436475551892471808 2021-09-11 07:43:54 +0800 <LTAtrafficnews> Obstacle on PIE (towards Changi Airport) at KPE(TPE) Exit
+1436335334023843846 2021-09-10 22:26:44 +0800 <LTAtrafficnews> Accident on SLE (towards BKE) at Woodlands Ave 2 Entrance
+1436300900071469058 2021-09-10 20:09:54 +0800 <LTAtrafficnews> Obstacle on PIE (towards Tuas) after Eng Neo Ave
+1436299320668549127 2021-09-10 20:03:37 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) after PIE(Jurong) Exit. Avoid lane 1
+1436296936701661188 2021-09-10 19:54:09 +0800 <LTAtrafficnews> Heavy Traffic on PIE (towards Tuas) after Thomson Rd Exit
+1436292449488424964 2021-09-10 19:36:19 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Thomson Rd Exit with congestion till CTE(SLE) Exit. Avoid lane 1
+1436289272147890181 2021-09-10 19:23:42 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after CTE. Avoid lane 3
+1436279328719859717 2021-09-10 18:44:11 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Thomson Rd Exit with congestion till KPE Exit. Avoid lane 1
+1436275746750676997 2021-09-10 18:29:57 +0800 <LTAtrafficnews> Obstacle on AYE (towards Tuas) after Pioneer Rd Exit
+1436270584661377029 2021-09-10 18:09:26 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Thomson Rd Exit with congestion till Toa Payoh Exit. Avoid lane 1
+1436269675046789121 2021-09-10 18:05:49 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Thomson Rd Exit. Avoid lane 1
+1436268868301844482 2021-09-10 18:02:37 +0800 <LTAtrafficnews> Accident on Dunearn Road (towards City) after Swiss Club Road. Avoid right lane
+1436266749922447367 2021-09-10 17:54:12 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Simei Rd exit
+1436261313609568257 2021-09-10 17:32:36 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards SLE) at Outram Rd Exit
+1436256924568207362 2021-09-10 17:15:09 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Simei Rd exit. Avoid lane 2
+1436244749065744393 2021-09-10 16:26:46 +0800 <LTAtrafficnews> Obstacle on AYE (towards MCE) after Pioneer Rd Exit. Avoid lane 1
+1436232721924198417 2021-09-10 15:38:59 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) at West Coast Rd Exit
+1436202444178923523 2021-09-10 13:38:40 +0800 <LTAtrafficnews> Heavy Traffic on CTE (towards AYE) after PIE(Jurong) Exit
+1436193724946477065 2021-09-10 13:04:01 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) after PIE(Jurong) Exit with congestion till PIE(Changi) Exit. Avoid lanes 1 and 2
+1436192794167504927 2021-09-10 13:00:19 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) after PIE(Jurong) Exit. Avoid lanes 1 and 2
+1436188191883554844 2021-09-10 12:42:02 +0800 <LTAtrafficnews> Obstacle on BKE (towards PIE) after KJE Exit. Avoid lane 1
+1436180147246231581 2021-09-10 12:10:04 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) at Pioneer Circus Exit
+1436163622955196422 2021-09-10 11:04:24 +0800 <LTAtrafficnews> Obstacle on SLE (towards BKE) after Lentor Ave Exit. Avoid lane 1
+1436144971556405290 2021-09-10 09:50:18 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Lornie Rd. Avoid lane 2
+1436133743392014343 2021-09-10 09:05:41 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Stevens Rd Exit. Avoid lane 1
+1436133590622892038 2021-09-10 09:05:04 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) before KPE Exit. Avoid lane 1
+1436132554273280003 2021-09-10 09:00:57 +0800 <LTAtrafficnews> Heavy Traffic on PIE (towards Changi Airport) after Onraet Rd
+1436131620252053505 2021-09-10 08:57:14 +0800 <LTAtrafficnews> Accident on KPE (towards ECP) after Tampines Rd Exit. Avoid lanes 1 and 2
+1436130955824021519 2021-09-10 08:54:36 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Onraet Rd with congestion till Lornie Rd. Avoid lane 1
+1436125411184807938 2021-09-10 08:32:34 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Onraet Rd. Avoid lane 1
+1436124611960184834 2021-09-10 08:29:24 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Kim Keat Link
+1436123541406060544 2021-09-10 08:25:08 +0800 <LTAtrafficnews> Accident on BKE (towards PIE) before PIE Exit. Avoid lane 2
+1436106491728064526 2021-09-10 07:17:23 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Lower Delta Rd Exit with congestion till Lower Delta Rd Exit. Avoid lane 3
+1436099451576373248 2021-09-10 06:49:25 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after CTE. Avoid lane 1
+1436095770701164559 2021-09-10 06:34:47 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Lower Delta Rd Exit
+1436094857827676161 2021-09-10 06:31:10 +0800 <LTAtrafficnews> Accident on SLE (towards BKE) after Upper Thomson Rd Exit with congestion till Upper Thomson Rd Exit. Avoid lanes 1 and 2
+1436094857802510345 2021-09-10 06:31:10 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lanes 2 and 3
+1436093545056636929 2021-09-10 06:25:57 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Lower Delta Rd Exit. Avoid lane 3
+1436093270782734347 2021-09-10 06:24:51 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after CTE. Avoid lanes 1 and 2
+1436088037218258944 2021-09-10 06:04:03 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards SLE) before Kramat Rd Entrance. Avoid lane 1
+1436071527158468609 2021-09-10 04:58:27 +0800 <LTAtrafficnews> Accident on SLE (towards BKE) after Upper Thomson Rd Exit. Avoid lanes 1 and 2
+1436062225223995398 2021-09-10 04:21:29 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Stevens Rd Exit. Avoid lane 4
+1436055287924871185 2021-09-10 03:53:55 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Stevens Rd Exit
+1436006098515873798 2021-09-10 00:38:28 +0800 <LTAtrafficnews> Obstacle on TPE (towards PIE) before Sengkang Exit. Avoid lane 2
+1435965954530283530 2021-09-09 21:58:57 +0800 <LTAtrafficnews> Accident on Queensway (towards Lornie) after Holland Road
+1435962311303262210 2021-09-09 21:44:28 +0800 <LTAtrafficnews> Accident on BKE (towards PIE) at Dairy Farm Rd Entrance
+1435941546956779524 2021-09-09 20:21:57 +0800 <LTAtrafficnews> Obstacle on BKE (towards PIE) after SLE Exit
+1435937357551726592 2021-09-09 20:05:19 +0800 <LTAtrafficnews> Heavy Traffic on CTE (towards SLE) after AMK Ave 1 Exit
+1435934985047867400 2021-09-09 19:55:53 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after AMK Ave 1 Exit with congestion till Braddell Rd Exit
+1435934713370144771 2021-09-09 19:54:48 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after AMK Ave 1 Exit with congestion till Braddell Rd Exit. Avoid lane 3
+1435933730892251142 2021-09-09 19:50:54 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after AMK Ave 1 Exit. Avoid lane 3
+1435931924518739981 2021-09-09 19:43:43 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) before Toh Guan Rd Exit. Avoid lane 3
+1435905630695428100 2021-09-09 17:59:14 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after PIE(Changi) Exit. Avoid lane 1
+1435902271947087879 2021-09-09 17:45:54 +0800 <LTAtrafficnews> Accident on Sengkang East Road near Buangkok Drive/Buangkok Green Junction
+1435901999531257856 2021-09-09 17:44:49 +0800 <LTAtrafficnews> Accident on Buangkok Drive near Buangkok Drive/Buangkok Green Junction
+1435884782932488193 2021-09-09 16:36:24 +0800 <LTAtrafficnews> Heavy Traffic on PIE (towards Changi Airport) after Stevens Rd Exit
+1435881972463648772 2021-09-09 16:25:14 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Stevens Rd Exit with congestion till Lornie Rd
+1435877234238132228 2021-09-09 16:06:24 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Stevens Rd Exit with congestion till Lornie Rd. Avoid lane 3
+1435876803000762373 2021-09-09 16:04:41 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Stevens Rd Exit. Avoid lane 3
+1435863240756453377 2021-09-09 15:10:48 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Thomson Rd. Avoid lane 1
+1435862835104399362 2021-09-09 15:09:11 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas ) at West Coast Way Entrance
+1435846742814048256 2021-09-09 14:05:14 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) after PIE(Jurong) Exit with congestion till PIE(Changi) Exit. Avoid lane 1
+1435846333059928067 2021-09-09 14:03:37 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) after PIE(Jurong) Exit. Avoid lane 1
+1435839930345799682 2021-09-09 13:38:10 +0800 <LTAtrafficnews> Obstacle on BKE (towards PIE) at Woodlands Ave 3 Entrance
+1435831013083529221 2021-09-09 13:02:44 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) at Balestier Rd Entrance
+1435799013169635331 2021-09-09 10:55:35 +0800 <LTAtrafficnews> Accident on ECP (towards City) after East Coast Park Carpark F3 Exit. Avoid lane 3
+1435797915599921153 2021-09-09 10:51:13 +0800 <LTAtrafficnews> Accident on ECP (towards City) after East Coast Park Carpark F3 Exit
+1435786867526361088 2021-09-09 10:07:19 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Bedok North Rd. Avoid lane 1
+1435785474031771649 2021-09-09 10:01:47 +0800 <LTAtrafficnews> Accident on ECP (towards City) before Still Rd Sth Exit. Avoid lane 3
+1435785041703956480 2021-09-09 10:00:04 +0800 <LTAtrafficnews> Accident on ECP (towards City) before Still Rd Sth Exit with congestion till East Coast Park Carpark F3 Exit. Avoid lane 3
+1435777921046646787 2021-09-09 09:31:46 +0800 <LTAtrafficnews> Accident on Braddell Road (towards Lornie) after Bishan Flyover. Avoid left lane
+1435774977924481025 2021-09-09 09:20:04 +0800 <LTAtrafficnews> Accident on ECP (towards City) before Still Rd Sth Exit. Avoid lanes 1 and 2
+1435774840611368963 2021-09-09 09:19:32 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) after KPE(MCE) Exit. Avoid lanes 1 and 2
+1435774287206498305 2021-09-09 09:17:20 +0800 <LTAtrafficnews> Accident on ECP (towards City) before Still Rd Sth Exit with congestion till East Coast Park Carpark F3 Exit. Avoid lanes 1 and 2
+1435771764244574216 2021-09-09 09:07:18 +0800 <LTAtrafficnews> Accident on ECP (towards City) before Still Rd Sth Exit with congestion till East Coast Park Carpark F3 Exit. Avoid lane 1
+1435769108386115588 2021-09-09 08:56:45 +0800 <LTAtrafficnews> Accident on ECP (towards City) before Still Rd Sth Exit. Avoid lane 1
+1435666335992668163 2021-09-09 02:08:22 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Eng Neo Ave. Avoid lanes 3 and 4
+1435635543576956934 2021-09-09 00:06:01 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Eng Neo Ave. Avoid lanes 4 and 5
+1435621059139489795 2021-09-08 23:08:27 +0800 <LTAtrafficnews> Accident on Ophir Road (towards Beach Road) after North Bridge Road
+1435587148720205826 2021-09-08 20:53:42 +0800 <LTAtrafficnews> Accident on AYE (towards MCE) at Clementi Ave 6 Entrance
+1435585766898368513 2021-09-08 20:48:13 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) at Jalan Eunos Exit
+1435561690523783173 2021-09-08 19:12:33 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Clementi Rd Exit with congestion till Buona Vista exit
+1435557210436694022 2021-09-08 18:54:44 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Clementi Rd Exit with congestion till Buona Vista exit. Avoid lane 2
+1435555803222589443 2021-09-08 18:49:09 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Clementi Rd Exit with congestion till Buona Vista exit. Avoid lane 3
+1435554413557338116 2021-09-08 18:43:38 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Clementi Rd Exit. Avoid lane 3
+1435554132417339393 2021-09-08 18:42:31 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Clementi Rd Exit
+1435494518405537800 2021-09-08 14:45:38 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) at Moulmein Rd Exit
+1435462144699498501 2021-09-08 12:36:59 +0800 <LTAtrafficnews> Accident on Serangoon Road (towards Sengkang) after Balestier Road. Avoid right lane
+1435456431235362820 2021-09-08 12:14:17 +0800 <LTAtrafficnews> Obstacle on AYE (towards MCE) at Jln Ahmad Ibrahim Entrance
+1435437155103371264 2021-09-08 10:57:41 +0800 <LTAtrafficnews> Heavy Traffic on PIE (towards Changi Airport) before Paya Lebar Rd
+1435433926042914823 2021-09-08 10:44:51 +0800 <LTAtrafficnews> Accident on KPE (towards ECP) after Tampines Rd Exit with congestion till Buangkok Dr Exit. Avoid lane 1
+1435433926030364677 2021-09-08 10:44:51 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Paya Lebar Rd with congestion till Kallang Way. Avoid lane 5
+1435430008315543552 2021-09-08 10:29:17 +0800 <LTAtrafficnews> Accident on KPE (towards ECP) after Tampines Rd Exit. Avoid lane 1
+1435426793377263618 2021-09-08 10:16:31 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Kallang
+1435424675606134787 2021-09-08 10:08:06 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Paya Lebar Rd with congestion till Kim Keat Link. Avoid lanes 4 and 5
+1435417497851744256 2021-09-08 09:39:34 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Paya Lebar Rd with congestion till Thomson Rd. Avoid lanes 4 and 5
+1435417075929870338 2021-09-08 09:37:54 +0800 <LTAtrafficnews> Obstacle on PIE (towards Changi Airport) before Upper Bukit Timah Rd. Avoid lane 2
+1435416097730097152 2021-09-08 09:34:01 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Paya Lebar Rd with congestion till CTE. Avoid lanes 4 and 5
+1435410915000655874 2021-09-08 09:13:25 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Paya Lebar Rd with congestion till Kallang Way. Avoid lanes 4 and 5
+1435410767575093251 2021-09-08 09:12:50 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) at Sengkang East Rd Exit
+1435410062453796866 2021-09-08 09:10:02 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Paya Lebar Rd with congestion till Kallang. Avoid lanes 4 and 5
+1435408802627547136 2021-09-08 09:05:01 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Paya Lebar Rd. Avoid lanes 4 and 5
+1435323263509356544 2021-09-08 03:25:07 +0800 <LTAtrafficnews> Obstacle on PIE (towards Changi Airport) after Paya Lebar. Avoid lane 1
+1435257406984900608 2021-09-07 23:03:26 +0800 <LTAtrafficnews> Accident on Serangoon Road (towards Sengkang) after St George`s Rd
+1435217847190392835 2021-09-07 20:26:14 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) at Balestier Rd Entrance
+1435217554872492037 2021-09-07 20:25:04 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after Moulmein Rd Exit. Avoid lane 4
+1435192755462893568 2021-09-07 18:46:32 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before BKE
+1435191632907751428 2021-09-07 18:42:04 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before BKE with congestion till Clementi Ave 6
+1435186042500308995 2021-09-07 18:19:51 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before BKE with congestion till Toh Guan Rd Exit
+1435185346682114053 2021-09-07 18:17:05 +0800 <LTAtrafficnews> Heavy Traffic in CTE Tunnel (towards SLE) after Cairnhill Circle Entrance
+1435179056056598529 2021-09-07 17:52:05 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before BKE with congestion till Upper Bukit Timah Rd
+1435178917745213442 2021-09-07 17:51:32 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before BKE with congestion till Upper Bukit Timah Rd. Avoid lane 4
+1435178625825849347 2021-09-07 17:50:23 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before BKE. Avoid lane 4
+1435178486839136257 2021-09-07 17:49:50 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards SLE) after Cairnhill Circle Entrance with congestion till Merchant Rd Exit. Avoid lane 1
+1435178084936794116 2021-09-07 17:48:14 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards SLE) after Cairnhill Circle Entrance. Avoid lane 1
+1435172624900919298 2021-09-07 17:26:32 +0800 <LTAtrafficnews> Accident on Bedok South Avenue 1 near Bedok South Avenue 1/Bedok South Road Junction
+1435171783494168580 2021-09-07 17:23:12 +0800 <LTAtrafficnews> Heavy Traffic on PIE (towards Changi Airport) before Jalan Eunos
+1435170246411784197 2021-09-07 17:17:05 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Jalan Eunos with congestion till Paya Lebar Rd. Avoid lane 1
+1435169543043760128 2021-09-07 17:14:17 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Jalan Eunos. Avoid lane 1
+1435153830308503561 2021-09-07 16:11:51 +0800 <LTAtrafficnews> Accident on TPE (towards PIE) at Seletar Link Exit
+1435147228222398465 2021-09-07 15:45:37 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) after Punggol Rd Exit. Avoid lane 3
+1435130525664964610 2021-09-07 14:39:15 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) at Toa Payoh Entrance
+1435130112450580483 2021-09-07 14:37:36 +0800 <LTAtrafficnews> Obstacle on PIE (towards Tuas) after Jurong West Ave 3. Avoid lane 3
+1435120519720751108 2021-09-07 13:59:29 +0800 <LTAtrafficnews> Accident on AYE (towards MCE) before Clementi Ave 2 Exit with congestion till Jurong Town Hall Entrance. Avoid lane 3
+1435119692025237508 2021-09-07 13:56:12 +0800 <LTAtrafficnews> Accident on AYE (towards MCE) before Clementi Ave 2 Exit. Avoid lane 3
+1435116479423254529 2021-09-07 13:43:26 +0800 <LTAtrafficnews> Obstacle on AYE (towards Tuas) before Jurong Port Rd Exit
+1435091823202951172 2021-09-07 12:05:28 +0800 <LTAtrafficnews> Accident on Jalan Bukit Merah (towards Alexandra Road) after Bukit Merah Lane 1
+1435055813727453187 2021-09-07 09:42:22 +0800 <LTAtrafficnews> Heavy Traffic in CTE Tunnel (towards AYE) after Bukit Timah Rd Exit
+1435054283263594500 2021-09-07 09:36:17 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards SLE) after Outram Rd Exit. Avoid lane 1
+1435054120696639491 2021-09-07 09:35:39 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards SLE) after Outram Rd Exit with congestion till AYE Entrance. Avoid lanes 2 and 3
+1435052153127669764 2021-09-07 09:27:49 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards AYE) after Bukit Timah Rd Exit with congestion till AMK Ave 5 Exit. Avoid lanes 1 and 2
+1435051588314288131 2021-09-07 09:25:35 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards SLE) before Merchant Rd Exit with congestion till AYE Entrance. Avoid lane 3
+1435046292556640259 2021-09-07 09:04:32 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards SLE) before Merchant Rd Exit with congestion till AYE Entrance. Avoid lanes 2 and 3
+1435045872438419465 2021-09-07 09:02:52 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards SLE) before Merchant Rd Exit. Avoid lanes 2 and 3
+1435045465448275976 2021-09-07 09:01:15 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards SLE) before Merchant Rd Exit. Avoid lane 3
+1435042505007894528 2021-09-07 08:49:29 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards AYE) after Bukit Timah Rd Exit with congestion till PIE(Changi) Exit. Avoid lanes 1 and 2
+1435042365626994693 2021-09-07 08:48:56 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards AYE) after Bukit Timah Rd Exit with congestion till PIE(Jurong) Exit. Avoid lanes 1 and 2
+1435041254161534976 2021-09-07 08:44:31 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards AYE) after Bukit Timah Rd Exit. Avoid lanes 1 and 2
+1435029016793157632 2021-09-07 07:55:53 +0800 <LTAtrafficnews> Accident on BKE (towards PIE) at KJE(PIE) Exit
+1435026945121521670 2021-09-07 07:47:39 +0800 <LTAtrafficnews> Accident on KJE (towards BKE) at BKE(PIE) Exit
+1434995293494210561 2021-09-07 05:41:53 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Jalan Bahar. Avoid lanes 1, 2 and 3
+1434982103762948097 2021-09-07 04:49:28 +0800 <LTAtrafficnews> Accident on Hougang Avenue 1 near Hougang Avenue 1/Hougang Street 21 Junction
+1434978610536873986 2021-09-07 04:35:36 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Jalan Bahar. Avoid lanes 1 and 2
+1434880888190365698 2021-09-06 22:07:17 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Clementi Rd Exit. Avoid lane 1
+1434866777788272646 2021-09-06 21:11:13 +0800 <LTAtrafficnews> Accident on BKE (towards Woodlands) at Mandai Rd Exit
+1434842866736459780 2021-09-06 19:36:12 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Thomson Rd
+1434838798144135173 2021-09-06 19:20:02 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) at Jurong Town Hall Rd Exit
+1434833368898695171 2021-09-06 18:58:27 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) at Clementi Ave 6 Entrance
+1434832948667158529 2021-09-06 18:56:47 +0800 <LTAtrafficnews> Accident on SLE (towards CTE) after Lentor Ave Exit with congestion till Upper Thomson Rd Exit. Avoid lane 4
+1434832812377460739 2021-09-06 18:56:15 +0800 <LTAtrafficnews> Accident on AYE (towards MCE) after Alexandra Rd Exit
+1434831558678962181 2021-09-06 18:51:16 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Clementi Rd Exit with congestion till Buona Vista exit. Avoid lane 2
+1434830304116572164 2021-09-06 18:46:17 +0800 <LTAtrafficnews> Accident on SLE (towards CTE) after Lentor Ave Exit with congestion till Upper Thomson Rd Exit. Avoid lanes 1 and 4
+1434827628981014534 2021-09-06 18:35:39 +0800 <LTAtrafficnews> Accident on SLE (towards CTE) after Lentor Ave Exit. Avoid lanes 1 and 4
+1434827628943314951 2021-09-06 18:35:39 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Clementi Rd Exit. Avoid lane 2
+1434827492850733059 2021-09-06 18:35:06 +0800 <LTAtrafficnews> Obstacle on PIE (towards Changi Airport) after Clementi Ave 6
+1434826094880825345 2021-09-06 18:29:33 +0800 <LTAtrafficnews> Accident on MCE (towards AYE) before Central Blvd Exit. Avoid lanes 1 and 2
+1434825404699721728 2021-09-06 18:26:48 +0800 <LTAtrafficnews> Accident on MCE (towards AYE) before Central Blvd Exit. Avoid lane 5
+1434823849070059522 2021-09-06 18:20:38 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before KJE
+1434823307069583360 2021-09-06 18:18:28 +0800 <LTAtrafficnews> Accident on SLE (towards CTE) after Lentor Ave Exit. Avoid lane 1
+1434822757326331906 2021-09-06 18:16:17 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before KJE. Avoid lane 3
+1434821765729980424 2021-09-06 18:12:21 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before KJE. Avoid lanes 3 and 5
+1434820785860857858 2021-09-06 18:08:27 +0800 <LTAtrafficnews> Accident on AYE (towards MCE) after Clementi Ave 6 Exit. Avoid lane 4
+1434813939808759812 2021-09-06 17:41:15 +0800 <LTAtrafficnews> Accident on BKE (towards Woodlands) after PIE Entrance. Avoid lane 1
+1434812953035894787 2021-09-06 17:37:20 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Clementi Rd Exit. Avoid lane 1
+1434799638574354437 2021-09-06 16:44:25 +0800 <LTAtrafficnews> Obstacle on Jalan Boon Lay (towards International Road) after Enterprise Road. Avoid left lane
+1434799638503059458 2021-09-06 16:44:25 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) at Jalan Ahmad Ibrahim Entrance
+1434779801059926021 2021-09-06 15:25:36 +0800 <LTAtrafficnews> Obstacle on ECP (towards City) after East Coast Park Carpark H Exit
+1434778586519461889 2021-09-06 15:20:46 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Jalan Eunos
+1434771151331291140 2021-09-06 14:51:13 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards AYE) at Outram Rd Exit
+1434760922896027654 2021-09-06 14:10:35 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) at Kallang Way Exit
+1434760648949317633 2021-09-06 14:09:29 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Kallang Way
+1434758704075710464 2021-09-06 14:01:46 +0800 <LTAtrafficnews> Heavy Traffic on PIE (towards Tuas) before KPE Exit
+1434757992088408067 2021-09-06 13:58:56 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) before KPE Exit with congestion till Paya Lebar Rd. Avoid lane 2
+1434756998818517002 2021-09-06 13:54:59 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) before KPE Exit. Avoid lane 2
+1434752541355479042 2021-09-06 13:37:16 +0800 <LTAtrafficnews> Obstacle on AYE (towards MCE) after Pioneer Rd Exit. Avoid lane 1
+1434751840646688771 2021-09-06 13:34:29 +0800 <LTAtrafficnews> Accident on Ang Mo Kio Avenue 5 (towards Ang Mo Kio Avenue 8) after Ang Mo Kio Avenue 6. Avoid right lane
+1434735477362360322 2021-09-06 12:29:28 +0800 <LTAtrafficnews> Accident on Ang Mo Kio Avenue 5 (towards Ang Mo Kio Avenue 8) after Ang Mo Kio Avenue 6
+1434732823445848064 2021-09-06 12:18:55 +0800 <LTAtrafficnews> Obstacle on PIE (towards Tuas) before Pioneer Rd North. Avoid lanes 1 and 2
+1434706342896291843 2021-09-06 10:33:42 +0800 <LTAtrafficnews> Accident on SLE (towards BKE) after Mandai Rd Exit
+1434697246214213633 2021-09-06 09:57:33 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) after Jalan Kayu Exit with congestion till Punggol Rd Exit. Avoid lane 4
+1434695985687498754 2021-09-06 09:52:33 +0800 <LTAtrafficnews> Heavy Traffic on AYE (towards Tuas) after Jurong Port Rd Exit
+1434689803555987459 2021-09-06 09:27:59 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Jurong Port Rd Exit with congestion till Penjuru Rd Exit. Avoid lane 3
+1434689667887026179 2021-09-06 09:27:26 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) after Jalan Kayu Exit with congestion till Punggol Rd Exit. Avoid lanes 3 and 4
+1434688138492841989 2021-09-06 09:21:22 +0800 <LTAtrafficnews> Accident on KPE (towards ECP) after Tampines Rd Exit. Avoid lane 1
+1434682933491630085 2021-09-06 09:00:41 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Jurong Port Rd Exit. Avoid lane 3
+1434682933487357952 2021-09-06 09:00:41 +0800 <LTAtrafficnews> Heavy Traffic on AYE (towards Tuas) before Benoi Rd Exit
+1434681128783204354 2021-09-06 08:53:30 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Jurong Port Rd Exit. Avoid lane 4
+1434680279122075648 2021-09-06 08:50:08 +0800 <LTAtrafficnews> Obstacle on PIE (towards Changi Airport) after Paya Lebar Rd. Avoid lane 3
+1434679009380487172 2021-09-06 08:45:05 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) after Jalan Kayu Exit with congestion till Punggol Rd Exit. Avoid lanes 1, 3 and 4
+1434678731608494087 2021-09-06 08:43:59 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) after Jalan Kayu Exit with congestion till Jalan Kayu Exit. Avoid lanes 1, 3 and 4
+1434678597814390792 2021-09-06 08:43:27 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) after Jalan Kayu Exit with congestion till Jalan Kayu Exit. Avoid lanes 1 and 2
+1434678314535305218 2021-09-06 08:42:19 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) before Jalan Bahar. Avoid lane 4
+1434678314531115013 2021-09-06 08:42:19 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) after Jalan Kayu Exit. Avoid lanes 1 and 2
+1434676214392778754 2021-09-06 08:33:59 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) after Jalan Kayu Exit. Avoid lanes 3 and 4
+1434674820470345731 2021-09-06 08:28:26 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) after Jalan Kayu Exit. Avoid lane 4
+1434674673044787204 2021-09-06 08:27:51 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) after Jalan Kayu Exit
+1434672307197267974 2021-09-06 08:18:27 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) before Benoi Rd Exit with congestion till Pioneer Rd Exit. Avoid lane 2
+1434667820931969029 2021-09-06 08:00:38 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) after Jurong Port Rd Exit
+1434666978350751748 2021-09-06 07:57:17 +0800 <LTAtrafficnews> Accident on AYE (towards Tuas) before Benoi Rd Exit. Avoid lane 2
+1434663884997029891 2021-09-06 07:44:59 +0800 <LTAtrafficnews> Heavy Traffic on BKE (towards PIE) after Mandai Rd Exit
+1434656359438372868 2021-09-06 07:15:05 +0800 <LTAtrafficnews> Accident on BKE (towards PIE) after Mandai Rd Exit with congestion till Mandai Rd Exit. Avoid lane 4
+1434654273690685444 2021-09-06 07:06:48 +0800 <LTAtrafficnews> Accident on BKE (towards PIE) after Mandai Rd Exit. Avoid lane 4
+1434654135769448448 2021-09-06 07:06:15 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after BKE. Avoid lane 1
+1434653007044509701 2021-09-06 07:01:46 +0800 <LTAtrafficnews> Accident on BKE (towards PIE) after Mandai Rd Exit. Avoid lane 5
+1434548417452150787 2021-09-06 00:06:09 +0800 <LTAtrafficnews> Road Closure on KPE (towards TPE) between ECP Entrance and Nicoll Highway Entrance
+1434548127936102403 2021-09-06 00:05:00 +0800 <LTAtrafficnews> Road Closure on KPE (towards ECP) between PIE(Tuas) Exit and ECP Exit
+1434547019658366976 2021-09-06 00:00:36 +0800 <LTAtrafficnews> Road Closure on MCE (towards KPE) after ECP (Changi) Exit
+1434514203545530371 2021-09-05 21:50:12 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after Yio Chu Kang Rd Exit with congestion till AMK Ave 5 Exit. Avoid lane 4
+1434512547995029509 2021-09-05 21:43:38 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after Yio Chu Kang Rd Exit with congestion till AMK Ave 5 Exit. Avoid lanes 3 and 4
+1434511434822545409 2021-09-05 21:39:12 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after Yio Chu Kang Rd Exit. Avoid lanes 3 and 4
+1434510182680121348 2021-09-05 21:34:14 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after Yio Chu Kang Rd Exit. Avoid lane 4
+1434504086062133250 2021-09-05 21:10:00 +0800 <LTAtrafficnews> Obstacle on KJE (towards BKE) before Sungei Tengah Exit. Avoid lane 4
+1434498003922927616 2021-09-05 20:45:50 +0800 <LTAtrafficnews> Obstacle on KJE (towards BKE) before Sungei Tengah Exit
+1434493592496709639 2021-09-05 20:28:18 +0800 <LTAtrafficnews> Obstacle on KJE (towards BKE) before Sungei Tengah Exit. Avoid lanes 2 and 3
+1434491932642881536 2021-09-05 20:21:42 +0800 <LTAtrafficnews> Obstacle on KJE (towards BKE) before Sungei Tengah Exit. Avoid lane 2
+1434456578145415178 2021-09-05 18:01:13 +0800 <LTAtrafficnews> Accident on Cross Street near Cecil Street/Cross Street Junction
+1434440403902558212 2021-09-05 16:56:57 +0800 <LTAtrafficnews> Accident on KPE (towards ECP) at Airport Road Exit
+1434438191507935233 2021-09-05 16:48:10 +0800 <LTAtrafficnews> Accident on KPE (towards Bartley Road East) after KPE. Avoid right lane
+1434433605359464450 2021-09-05 16:29:56 +0800 <LTAtrafficnews> Accident in CTE Tunnel (towards SLE) after Outram Rd Exit. Avoid lane 3
+1434372265395716096 2021-09-05 12:26:12 +0800 <LTAtrafficnews> Obstacle on KJE (towards BKE) at Woodlands Rd Exit
+1434371563646636032 2021-09-05 12:23:24 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) before KPE Exit
+1434371009440743425 2021-09-05 12:21:12 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) before KPE Exit. Avoid lane 2
+1434337315053129731 2021-09-05 10:07:19 +0800 <LTAtrafficnews> Accident on Raffles Boulevard near Bras Basah Road/Nicoll Highway Junction
+1434325003844022272 2021-09-05 09:18:24 +0800 <LTAtrafficnews> Obstacle on PIE (towards Changi Airport) before Lornie Rd
+1434320950439206915 2021-09-05 09:02:17 +0800 <LTAtrafficnews> Accident on AYE (towards MCE) at Clementi Ave 6 Exit
+1434315209401794560 2021-09-05 08:39:28 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Lornie Rd. Avoid lanes 1 and 2
+1434309058236805124 2021-09-05 08:15:02 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Lornie Rd. Avoid lane 1
+1434241805189468160 2021-09-05 03:47:47 +0800 <LTAtrafficnews> Accident on SLE (towards BKE) at Mandai Rd Exit
+1434219906732412928 2021-09-05 02:20:46 +0800 <LTAtrafficnews> Obstacle on PIE (towards Changi Airport) before Tampines St 31. Avoid lane 1
+1434210112005046272 2021-09-05 01:41:51 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Bukit Timah Rd exit
+1434176517701922822 2021-09-04 23:28:22 +0800 <LTAtrafficnews> Accident on KPE (towards ECP) before Tampines Rd Exit. Avoid lanes 1 and 2
+1434162541261824006 2021-09-04 22:32:49 +0800 <LTAtrafficnews> Accident on KPE (towards ECP) before Tampines Rd Exit. Avoid lanes 1, 2 and 3
+1434133798942171139 2021-09-04 20:38:37 +0800 <LTAtrafficnews> Heavy Traffic on PIE (towards Changi Airport) after Stevens Rd Exit
+1434130300301242370 2021-09-04 20:24:43 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) before Punggol Rd Exit with congestion till KPE(MCE) Exit. Avoid lane 3
+1434128775353044994 2021-09-04 20:18:39 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) before Punggol Rd Exit. Avoid lane 3
+1434125141324173318 2021-09-04 20:04:13 +0800 <LTAtrafficnews> Accident on SLE (towards BKE) after TPE Exit. Avoid lane 1
+1434124869403176969 2021-09-04 20:03:08 +0800 <LTAtrafficnews> Accident on SLE (towards CTE) after TPE Exit. Avoid lane 1
+1434121488320196616 2021-09-04 19:49:42 +0800 <LTAtrafficnews> Obstacle on CTE (towards SLE) after Braddell Rd Exit. Avoid lane 5
+1434118966943776775 2021-09-04 19:39:41 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Stevens Rd Exit with congestion till Lornie Rd. Avoid lane 2
+1434118831039942658 2021-09-04 19:39:08 +0800 <LTAtrafficnews> Obstacle on BKE (towards Woodlands) before Woodlands Rd Exit. Avoid lane 4
+1434117831679885316 2021-09-04 19:35:10 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Stevens Rd Exit. Avoid lane 2
+1434113484283736068 2021-09-04 19:17:53 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) before Bukit Timah Rd Exit
+1434113076752646145 2021-09-04 19:16:16 +0800 <LTAtrafficnews> Obstacle on BKE (towards PIE) at Mandai Rd Entrance
+1434112645343297542 2021-09-04 19:14:33 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) before Bukit Timah Rd Exit. Avoid lane 4
+1434111113814183938 2021-09-04 19:08:28 +0800 <LTAtrafficnews> Accident on BKE (towards PIE) at Mandai Rd Entrance
+1434107883352846344 2021-09-04 18:55:38 +0800 <LTAtrafficnews> Obstacle on Woodlands Road (towards Woodlands Ind Park D St 2) after Woodlands Centre Road
+1434106624738615296 2021-09-04 18:50:38 +0800 <LTAtrafficnews> Accident on KPE (towards TPE) after Sims Ave Entrance. Avoid lane 3
+1434105372067852289 2021-09-04 18:45:39 +0800 <LTAtrafficnews> Obstacle on AYE (towards Tuas) before Jurong Port Rd Exit
+1434102697062326272 2021-09-04 18:35:01 +0800 <LTAtrafficnews> Obstacle on BKE (towards Woodlands) before Woodlands Rd Exit. Avoid lanes 2 and 3
+1434101034557657090 2021-09-04 18:28:25 +0800 <LTAtrafficnews> Accident on Sengkang East Road near Anchorvale Street/Compassvale Street Junction
+1434093484789567488 2021-09-04 17:58:25 +0800 <LTAtrafficnews> Accident on Bendemeer Road (towards City) after Whampoa East. Avoid left lane
+1434075017508130821 2021-09-04 16:45:02 +0800 <LTAtrafficnews> Obstacle on BKE (towards Woodlands) after Mandai Rd Exit. Avoid lane 3
+1434073752476680192 2021-09-04 16:40:01 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) before CTE Exit
+1434073618317672451 2021-09-04 16:39:29 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Lornie Rd. Avoid lane 1
+1434050980853673989 2021-09-04 15:09:31 +0800 <LTAtrafficnews> Obstacle on KJE (towards BKE) after Choa Chu Kang Way Exit. Avoid lane 4
+1434050709956141057 2021-09-04 15:08:27 +0800 <LTAtrafficnews> Obstacle on KJE (towards BKE) after PIE Entrance. Avoid lane 1
+1434050156282847239 2021-09-04 15:06:15 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Lornie Rd
+1434042166767017986 2021-09-04 14:34:30 +0800 <LTAtrafficnews> Accident on AYE (towards MCE) after Clementi Ave 2 Exit with congestion till Clementi Ave 6 Exit
+1434041895273992197 2021-09-04 14:33:25 +0800 <LTAtrafficnews> Accident on AYE (towards MCE) after Clementi Ave 2 Exit with congestion till Clementi Ave 6 Exit. Avoid lane 1
+1434037410774458374 2021-09-04 14:15:36 +0800 <LTAtrafficnews> Accident on AYE (towards MCE) after Clementi Ave 2 Exit. Avoid lane 1
+1434034195911741440 2021-09-04 14:02:50 +0800 <LTAtrafficnews> Accident on AYE (towards MCE) after Clementi Ave 2 Exit. Avoid lane 4
+1434026985043357701 2021-09-04 13:34:10 +0800 <LTAtrafficnews> Obstacle on KJE (towards BKE) after Choa Chu Kang Way Exit. Avoid lane 3
+1434011961981763591 2021-09-04 12:34:29 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Lornie Rd. Avoid lane 1
+1434002603424186373 2021-09-04 11:57:17 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) before KPE Exit. Avoid lane 1
+1433980491632234496 2021-09-04 10:29:25 +0800 <LTAtrafficnews> Obstacle on TPE (towards SLE) at SLE(BKE) Exit
+1433975604525690881 2021-09-04 10:10:00 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) after AMK Ave 5 Exit. Avoid lane 1
+1433962932044394498 2021-09-04 09:19:39 +0800 <LTAtrafficnews> Accident on MCE (towards ECP) after Central Blvd Exit. Avoid lane 5
+1433958203918749700 2021-09-04 09:00:52 +0800 <LTAtrafficnews> Obstacle on Jalan Buroh (towards City) after Penjuru Road. Avoid right lane
+1433954069052198914 2021-09-04 08:44:26 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) at Toa Payoh Entrance
+1433912283873230850 2021-09-04 05:58:23 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after Moulmein Rd Exit. Avoid lanes 2 and 3
+1433876106344423425 2021-09-04 03:34:38 +0800 <LTAtrafficnews> Accident on TPE (towards SLE) at Punggol Rd Exit
+1433868239294009344 2021-09-04 03:03:22 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) after Stevens Rd Exit. Avoid lane 3
+1433848082890780677 2021-09-04 01:43:17 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Paya Lebar Rd. Avoid lane 3
+1433845184832237568 2021-09-04 01:31:46 +0800 <LTAtrafficnews> Accident on SLE (towards BKE) after TPE Entrance
+1433823081806524418 2021-09-04 00:03:56 +0800 <LTAtrafficnews> Accident on Seletar Aerospace Drive towards Seletar West Link
+1433809440843571203 2021-09-03 23:09:44 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) after PIE(Changi) Exit with congestion till PIE(Changi) Exit. Avoid lanes 3 and 4
+1433807191073378312 2021-09-03 23:00:47 +0800 <LTAtrafficnews> Accident on SLE (towards CTE) after TPE Exit
+1433803738532106247 2021-09-03 22:47:04 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after Braddell Rd Exit with congestion till PIE(Changi) Exit. Avoid lanes 4 and 5
+1433802059967393793 2021-09-03 22:40:24 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) after PIE(Changi) Exit. Avoid lane 4
+1433801789120212995 2021-09-03 22:39:19 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) after PIE(Changi) Exit. Avoid lanes 3 and 4
+1433801518965149701 2021-09-03 22:38:15 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) after PIE(Changi) Exit
+1433799561240190977 2021-09-03 22:30:28 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after Braddell Rd Exit with congestion till Braddell Rd Exit. Avoid lanes 4 and 5
+1433798041278894081 2021-09-03 22:24:26 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after Braddell Rd Exit. Avoid lanes 4 and 5
+1433770803821043713 2021-09-03 20:36:12 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) at Toa Payoh Entrance
+1433758499872247808 2021-09-03 19:47:18 +0800 <LTAtrafficnews> Accident on AYE (towards MCE) after Alexandra Rd Exit. Avoid lane 3
+1433756815372685315 2021-09-03 19:40:37 +0800 <LTAtrafficnews> Accident on BKE (towards Woodlands) before Mandai Rd Exit with congestion till KJE Exit. Avoid lane 1
+1433753034807382016 2021-09-03 19:25:35 +0800 <LTAtrafficnews> Accident on BKE (towards Woodlands) before Mandai Rd Exit. Avoid lane 1
+1433743536499744777 2021-09-03 18:47:51 +0800 <LTAtrafficnews> Heavy Traffic on PIE (towards Changi Airport) after Bukit Timah Rd exit
+1433741872640380928 2021-09-03 18:41:14 +0800 <LTAtrafficnews> Accident on PIE (towards Tuas) at Upper Changi Rd East(South) Entrance
+1433736265946439684 2021-09-03 18:18:57 +0800 <LTAtrafficnews> Obstacle on PIE (towards Tuas) before Paya Lebar Rd. Avoid lane 4
+1433735009387438085 2021-09-03 18:13:58 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) before Jurong Town Hall Rd. Avoid lane 3
+1433733878884175876 2021-09-03 18:09:28 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Bukit Timah Rd exit with congestion till Bukit Batok Rd. Avoid lane 1
+1433732208393478153 2021-09-03 18:02:50 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Bukit Timah Rd exit with congestion till Toh Guan Rd Exit. Avoid lane 1
+1433726900124356610 2021-09-03 17:41:45 +0800 <LTAtrafficnews> Heavy Traffic on AYE (towards MCE) before Clementi Ave 6 Exit
+1433724940922941440 2021-09-03 17:33:57 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Bukit Timah Rd exit with congestion till Bukit Batok East Ave 3. Avoid lane 1
+1433721737246494722 2021-09-03 17:21:14 +0800 <LTAtrafficnews> Accident on AYE (towards MCE) before Clementi Ave 6 Exit with congestion till Yuan Ching. Avoid lane 1
+1433721031458361347 2021-09-03 17:18:25 +0800 <LTAtrafficnews> Accident on PIE (towards Changi Airport) after Bukit Timah Rd exit. Avoid lane 1
+1433719221993623554 2021-09-03 17:11:14 +0800 <LTAtrafficnews> Accident on AYE (towards MCE) before Clementi Ave 6 Exit. Avoid lane 1
+1433716973859266564 2021-09-03 17:02:18 +0800 <LTAtrafficnews> Accident on BKE (towards Woodlands) after Mandai Rd Entrance
+1433713203398070279 2021-09-03 16:47:19 +0800 <LTAtrafficnews> Accident on BKE (towards Woodlands) after Mandai Rd Entrance. Avoid lane 3
+1433702006800072713 2021-09-03 16:02:49 +0800 <LTAtrafficnews> Obstacle on KJE (towards PIE) before Senja Rd Entrance. Avoid lane 3
+1433685241638518787 2021-09-03 14:56:12 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) before PIE(Changi) Exit with congestion till Moulmein Rd Exit. Avoid lane 3
+1433684672660131842 2021-09-03 14:53:57 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) before PIE(Changi) Exit. Avoid lane 3
+1433683276078587911 2021-09-03 14:48:24 +0800 <LTAtrafficnews> Accident on SLE (towards CTE) at Yio Chu Kang Rd Exit
+1433657441221181442 2021-09-03 13:05:44 +0800 <LTAtrafficnews> Accident on CTE (towards AYE) before PIE(Changi) Exit
+1433639636920778754 2021-09-03 11:54:59 +0800 <LTAtrafficnews> Accident on CTE (towards SLE) after AYE Entrance with congestion till AYE Entrance. Avoid lane 3
